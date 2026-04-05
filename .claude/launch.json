@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "v2-cards",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export PATH=/opt/homebrew/bin:$PATH && cd /Users/abishaigeorgegosula/rowIQ/v2-athlete-cards && npx vite --host --port 4176"],
+      "port": 4176
+    },
+    {
+      "name": "dev",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export NVM_DIR=\"$HOME/.nvm\" && . \"$NVM_DIR/nvm.sh\" && cd /Users/abishaigeorgegosula/rowIQ && npx vite --host --port 4173"],
+      "port": 4173
+    },
+    {
+      "name": "erg-dashboard",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export NVM_DIR=\"$HOME/.nvm\" && . \"$NVM_DIR/nvm.sh\" && cd /Users/abishaigeorgegosula/rowIQ/erg-dashboard && npx vite preview --host --port 4175"],
+      "port": 4175
+    },
+    {
+      "name": "v3-timeline",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export NVM_DIR=\"$HOME/.nvm\" && . \"$NVM_DIR/nvm.sh\" && cd /Users/abishaigeorgegosula/rowIQ/v3-timeline-explorer && npx vite --host --port 4177"],
+      "port": 4177
+    }
+  ]
+}

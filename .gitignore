@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.*
+.vite/
+erg-showcase/public/v1
+erg-showcase/public/v2
+erg-showcase/public/v3
