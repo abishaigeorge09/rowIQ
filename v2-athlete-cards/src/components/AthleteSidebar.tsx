@@ -30,11 +30,12 @@ export default function AthleteSidebar() {
 
       {/* Panel */}
       <div
-        className="fixed top-0 right-0 bottom-0 z-50 w-[420px] max-w-[90vw] overflow-y-auto"
+        className="fixed top-0 right-0 bottom-0 z-50 w-full sm:w-[420px] overflow-y-auto"
         style={{
           background: '#0F172A',
           borderLeft: '1px solid rgba(37,99,235,0.2)',
           boxShadow: '-20px 0 60px rgba(0,0,0,0.5)',
+          WebkitOverflowScrolling: 'touch',
         }}
       >
         {/* Header */}

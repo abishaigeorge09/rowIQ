@@ -5,7 +5,7 @@ import { getCategoryColor, getCategoryLabel } from '@/utils/formatters'
 
 const TABS: { id: Tab; label: string }[] = [
   { id: 'timeline', label: 'Timeline' },
-  { id: 'team', label: 'Team Overview' },
+  { id: 'team', label: 'Team' },
 ]
 
 export default function TopBar() {
@@ -14,7 +14,7 @@ export default function TopBar() {
 
   const fmtDate = (iso: string) => {
     const d = new Date(iso + 'T00:00:00')
-    return d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
   }
 
   const catColor = session ? getCategoryColor(session.workoutCategory) : '#2563EB'
@@ -23,12 +23,11 @@ export default function TopBar() {
     <header className="sticky top-0 z-50 shrink-0">
       {/* Main bar */}
       <div
-        className="h-16 flex items-center gap-3"
+        className="h-14 sm:h-16 flex items-center gap-2 sm:gap-3 px-3 sm:px-6"
         style={{
-          paddingLeft: 24,
-          paddingRight: 24,
           background: 'linear-gradient(180deg, rgba(10,15,30,0.98) 0%, rgba(10,15,30,0.95) 100%)',
           backdropFilter: 'blur(24px)',
+          WebkitBackdropFilter: 'blur(24px)',
           borderBottom: '1px solid rgba(37,99,235,0.12)',
         }}
       >
@@ -43,20 +42,20 @@ export default function TopBar() {
         >
           <ArrowLeft size={16} />
         </a>
-        <h1 className="text-2xl font-bold shrink-0" style={{ fontFamily: 'var(--font-display)' }}>
+        <h1 className="text-lg sm:text-2xl font-bold shrink-0" style={{ fontFamily: 'var(--font-display)' }}>
           <span className="text-text">ROW</span><span className="text-primary">IQ</span>
         </h1>
 
         {/* Divider */}
-        <div className="w-px h-7 shrink-0" style={{ background: 'rgba(37,99,235,0.2)' }} />
+        <div className="w-px h-7 shrink-0 hidden sm:block" style={{ background: 'rgba(37,99,235,0.2)' }} />
 
         {/* Tab Navigation */}
-        <nav className="flex items-center gap-1 shrink-0">
+        <nav className="flex items-center gap-0.5 sm:gap-1 shrink-0">
           {TABS.map(t => (
             <button
               key={t.id}
               onClick={() => setActiveTab(t.id)}
-              className="relative px-4 py-2 text-sm font-medium rounded-lg transition-all"
+              className="relative px-2 sm:px-4 py-1.5 sm:py-2 text-xs sm:text-sm font-medium rounded-lg transition-all"
               style={{
                 background: activeTab === t.id ? 'rgba(37,99,235,0.15)' : 'transparent',
                 color: activeTab === t.id ? '#F8FAFC' : '#64748B',
@@ -70,8 +69,8 @@ export default function TopBar() {
           ))}
         </nav>
 
-        {/* Center: Selected Session Info */}
-        <div className="flex-1 flex items-center justify-center min-w-0 overflow-hidden">
+        {/* Center: Selected Session Info — hidden on small screens */}
+        <div className="flex-1 hidden md:flex items-center justify-center min-w-0 overflow-hidden">
           {session && !compareMode && (
             <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl max-w-full"
               style={{ background: 'rgba(27,58,107,0.15)', border: '1px solid rgba(37,99,235,0.12)' }}>
@@ -98,9 +97,12 @@ export default function TopBar() {
           )}
         </div>
 
+        {/* Spacer on mobile */}
+        <div className="flex-1 md:hidden" />
+
         {/* Right section */}
-        <div className="flex items-center gap-3 shrink-0">
-          <div className="flex items-center gap-1.5 px-3 py-1 rounded-full text-xs text-text-muted"
+        <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+          <div className="hidden sm:flex items-center gap-1.5 px-3 py-1 rounded-full text-xs text-text-muted"
             style={{ background: 'rgba(37,99,235,0.06)', border: '1px solid rgba(37,99,235,0.1)' }}>
             <span className="font-mono font-semibold text-text-secondary">28</span>
             <span>Sessions</span>
@@ -108,7 +110,7 @@ export default function TopBar() {
 
           <button
             onClick={toggleCompareMode}
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all"
+            className="flex items-center gap-1 sm:gap-2 px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg text-xs sm:text-sm font-medium transition-all"
             style={{
               background: compareMode
                 ? 'linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%)'
@@ -119,7 +121,7 @@ export default function TopBar() {
             }}
           >
             {compareMode ? <X size={14} /> : <GitCompare size={14} />}
-            {compareMode ? 'Exit Compare' : 'Compare'}
+            <span className="hidden sm:inline">{compareMode ? 'Exit Compare' : 'Compare'}</span>
           </button>
         </div>
       </div>

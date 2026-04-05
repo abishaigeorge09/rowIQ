@@ -43,14 +43,14 @@ export default function SessionHeatmap({ onAthleteClick }) {
       <div className="overflow-x-auto">
         <div>
           {/* Column headers — session dates */}
-          <div style={{ display: 'flex', marginLeft: '90px', marginBottom: '4px' }}>
+          <div className="flex ml-[60px] sm:ml-[90px] mb-1">
             {ergSessions.map((s, i) => (
               <div
                 key={s.date}
                 className="text-center font-mono"
-                style={{ flex: 1, fontSize: '8px', color: '#64748B' }}
+                style={{ flex: 1, fontSize: '7px', color: '#64748B' }}
               >
-                {i % 3 === 0 ? new Date(s.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' }) : ''}
+                {i % 4 === 0 ? new Date(s.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' }) : ''}
               </div>
             ))}
           </div>
@@ -59,8 +59,8 @@ export default function SessionHeatmap({ onAthleteClick }) {
           {topAthletes.map((a) => (
             <div key={a.name} className="flex items-center" style={{ marginBottom: '2px' }}>
               <div
-                className="text-xs truncate pr-2 cursor-pointer hover:text-white transition-colors"
-                style={{ width: '90px', flexShrink: 0, color: '#94A3B8' }}
+                className="text-[10px] sm:text-xs truncate pr-1 sm:pr-2 cursor-pointer hover:text-white transition-colors w-[60px] sm:w-[90px]"
+                style={{ flexShrink: 0, color: '#94A3B8' }}
                 onClick={() => onAthleteClick(a.name)}
               >
                 {a.name}
@@ -74,11 +74,11 @@ export default function SessionHeatmap({ onAthleteClick }) {
                     <div
                       key={s.date}
                       className="cursor-pointer hover:z-10 relative"
-                      style={{ flex: 1, height: '18px', margin: '0 1px', borderRadius: '2px', ...(isGradient ? { background: bg } : { backgroundColor: bg }) }}
+                      style={{ flex: 1, height: '22px', margin: '0 0.5px', borderRadius: '2px', minWidth: 0, ...(isGradient ? { background: bg } : { backgroundColor: bg }) }}
                       onMouseEnter={(e) => {
                         const rect = e.target.getBoundingClientRect()
                         setTooltip({
-                          x: rect.left + rect.width / 2,
+                          x: Math.min(rect.left + rect.width / 2, window.innerWidth - 100),
                           y: rect.top - 10,
                           date: s.date,
                           workout: s.workout,
@@ -100,7 +100,7 @@ export default function SessionHeatmap({ onAthleteClick }) {
           ))}
 
           {/* Legend */}
-          <div className="flex items-center gap-4 mt-3" style={{ marginLeft: '90px', fontSize: '10px', color: '#64748B' }}>
+          <div className="flex flex-wrap items-center gap-2 sm:gap-4 mt-3 ml-[60px] sm:ml-[90px]" style={{ fontSize: '10px', color: '#64748B' }}>
             <div className="flex items-center gap-1">
               <div className="w-3 h-3 rounded-[2px]" style={{ backgroundColor: '#10B981' }} />
               Top 25%

@@ -14,10 +14,10 @@ export default function App() {
   return (
     <div>
       <TopBar />
-      <main style={{ padding: '52px 32px 32px 32px' }}>
+      <main style={{ padding: '52px 12px 32px 12px' }} className="sm:!px-8">
         <SummaryCards onAthleteClick={setSelectedAthlete} />
         <TeamTimeline />
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginTop: '24px' }}>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-6 mt-4 lg:mt-6">
           <PowerRankings onAthleteClick={setSelectedAthlete} />
           <SessionHeatmap onAthleteClick={setSelectedAthlete} />
         </div>

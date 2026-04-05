@@ -57,7 +57,7 @@ function PasswordScreen({ onUnlock }) {
     <div className="min-h-screen flex items-center justify-center px-4"
       style={{ background: 'radial-gradient(ellipse at center, rgba(37,99,235,0.08) 0%, #0A0F1E 70%)' }}>
       <form onSubmit={handleSubmit}
-        className="w-full max-w-[560px] rounded-3xl p-12"
+        className="w-full max-w-[560px] rounded-3xl p-6 sm:p-12"
         style={{
           background: 'rgba(27,58,107,0.12)',
           backdropFilter: 'blur(40px)',

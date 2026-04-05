@@ -39,11 +39,12 @@ export default function AthleteSidebar() {
 
       {/* Panel */}
       <div
-        className="fixed top-0 right-0 z-50 h-full w-[420px] max-w-[90vw] overflow-y-auto"
+        className="fixed top-0 right-0 z-50 h-full w-full sm:w-[420px] overflow-y-auto"
         style={{
           backgroundColor: '#0F172A',
           borderLeft: '1px solid rgba(37,99,235,0.25)',
           boxShadow: '-8px 0 32px rgba(0,0,0,0.5)',
+          WebkitOverflowScrolling: 'touch',
         }}
       >
         {/* Sticky Header */}

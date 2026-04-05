@@ -42,7 +42,7 @@ export default function SummaryCards({ onAthleteClick }) {
   ]
 
   return (
-    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '16px', width: '100%' }}>
+    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-4 w-full">
       {cards.map((card) => (
         <div
           key={card.label}
@@ -54,7 +54,7 @@ export default function SummaryCards({ onAthleteClick }) {
             <card.icon size={16} style={{ color: card.color }} />
             <span style={{ fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.05em', color: '#64748B' }}>{card.label}</span>
           </div>
-          <div className="font-serif" style={{ fontSize: '24px', fontWeight: 'bold', color: 'white', marginBottom: '4px' }}>{card.value}</div>
+          <div className="font-serif text-lg lg:text-2xl" style={{ fontWeight: 'bold', color: 'white', marginBottom: '4px' }}>{card.value}</div>
           <div style={{ fontSize: '12px', color: '#94A3B8' }}>{card.sub}</div>
         </div>
       ))}

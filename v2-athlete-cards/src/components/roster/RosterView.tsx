@@ -47,14 +47,14 @@ export default function RosterView({ onSelectAthlete }: Props) {
     <div className="flex flex-col h-full">
       {/* Toolbar: search + filters + sort + compare */}
       <div
-        className="flex items-center gap-4 flex-wrap shrink-0"
+        className="flex items-center gap-2 sm:gap-4 flex-wrap shrink-0"
         style={{
-          padding: '0.75rem 2.5rem',
+          padding: '0.75rem 0.75rem',
           borderBottom: '1px solid rgba(37,99,235,0.08)',
         }}
       >
         {/* Search */}
-        <div className="relative" style={{ width: '16rem' }}>
+        <div className="relative w-full sm:w-64">
           <Search size={15} className="absolute top-1/2 -translate-y-1/2 text-text-muted" style={{ left: '0.75rem' }} />
           <input
             type="text"
@@ -133,7 +133,7 @@ export default function RosterView({ onSelectAthlete }: Props) {
       </div>
 
       {/* Card grid */}
-      <div className="flex-1 overflow-y-auto py-4" style={{ paddingLeft: '2.5rem', paddingRight: '2.5rem' }}>
+      <div className="flex-1 overflow-y-auto py-4 px-3 sm:px-6 lg:px-10">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
           {displayed.map(a => (
             <AthleteCard
@@ -157,7 +157,7 @@ export default function RosterView({ onSelectAthlete }: Props) {
       {/* Bottom bar */}
       <div
         className="py-2 text-center text-xs text-text-muted shrink-0"
-        style={{ paddingLeft: '2.5rem', paddingRight: '2.5rem', background: 'rgba(10,15,30,0.9)', borderTop: '1px solid rgba(37,99,235,0.1)' }}
+        style={{ paddingLeft: '0.75rem', paddingRight: '0.75rem', background: 'rgba(10,15,30,0.9)', borderTop: '1px solid rgba(37,99,235,0.1)' }}
       >
         <span className="font-medium text-text-secondary">{displayed.length}</span>
         {displayed.length !== athletes.length && ` of ${athletes.length}`} Athletes ·{' '}

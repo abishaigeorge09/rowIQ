@@ -34,12 +34,12 @@ export default function PowerRankings({ onAthleteClick }) {
   })
 
   const columns = [
-    { key: 'rank', label: '#', w: 'w-12' },
+    { key: 'rank', label: '#', w: 'w-10 lg:w-12' },
     { key: 'name', label: 'Athlete', w: 'flex-1' },
-    { key: 'avgSplit', label: 'Avg Split', w: 'w-24' },
-    { key: 'bestSplit', label: 'Best', w: 'w-20' },
-    { key: 'totalSessions', label: 'Sessions', w: 'w-20' },
-    { key: 'trendDelta', label: 'Trend', w: 'w-24' },
+    { key: 'avgSplit', label: 'Avg Split', w: 'w-20 lg:w-24' },
+    { key: 'bestSplit', label: 'Best', w: 'w-16 lg:w-20 hidden sm:table-cell' },
+    { key: 'totalSessions', label: 'Sessions', w: 'w-16 lg:w-20 hidden md:table-cell' },
+    { key: 'trendDelta', label: 'Trend', w: 'w-20 lg:w-24 hidden sm:table-cell' },
   ]
 
   const SortIcon = ({ col }) => {
@@ -79,11 +79,11 @@ export default function PowerRankings({ onAthleteClick }) {
                   onClick={() => onAthleteClick(a.name)}
                 >
                   <td className="py-2.5 px-2 font-mono text-[#64748B]">{a.rank}</td>
-                  <td className="py-2.5 px-2 font-medium text-white">{a.name}</td>
+                  <td className="py-2.5 px-2 font-medium text-white truncate max-w-[100px] lg:max-w-none">{a.name}</td>
                   <td className="py-2.5 px-2 font-mono text-white">{a.avgSplit}s</td>
-                  <td className="py-2.5 px-2 font-mono text-[#10B981]">{a.bestSplit}s</td>
-                  <td className="py-2.5 px-2 font-mono text-[#94A3B8]">{a.totalSessions}</td>
-                  <td className="py-2.5 px-2">
+                  <td className="py-2.5 px-2 font-mono text-[#10B981] hidden sm:table-cell">{a.bestSplit}s</td>
+                  <td className="py-2.5 px-2 font-mono text-[#94A3B8] hidden md:table-cell">{a.totalSessions}</td>
+                  <td className="py-2.5 px-2 hidden sm:table-cell">
                     <TrendBadge trend={a.trend} delta={a.trendDelta} sessions={a.totalSessions} />
                   </td>
                 </tr>

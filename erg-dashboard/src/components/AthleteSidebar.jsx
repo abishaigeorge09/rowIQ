@@ -88,15 +88,16 @@ export default function AthleteSidebar({ athlete, onClose }) {
       />
 
       {/* Sidebar */}
-      <div style={{
-        position: 'fixed', top: 0, right: 0, bottom: 0, width: '450px', zIndex: 50,
+      <div className="w-full sm:w-[420px] lg:w-[450px]" style={{
+        position: 'fixed', top: 0, right: 0, bottom: 0, zIndex: 50,
         background: '#0A0F1E', borderLeft: '1px solid rgba(37,99,235,0.2)', overflowY: 'auto',
+        WebkitOverflowScrolling: 'touch',
       }}>
-        <div className="p-6">
+        <div className="p-4 sm:p-6">
           {/* Header */}
           <div className="flex items-start justify-between mb-6">
             <div>
-              <h2 className="font-serif text-3xl font-bold text-white">{athlete.name}</h2>
+              <h2 className="font-serif text-2xl sm:text-3xl font-bold text-white">{athlete.name}</h2>
               <div className="flex items-center gap-3 mt-2">
                 <span className="font-mono text-sm bg-[#2563EB]/20 text-[#2563EB] border border-[#2563EB]/30 rounded-full px-2.5 py-0.5">
                   #{athlete.rank}
@@ -113,7 +114,7 @@ export default function AthleteSidebar({ athlete, onClose }) {
           </div>
 
           {/* Stats row */}
-          <div className="grid grid-cols-4 gap-3 mb-6">
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
             {[
               { label: 'Avg Split', value: athlete.avgSplit + 's' },
               { label: 'Best Split', value: athlete.bestSplit + 's', color: '#10B981' },
@@ -212,7 +213,7 @@ export default function AthleteSidebar({ athlete, onClose }) {
                     <div className="text-xs text-white">
                       {new Date(h.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
                     </div>
-                    <div className="text-[10px] text-[#64748B] truncate max-w-[140px]">{h.workout}</div>
+                    <div className="text-[10px] text-[#64748B] truncate max-w-[180px] sm:max-w-[140px]">{h.workout}</div>
                   </div>
                 </div>
                 <div className="text-right">

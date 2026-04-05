@@ -35,6 +35,10 @@ body {
   color: #CBD5E1;
   font-family: system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  overscroll-behavior: none;
 }
 
 .glass-card {
