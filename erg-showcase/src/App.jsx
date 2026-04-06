@@ -163,7 +163,7 @@ function VersionPicker({ onSignOut }) {
         </div>
 
         <p className="text-text-dim text-center mt-12" style={{ fontSize: '12px' }}>
-          Built with RowIQ · Elsheph Systems · Spring 2026
+          Built with RowIQ · Spring 2026
         </p>
       </main>
     </div>

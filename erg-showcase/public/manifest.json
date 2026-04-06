@@ -3,20 +3,25 @@
   "short_name": "RowIQ",
   "description": "Erg performance dashboards for Cal Rowing",
   "start_url": "/",
+  "id": "/",
   "display": "standalone",
   "background_color": "#0A0F1E",
   "theme_color": "#0A0F1E",
   "orientation": "any",
+  "scope": "/",
+  "categories": ["sports", "fitness"],
   "icons": [
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
