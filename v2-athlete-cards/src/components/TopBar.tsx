@@ -65,7 +65,7 @@ export default function TopBar() {
         <div className="flex items-center gap-2 sm:gap-4 shrink-0">
           {activeTab === 'athletes' && (
             <span className="text-xs text-text-muted hidden lg:block">
-              58 Athletes · 28 Sessions · Aug–Dec 2023
+              58 Athletes · 28 Sessions · Jan–Apr 2025
             </span>
           )}
           {activeTab !== 'athletes' && session && !compareMode && (

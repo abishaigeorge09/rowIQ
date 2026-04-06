@@ -73,17 +73,17 @@ export default function AthleteGrid({ session }: { session: Session }) {
   const openAthleteSidebar = useAppStore(s => s.openAthleteSidebar)
   const isTri = session.workoutCategory === 'triathlon'
 
-  const allSplits = [...session.starboard, ...session.port].filter(a => !a.dnf).map(a => a.split)
+  const allSplits = [...session.groupA, ...session.groupB].filter(a => !a.dnf).map(a => a.split)
   const best = Math.min(...allSplits)
   const worst = Math.max(...allSplits)
 
-  const renderColumn = (side: 'starboard' | 'port', athletes: AthleteSplit[], avg: number, color: string) => (
+  const renderColumn = (side: 'groupA' | 'groupB', athletes: AthleteSplit[], avg: number, color: string) => (
     <div className="flex-1 min-w-0">
       <div className="flex items-center justify-between mb-3 px-3">
         <div className="flex items-center gap-2">
           <div className="w-2 h-2 rounded-full" style={{ background: color }} />
           <h3 className="text-xs font-semibold uppercase tracking-wider text-text-muted">
-            {side === 'starboard' ? 'Starboard' : 'Port'}
+            {side === 'groupA' ? 'Group A' : 'Group B'}
           </h3>
         </div>
         {!isTri && (
@@ -109,8 +109,8 @@ export default function AthleteGrid({ session }: { session: Session }) {
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-      {renderColumn('starboard', session.starboard, session.starboardAvg, '#3B82F6')}
-      {renderColumn('port', session.port, session.portAvg, '#EF4444')}
+      {renderColumn('groupA', session.groupA, session.groupAAvg, '#3B82F6')}
+      {renderColumn('groupB', session.groupB, session.groupBAvg, '#EF4444')}
     </div>
   )
 }

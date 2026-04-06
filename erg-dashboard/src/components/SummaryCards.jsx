@@ -13,7 +13,7 @@ export default function SummaryCards({ onAthleteClick }) {
       icon: Calendar,
       label: 'Total Sessions',
       value: sessions.length.toString(),
-      sub: 'Aug 25 – Dec 3, 2023',
+      sub: 'Jan 13 – Apr 23, 2025',
       color: '#2563EB',
     },
     {

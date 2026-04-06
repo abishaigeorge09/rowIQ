@@ -48,7 +48,7 @@ export default function TopBar() {
         padding: '4px 12px',
         flexShrink: 0,
       }}>
-        28 Sessions &middot; Aug&ndash;Dec 2023
+        28 Sessions &middot; Jan&ndash;Apr 2025
       </div>
     </header>
   )

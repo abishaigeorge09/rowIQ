@@ -54,7 +54,7 @@ export default function TopBar() {
           </>
         )}
         {activeTab === 'athletes' && (
-          <span className="text-xs text-text-muted">58 Athletes · 28 Sessions · Aug–Dec 2023</span>
+          <span className="text-xs text-text-muted">58 Athletes · 28 Sessions · Jan–Apr 2025</span>
         )}
         {compareMode && (
           <span className="flex items-center gap-1.5 text-xs font-medium text-primary">

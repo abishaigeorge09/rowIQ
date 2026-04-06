@@ -35,9 +35,9 @@ export default function SessionHeader({ session }: { session: Session }) {
           <Users size={14} />
           <span className="font-medium text-text">{session.participantCount}</span> athletes
           <span className="text-text-muted mx-1">·</span>
-          {session.starboard.length} Starboard
+          {session.groupA.length} Group A
           <span className="text-text-muted mx-1">·</span>
-          {session.port.length} Port
+          {session.groupB.length} Group B
         </div>
 
         {!isTri && (

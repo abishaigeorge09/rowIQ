@@ -49,10 +49,10 @@ export default function AthleteSidebar() {
                 <Hash size={12} /> Rank {athlete.rank}
               </span>
               <span className="px-1.5 py-0.5 rounded text-[10px]" style={{
-                background: athlete.group === 'S' ? 'rgba(59,130,246,0.15)' : 'rgba(139,92,246,0.15)',
-                color: athlete.group === 'S' ? '#3B82F6' : '#8B5CF6',
+                background: athlete.group === 'A' ? 'rgba(59,130,246,0.15)' : 'rgba(139,92,246,0.15)',
+                color: athlete.group === 'A' ? '#3B82F6' : '#8B5CF6',
               }}>
-                {athlete.group === 'S' ? 'Starboard' : 'Port'}
+                {athlete.group === 'A' ? 'Group A' : 'Group B'}
               </span>
               <TrendArrow trend={athlete.trend} delta={athlete.trendDelta} />
             </div>

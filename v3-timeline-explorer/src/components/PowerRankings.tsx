@@ -140,12 +140,12 @@ export default function PowerRankings() {
               {/* Group badge */}
               <span
                 className={`relative shrink-0 px-1.5 py-0.5 rounded text-[10px] font-bold uppercase ${
-                  entry.athlete.group === 'S'
+                  entry.athlete.group === 'A'
                     ? 'bg-blue-500/20 text-blue-400'
                     : 'bg-red-500/20 text-red-400'
                 }`}
               >
-                {entry.athlete.group === 'S' ? 'Star' : 'Port'}
+                {entry.athlete.group === 'A' ? 'Grp A' : 'Group B'}
               </span>
 
               {/* Avg split */}

@@ -6,8 +6,8 @@ interface Props {
   session: Session
 }
 
-const STARBOARD_COLOR = '#3B82F6'
-const PORT_COLOR = '#EF4444'
+const GROUP_A_COLOR = '#3B82F6'
+const GROUP_B_COLOR = '#EF4444'
 
 function interpolateColor(t: number): string {
   // t: 0 = best (green), 1 = worst (red)
@@ -24,19 +24,19 @@ export default function AthleteGrid({ session }: Props) {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
       <SideColumn
-        label="STARBOARD"
-        color={STARBOARD_COLOR}
-        athletes={session.starboard}
-        avg={session.starboardAvg}
+        label="GROUP A"
+        color={GROUP_A_COLOR}
+        athletes={session.groupA}
+        avg={session.groupAAvg}
         bestSplit={session.bestSplit}
         worstSplit={session.worstSplit}
         isTriathlon={isTriathlon}
       />
       <SideColumn
-        label="PORT"
-        color={PORT_COLOR}
-        athletes={session.port}
-        avg={session.portAvg}
+        label="GROUP B"
+        color={GROUP_B_COLOR}
+        athletes={session.groupB}
+        avg={session.groupBAvg}
         bestSplit={session.bestSplit}
         worstSplit={session.worstSplit}
         isTriathlon={isTriathlon}

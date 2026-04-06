@@ -152,7 +152,7 @@ function VersionPicker({ onSignOut }) {
           Select a Dashboard Version
         </h2>
         <p className="text-text-secondary text-center mt-2" style={{ fontSize: '14px' }}>
-          Cal Rowing · Erg Performance Data · Fall 2023
+          Erg Performance Data · Spring 2025
         </p>
 
         {/* Cards */}

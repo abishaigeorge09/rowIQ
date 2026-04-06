@@ -12,8 +12,8 @@ export default function TeamAvgTimeline() {
       id: s.id,
       date: formatDateShort(s.date),
       fullDate: s.date,
-      starboardAvg: s.starboardAvg,
-      portAvg: s.portAvg,
+      groupAAvg: s.groupAAvg,
+      groupBAvg: s.groupBAvg,
       teamAvg: s.teamAvgSplit,
       category: s.workoutCategory,
       workout: s.workoutName,
@@ -69,7 +69,7 @@ export default function TeamAvgTimeline() {
             }}
             formatter={(v: any, name: any) => [
               `${formatSplit(Number(v))}s`,
-              name === 'starboardAvg' ? 'Starboard' : name === 'portAvg' ? 'Port' : 'Team',
+              name === 'groupAAvg' ? 'Group A' : name === 'groupBAvg' ? 'Group B' : 'Team',
             ]}
             labelFormatter={(_, payload) => {
               const item = payload?.[0]?.payload
@@ -78,7 +78,7 @@ export default function TeamAvgTimeline() {
           />
           <Area
             type="monotone"
-            dataKey="starboardAvg"
+            dataKey="groupAAvg"
             stroke="#3B82F6"
             strokeWidth={2}
             fill="url(#sGrad)"
@@ -87,7 +87,7 @@ export default function TeamAvgTimeline() {
           />
           <Area
             type="monotone"
-            dataKey="portAvg"
+            dataKey="groupBAvg"
             stroke="#EF4444"
             strokeWidth={2}
             fill="url(#pGrad)"
@@ -98,10 +98,10 @@ export default function TeamAvgTimeline() {
       </ResponsiveContainer>
       <div className="flex items-center justify-center gap-6 mt-2 text-xs text-text-muted">
         <span className="flex items-center gap-1.5">
-          <span className="w-3 h-0.5 rounded" style={{ background: '#3B82F6' }} /> Starboard Avg
+          <span className="w-3 h-0.5 rounded" style={{ background: '#3B82F6' }} /> Group A Avg
         </span>
         <span className="flex items-center gap-1.5">
-          <span className="w-3 h-0.5 rounded" style={{ background: '#EF4444' }} /> Port Avg
+          <span className="w-3 h-0.5 rounded" style={{ background: '#EF4444' }} /> Group B Avg
         </span>
         <span className="text-text-muted">Click any point to view session</span>
       </div>

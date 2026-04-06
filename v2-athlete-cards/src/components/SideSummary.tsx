@@ -4,8 +4,8 @@ import { formatSplit } from '@/utils/formatters'
 export default function SideSummary({ session }: { session: Session }) {
   if (session.workoutCategory === 'triathlon') return null
 
-  const diff = Math.abs(session.starboardAvg - session.portAvg)
-  const winner = session.starboardAvg < session.portAvg ? 'Starboard' : session.portAvg < session.starboardAvg ? 'Port' : null
+  const diff = Math.abs(session.groupAAvg - session.groupBAvg)
+  const winner = session.groupAAvg < session.groupBAvg ? 'Group A' : session.groupBAvg < session.groupAAvg ? 'Group B' : null
 
   return (
     <div
@@ -16,21 +16,21 @@ export default function SideSummary({ session }: { session: Session }) {
       }}
     >
       <h3 className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-4">
-        Starboard vs Port
+        Group A vs Group B
       </h3>
 
       <div className="flex items-center gap-4 mb-4">
         <div className="flex-1 text-center">
-          <div className="text-[10px] uppercase tracking-wider text-text-muted mb-1">Starboard</div>
+          <div className="text-[10px] uppercase tracking-wider text-text-muted mb-1">Group A</div>
           <div className="font-mono text-lg font-bold" style={{ color: '#3B82F6' }}>
-            {formatSplit(session.starboardAvg)}s
+            {formatSplit(session.groupAAvg)}s
           </div>
         </div>
         <div className="text-text-muted text-xs">vs</div>
         <div className="flex-1 text-center">
           <div className="text-[10px] uppercase tracking-wider text-text-muted mb-1">Port</div>
           <div className="font-mono text-lg font-bold" style={{ color: '#EF4444' }}>
-            {formatSplit(session.portAvg)}s
+            {formatSplit(session.groupBAvg)}s
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@ export default function SideSummary({ session }: { session: Session }) {
         <div
           className="h-full rounded-l-full transition-all"
           style={{
-            width: `${(session.portAvg / (session.starboardAvg + session.portAvg)) * 100}%`,
+            width: `${(session.groupBAvg / (session.groupAAvg + session.groupBAvg)) * 100}%`,
             background: '#3B82F6',
             opacity: 0.6,
           }}

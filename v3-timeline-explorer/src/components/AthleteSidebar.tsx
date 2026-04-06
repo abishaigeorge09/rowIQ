@@ -75,12 +75,12 @@ export default function AthleteSidebar() {
             </span>
             <span
               className={`px-2 py-0.5 rounded text-[10px] font-bold uppercase ${
-                athlete.group === 'S'
+                athlete.group === 'A'
                   ? 'bg-blue-500/20 text-blue-400'
                   : 'bg-red-500/20 text-red-400'
               }`}
             >
-              {athlete.group === 'S' ? 'Starboard' : 'Port'}
+              {athlete.group === 'A' ? 'Group A' : 'Group B'}
             </span>
             <TrendArrow trend={athlete.trend} delta={athlete.trendDelta} />
           </div>

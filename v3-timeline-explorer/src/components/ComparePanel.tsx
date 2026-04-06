@@ -14,7 +14,7 @@ export default function ComparePanel() {
 
   const allNames = useMemo(() => {
     const set = new Set<string>()
-    for (const s of compared) for (const a of [...s.starboard, ...s.port]) if (!a.dnf) set.add(a.name)
+    for (const s of compared) for (const a of [...s.groupA, ...s.groupB]) if (!a.dnf) set.add(a.name)
     return Array.from(set).sort()
   }, [compared])
 
@@ -22,7 +22,7 @@ export default function ComparePanel() {
     const map = new Map<string, Map<string, number>>()
     for (const s of compared) {
       const m = new Map<string, number>()
-      for (const a of [...s.starboard, ...s.port]) if (!a.dnf) m.set(a.name, a.split)
+      for (const a of [...s.groupA, ...s.groupB]) if (!a.dnf) m.set(a.name, a.split)
       map.set(s.id, m)
     }
     return map

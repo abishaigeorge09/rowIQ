@@ -47,7 +47,7 @@ export default function ProfileView({ athleteId, onBack }: Props) {
             {athlete.name}
           </h2>
           <span className="text-xs font-bold px-2 py-1 rounded-md bg-primary/20 text-primary">
-            {athlete.group === 'S' ? 'Starboard' : 'Port'}
+            {athlete.group === 'A' ? 'Group A' : 'Group B'}
           </span>
         </div>
         <div className="flex items-center gap-3 mt-1.5">

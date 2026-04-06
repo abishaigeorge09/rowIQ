@@ -1,7 +1,7 @@
 {
   "name": "RowIQ — Erg Performance Visualizer",
   "short_name": "RowIQ",
-  "description": "Erg performance dashboards for Cal Rowing",
+  "description": "Erg performance dashboards",
   "start_url": "/",
   "id": "/",
   "display": "standalone",

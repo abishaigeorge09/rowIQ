@@ -93,7 +93,7 @@ export default function RosterView({ onSelectAthlete }: Props) {
       >
         <span className="font-medium text-text-secondary">{athletes.length}</span> Athletes ·{' '}
         <span className="font-medium text-text-secondary">28</span> Sessions ·{' '}
-        Aug–Dec 2023 · Team Avg:{' '}
+        Jan–Apr 2025 · Team Avg:{' '}
         <span className="font-medium text-text-secondary" style={{ fontFamily: 'var(--font-mono)' }}>
           {teamAvgSplit}s
         </span>

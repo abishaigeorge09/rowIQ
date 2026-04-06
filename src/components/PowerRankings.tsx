@@ -97,7 +97,7 @@ export default function PowerRankings() {
                 className="absolute inset-0 rounded-lg transition-all"
                 style={{
                   width: `${barPct}%`,
-                  background: a.group === 'S' ? '#3B82F6' : '#8B5CF6',
+                  background: a.group === 'A' ? '#3B82F6' : '#8B5CF6',
                   opacity: 0.08,
                 }}
               />
@@ -111,10 +111,10 @@ export default function PowerRankings() {
               </span>
 
               <span className="text-[10px] px-1.5 py-0.5 rounded relative z-10" style={{
-                background: a.group === 'S' ? 'rgba(59,130,246,0.15)' : 'rgba(139,92,246,0.15)',
-                color: a.group === 'S' ? '#3B82F6' : '#8B5CF6',
+                background: a.group === 'A' ? 'rgba(59,130,246,0.15)' : 'rgba(139,92,246,0.15)',
+                color: a.group === 'A' ? '#3B82F6' : '#8B5CF6',
               }}>
-                {a.group === 'S' ? 'Star' : 'Port'}
+                {a.group === 'A' ? 'Grp A' : 'Group B'}
               </span>
 
               <span className="font-mono text-sm font-medium text-text w-14 text-right shrink-0 relative z-10">

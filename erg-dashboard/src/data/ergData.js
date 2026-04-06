@@ -1,1072 +1,1072 @@
-// Auto-generated from Row IQ Dummy Erg Scores.xlsx
+// Auto-generated sample erg data
 // Do not edit manually — run scripts/parse_erg_data.py to regenerate
 
 export const sessions = [
   {
-    "date": "2023-08-25",
-    "workout": "30' 18-20 spm",
+    "date": "2025-01-13",
+    "workout": "Endurance Set A",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.7,
+        "split": 45.5,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 47.3,
+        "split": 46.8,
         "spm": 18,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 47.6,
+        "split": 47.5,
         "spm": 18,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 47.6,
+        "split": 46.8,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 47.7,
+        "split": 46.9,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 47.7,
+        "split": 46.3,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 47.9,
+        "split": 49.0,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 47.9,
+        "split": 48.4,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 48.3,
-        "spm": 18,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Magnusson",
-        "split": 48.3,
-        "spm": 20,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "De Vries",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 48.7,
-        "spm": 20,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 48.9,
-        "spm": 20,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 49.0,
-        "spm": 20,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 49.1,
-        "spm": 20,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 49.3,
-        "spm": 18,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 49.5,
-        "spm": 20,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 49.6,
-        "spm": 20,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Kwon",
-        "split": 49.7,
-        "spm": 20,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 51.4,
-        "spm": 19,
-        "rank": 47,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 51.7,
-        "spm": 20,
-        "rank": 49,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 45.6,
-        "spm": 20,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 47.7,
-        "spm": 18,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 48.2,
-        "spm": 18,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 48.3,
-        "spm": 18,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Santos",
-        "split": 48.6,
-        "spm": 18,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 48.8,
-        "spm": 20,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
-        "split": 48.9,
-        "spm": 18,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 48.9,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 48.9,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 49.0,
-        "spm": 19,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 49.2,
-        "spm": 20,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 49.3,
-        "spm": 20,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 49.4,
-        "spm": 18,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Andersen",
-        "split": 49.8,
-        "spm": 18,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 49.8,
-        "spm": 20,
-        "rank": 41,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 49.9,
-        "spm": 19,
-        "rank": 42,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 50.3,
-        "spm": 18,
-        "rank": 43,
-        "dnf": false
-      },
-      {
-        "name": "Nolan",
-        "split": 50.6,
-        "spm": 20,
-        "rank": 44,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 50.7,
-        "spm": 20,
-        "rank": 45,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 51.3,
-        "spm": 18,
-        "rank": 46,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 51.6,
-        "spm": 18,
-        "rank": 48,
-        "dnf": false
-      },
-      {
-        "name": "Ruiz",
-        "split": 53.2,
-        "spm": 20,
-        "rank": 50,
-        "dnf": false
-      },
-      {
-        "name": "O'Brien",
-        "split": 53.7,
-        "spm": 20,
-        "rank": 51,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 49.0,
-    "bestSplit": 44.7,
-    "bestAthlete": "Chen",
-    "participantCount": 51
-  },
-  {
-    "date": "2023-08-28",
-    "workout": "3x15' 3' rest",
-    "category": "steady_state",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 43.5,
-        "spm": 20,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 45.9,
-        "spm": 20,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 46.8,
-        "spm": 18,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 46.9,
-        "spm": 18,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 47.2,
-        "spm": 18,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Santos",
-        "split": 47.5,
-        "spm": 18,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 47.5,
-        "spm": 20,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "De Vries",
-        "split": 47.7,
-        "spm": 21,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 48.0,
-        "spm": 18,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 48.0,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Magnusson",
-        "split": 48.1,
-        "spm": 20,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 49.1,
-        "spm": 20,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 49.3,
-        "spm": 18,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 49.5,
-        "spm": 20,
-        "rank": 41,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 51.5,
-        "spm": 20,
-        "rank": 46,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 42.9,
-        "spm": 20,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 46.1,
-        "spm": 20,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
         "split": 47.0,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
+        "name": "Foster",
+        "split": 48.0,
+        "spm": 18,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Magnusson",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "De Vries",
+        "split": 49.3,
+        "spm": 20,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 49.5,
+        "spm": 20,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 48.9,
+        "spm": 20,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 50.0,
+        "spm": 20,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 48.8,
+        "spm": 18,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 48.0,
+        "spm": 20,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 49.4,
+        "spm": 20,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Kwon",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 51.8,
+        "spm": 19,
+        "rank": 47,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 52.7,
+        "spm": 20,
+        "rank": 49,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 46.3,
+        "spm": 20,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 47.4,
+        "spm": 18,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 49.1,
+        "spm": 20,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 49.0,
+        "spm": 18,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 47.9,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 49.7,
+        "spm": 18,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 48.1,
+        "spm": 20,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Santos",
+        "split": 47.8,
+        "spm": 18,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 47.5,
+        "spm": 20,
+        "rank": 25,
+        "dnf": false
+      },
+      {
         "name": "Duval",
+        "split": 49.8,
+        "spm": 18,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 49.8,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 47.9,
+        "spm": 20,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 50.2,
+        "spm": 19,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 50.5,
+        "spm": 20,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 50.6,
+        "spm": 18,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Andersen",
+        "split": 49.7,
+        "spm": 18,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 49.2,
+        "spm": 20,
+        "rank": 41,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 51.1,
+        "spm": 19,
+        "rank": 42,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 49.4,
+        "spm": 18,
+        "rank": 43,
+        "dnf": false
+      },
+      {
+        "name": "Nolan",
+        "split": 50.2,
+        "spm": 20,
+        "rank": 44,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 50.3,
+        "spm": 20,
+        "rank": 45,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 52.8,
+        "spm": 18,
+        "rank": 46,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 51.4,
+        "spm": 18,
+        "rank": 48,
+        "dnf": false
+      },
+      {
+        "name": "Ruiz",
+        "split": 54.0,
+        "spm": 20,
+        "rank": 50,
+        "dnf": false
+      },
+      {
+        "name": "O'Brien",
+        "split": 54.5,
+        "spm": 20,
+        "rank": 51,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 49.7,
+    "bestSplit": 45.5,
+    "bestAthlete": "Chen",
+    "participantCount": 51
+  },
+  {
+    "date": "2025-01-16",
+    "workout": "Endurance Set B",
+    "category": "steady_state",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 44.3,
+        "spm": 20,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 44.5,
+        "spm": 20,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 47.6,
+        "spm": 20,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 46.5,
+        "spm": 18,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 46.0,
+        "spm": 20,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 46.8,
+        "spm": 18,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 46.7,
+        "spm": 18,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 46.0,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Santos",
+        "split": 46.7,
+        "spm": 18,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 47.4,
+        "spm": 20,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 46.9,
+        "spm": 20,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "De Vries",
+        "split": 48.6,
+        "spm": 21,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
         "split": 47.7,
+        "spm": 18,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 47.8,
+        "spm": 20,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Magnusson",
+        "split": 46.8,
+        "spm": 20,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 49.3,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 49.6,
+        "spm": 20,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 50.1,
+        "spm": 20,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 48.8,
+        "spm": 18,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 49.3,
+        "spm": 20,
+        "rank": 41,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 51.9,
+        "spm": 20,
+        "rank": 46,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 43.6,
+        "spm": 20,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 45.1,
+        "spm": 20,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 45.2,
+        "spm": 20,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 46.5,
+        "spm": 20,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 46.5,
+        "spm": 20,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 46.7,
+        "spm": 20,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 48.6,
         "spm": 18,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 47.8,
+        "split": 46.5,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 47.9,
+        "split": 48.8,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 48.0,
+        "split": 48.8,
         "spm": 17,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 48.0,
+        "split": 49.2,
         "spm": 19,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 48.2,
+        "split": 47.3,
         "spm": 18,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.4,
+        "split": 47.4,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 48.5,
+        "split": 49.7,
         "spm": 18,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 48.8,
+        "split": 50.2,
         "spm": 18,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 48.8,
+        "split": 48.2,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 48.9,
+        "split": 49.9,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 48.9,
+        "split": 48.5,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Nakamura",
-        "split": 49.2,
+        "split": 50.0,
         "spm": 20,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Andersen",
-        "split": 49.5,
+        "split": 49.4,
         "spm": 18,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 49.5,
+        "split": 50.7,
         "spm": 20,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 50.3,
+        "split": 51.8,
         "spm": 18,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 50.9,
+        "split": 50.7,
         "spm": 18,
         "rank": 45,
         "dnf": false
       },
       {
         "name": "Ruiz",
-        "split": 51.7,
+        "split": 52.5,
         "spm": 20,
         "rank": 47,
         "dnf": false
       },
       {
         "name": "O'Brien",
-        "split": 52.0,
+        "split": 52.8,
         "spm": 21,
         "rank": 48,
         "dnf": false
       }
     ],
-    "teamAvg": 48.1,
-    "bestSplit": 42.9,
+    "teamAvg": 48.8,
+    "bestSplit": 43.7,
     "bestAthlete": "Johansson",
     "participantCount": 48
   },
   {
-    "date": "2023-09-01",
-    "workout": "2x6k 3' rest",
+    "date": "2025-01-20",
+    "workout": "Interval Set A",
     "category": "intervals",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.2,
+        "split": 45.0,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 44.4,
+        "split": 44.1,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 44.9,
+        "split": 44.4,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 45.5,
+        "split": 45.4,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 46.5,
+        "split": 45.1,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 46.8,
+        "split": 45.6,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 47.1,
+        "split": 46.8,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 47.9,
+        "split": 47.4,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Magnusson",
-        "split": 47.9,
+        "split": 46.6,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 48.0,
+        "split": 47.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 48.1,
+        "split": 47.9,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 48.2,
+        "split": 49.2,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 48.2,
+        "split": 48.1,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 48.4,
+        "split": 49.3,
         "spm": 20,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 48.5,
+        "split": 48.7,
         "spm": 20,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 48.5,
+        "split": 47.0,
         "spm": 21,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 48.6,
+        "split": 48.9,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 48.7,
+        "split": 47.9,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 48.8,
+        "split": 47.8,
         "spm": 21,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 49.3,
+        "split": 50.4,
         "spm": 21,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 49.5,
+        "split": 50.5,
         "spm": 20,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 49.8,
+        "split": 50.2,
         "spm": 20,
         "rank": 47,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 49.9,
+        "split": 49.8,
         "spm": 20,
         "rank": 48,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 43.9,
+        "split": 44.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 44.5,
+        "split": 45.3,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 45.1,
+        "split": 46.0,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 46.0,
+        "split": 47.4,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 46.0,
+        "split": 45.7,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 46.8,
+        "split": 48.0,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 46.9,
+        "split": 47.8,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 47.0,
+        "split": 46.2,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 47.1,
+        "split": 46.1,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 48.2,
+        "split": 46.9,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 48.2,
+        "split": 47.9,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 48.2,
+        "split": 47.8,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 48.3,
+        "split": 46.9,
         "spm": 21,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 48.5,
+        "split": 49.7,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 48.7,
+        "split": 49.7,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 48.7,
+        "split": 50.2,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 48.7,
+        "split": 48.1,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.8,
+        "split": 47.8,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 49.0,
+        "split": 48.8,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Nakamura",
-        "split": 49.0,
+        "split": 49.8,
         "spm": 21,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Callahan",
-        "split": 49.1,
+        "split": 48.4,
         "spm": 20,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Varga",
-        "split": 49.4,
+        "split": 50.4,
         "spm": 20,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 49.4,
+        "split": 48.5,
         "spm": 20,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 49.6,
+        "split": 49.4,
         "spm": 20,
         "rank": 45,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 49.7,
+        "split": 50.9,
         "spm": 21,
         "rank": 46,
         "dnf": false
       },
       {
         "name": "Ruiz",
-        "split": 50.9,
+        "split": 51.7,
         "spm": 21,
         "rank": 49,
         "dnf": false
@@ -1079,187 +1079,187 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "teamAvg": 47.8,
-    "bestSplit": 43.9,
+    "teamAvg": 48.5,
+    "bestSplit": 43.8,
     "bestAthlete": "Johansson",
     "participantCount": 50
   },
   {
-    "date": "2023-09-06",
-    "workout": "3x15' 3' rest",
+    "date": "2025-01-25",
+    "workout": "Endurance Set B",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 41.6,
+        "split": 42.4,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 44.0,
+        "split": 43.7,
         "spm": 21,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 44.3,
+        "split": 45.1,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 44.5,
+        "split": 45.5,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 44.6,
+        "split": 44.1,
         "spm": 21,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 44.6,
+        "split": 43.2,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 44.8,
+        "split": 44.0,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 44.9,
+        "split": 43.7,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 45.1,
+        "split": 45.3,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Magnusson",
-        "split": 45.1,
+        "split": 43.8,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 45.2,
+        "split": 45.1,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 45.4,
+        "split": 45.3,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 45.6,
+        "split": 46.1,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 45.7,
+        "split": 45.5,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 46.9,
+        "split": 48.0,
         "spm": 22,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 46.2,
+        "split": 47.1,
         "spm": 22,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 46.4,
+        "split": 45.6,
         "spm": 22,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 46.5,
+        "split": 46.4,
         "spm": 21,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 46.7,
+        "split": 46.2,
         "spm": 22,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 46.8,
+        "split": 45.3,
         "spm": 22,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 46.9,
+        "split": 45.9,
         "spm": 22,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 47.3,
+        "split": 48.2,
         "spm": 22,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 47.6,
+        "split": 47.9,
         "spm": 21,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 47.6,
+        "split": 47.3,
         "spm": 22,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 49.5,
+        "split": 49.9,
         "spm": 22,
         "rank": 48,
         "dnf": false
@@ -1272,178 +1272,178 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 41.5,
+        "split": 42.2,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 43.7,
+        "split": 43.4,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 44.6,
+        "split": 45.5,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 44.9,
+        "split": 44.6,
         "spm": 21,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 44.9,
+        "split": 43.9,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 45.2,
+        "split": 46.6,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 45.6,
+        "split": 46.9,
         "spm": 21,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 45.7,
+        "split": 46.9,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 45.7,
+        "split": 44.9,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 45.8,
+        "split": 47.0,
         "spm": 21,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 45.9,
+        "split": 46.8,
         "spm": 21,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 46.1,
+        "split": 47.1,
         "spm": 21,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 46.1,
+        "split": 45.5,
         "spm": 22,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 46.1,
+        "split": 44.8,
         "spm": 22,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 46.7,
+        "split": 45.3,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 46.7,
+        "split": 45.7,
         "spm": 22,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.1,
+        "split": 46.7,
         "spm": 22,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 47.3,
+        "split": 48.8,
         "spm": 21,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 47.5,
+        "split": 47.3,
         "spm": 21,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Callahan",
-        "split": 47.8,
+        "split": 47.1,
         "spm": 22,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 48.1,
+        "split": 47.7,
         "spm": 20,
         "rank": 45,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 48.1,
+        "split": 49.3,
         "spm": 22,
         "rank": 46,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 49.2,
+        "split": 49.0,
         "spm": 21,
         "rank": 47,
         "dnf": false
       },
       {
         "name": "Nolan",
-        "split": 51.3,
+        "split": 50.9,
         "spm": 22,
         "rank": 49,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 51.4,
+        "split": 52.7,
         "spm": 21,
         "rank": 50,
         "dnf": false
@@ -1463,706 +1463,706 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "teamAvg": 46.1,
-    "bestSplit": 41.5,
+    "teamAvg": 46.8,
+    "bestSplit": 42.3,
     "bestAthlete": "Johansson",
     "participantCount": 53
   },
   {
-    "date": "2023-09-11",
-    "workout": "30' 22rpm",
+    "date": "2025-01-30",
+    "workout": "Endurance Set C",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 38.7,
+        "split": 39.5,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 42.1,
+        "split": 41.8,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 42.4,
+        "split": 41.6,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 42.4,
+        "split": 42.6,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 42.5,
+        "split": 42.0,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 43.0,
+        "split": 41.6,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 43.1,
+        "split": 44.0,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 43.3,
+        "split": 42.1,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 43.4,
+        "split": 43.3,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 43.7,
+        "split": 44.7,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 43.9,
+        "split": 44.4,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 44.0,
+        "split": 43.8,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Magnusson",
-        "split": 44.0,
+        "split": 42.7,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 44.0,
+        "split": 43.9,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 44.4,
+        "split": 44.3,
         "spm": 22,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 44.6,
+        "split": 43.6,
         "spm": 22,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 44.7,
+        "split": 44.4,
         "spm": 22,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 44.8,
+        "split": 44.0,
         "spm": 22,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 44.8,
+        "split": 45.1,
         "spm": 22,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 44.9,
+        "split": 44.1,
         "spm": 22,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 44.9,
+        "split": 43.4,
         "spm": 22,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 45.3,
+        "split": 44.8,
         "spm": 22,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 46.2,
+        "split": 47.3,
         "spm": 22,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 46.4,
+        "split": 47.4,
         "spm": 22,
         "rank": 45,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 47.3,
+        "split": 48.3,
         "spm": 22,
         "rank": 48,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 47.9,
+        "split": 48.3,
         "spm": 22,
         "rank": 50,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 39.4,
+        "split": 40.1,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 41.6,
+        "split": 42.4,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 42.3,
+        "split": 42.0,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 42.9,
+        "split": 44.2,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 43.0,
+        "split": 42.0,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 43.3,
+        "split": 44.2,
         "spm": 21,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 43.6,
+        "split": 42.2,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 43.7,
+        "split": 45.1,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 43.8,
+        "split": 43.5,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 44.1,
+        "split": 42.8,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 44.1,
+        "split": 43.7,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 44.5,
+        "split": 45.7,
         "spm": 21,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 44.6,
+        "split": 45.8,
         "spm": 21,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 44.8,
+        "split": 43.9,
         "spm": 21,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 44.8,
+        "split": 45.8,
         "spm": 22,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 45.0,
+        "split": 44.4,
         "spm": 22,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 45.2,
+        "split": 44.8,
         "spm": 22,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 45.4,
+        "split": 46.3,
         "spm": 22,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 45.5,
+        "split": 44.5,
         "spm": 22,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Callahan",
-        "split": 45.6,
+        "split": 44.9,
         "spm": 22,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 46.2,
+        "split": 47.7,
         "spm": 21,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 46.5,
+        "split": 46.3,
         "spm": 22,
         "rank": 46,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 47.0,
+        "split": 48.2,
         "spm": 22,
         "rank": 47,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 47.3,
+        "split": 47.1,
         "spm": 22,
         "rank": 49,
         "dnf": false
       },
       {
         "name": "Ruiz",
-        "split": 48.3,
+        "split": 49.1,
         "spm": 22,
         "rank": 51,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 48.9,
+        "split": 50.2,
         "spm": 22,
         "rank": 52,
         "dnf": false
       }
     ],
-    "teamAvg": 44.4,
-    "bestSplit": 38.7,
+    "teamAvg": 45.1,
+    "bestSplit": 40.0,
     "bestAthlete": "Chen",
     "participantCount": 52
   },
   {
-    "date": "2023-09-18",
-    "workout": "30'/20'/10' 2' rest",
+    "date": "2025-02-06",
+    "workout": "Threshold Test A",
     "category": "threshold",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 43.9,
+        "split": 44.7,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 46.4,
+        "split": 46.1,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 46.6,
+        "split": 46.1,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 47.0,
+        "split": 46.2,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 47.7,
+        "split": 46.5,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 47.8,
+        "split": 46.4,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 47.8,
+        "split": 48.8,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 47.9,
+        "split": 47.8,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 48.1,
+        "split": 49.0,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 48.2,
+        "split": 48.4,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 48.8,
+        "split": 47.8,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 49.0,
+        "split": 48.8,
         "spm": 19,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 49.2,
+        "split": 49.1,
         "spm": 19,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 49.4,
+        "split": 47.9,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 49.6,
+        "split": 49.1,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 49.6,
+        "split": 49.5,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 49.9,
+        "split": 49.1,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 49.9,
+        "split": 49.1,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 50.7,
+        "split": 51.0,
         "spm": 20,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 50.9,
+        "split": 50.6,
         "spm": 20,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 51.1,
+        "split": 52.1,
         "spm": 21,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 51.8,
+        "split": 52.8,
         "spm": 20,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 52.7,
+        "split": 52.5,
         "spm": 20,
         "rank": 44,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 46.1,
+        "split": 46.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 46.2,
+        "split": 45.3,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 47.1,
+        "split": 47.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 47.2,
+        "split": 46.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 47.2,
+        "split": 45.9,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 47.9,
+        "split": 48.8,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 47.9,
+        "split": 49.1,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 48.1,
+        "split": 49.3,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 48.1,
+        "split": 49.4,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 48.4,
+        "split": 47.8,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 48.5,
+        "split": 47.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 48.7,
+        "split": 48.4,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 48.7,
+        "split": 49.6,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 49.1,
+        "split": 50.5,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 49.3,
+        "split": 50.5,
         "spm": 20,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 49.3,
+        "split": 47.9,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 49.7,
+        "split": 50.7,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 49.9,
+        "split": 48.9,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 50.1,
+        "split": 51.6,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 50.4,
+        "split": 50.0,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 51.5,
+        "split": 51.3,
         "spm": 20,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 54.4,
+        "split": 55.7,
         "spm": 20,
         "rank": 45,
         "dnf": false
@@ -2189,1190 +2189,1190 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "teamAvg": 48.8,
-    "bestSplit": 43.9,
+    "teamAvg": 49.5,
+    "bestSplit": 43.2,
     "bestAthlete": "Chen",
     "participantCount": 48
   },
   {
-    "date": "2023-09-20",
-    "workout": "2x20'",
+    "date": "2025-02-08",
+    "workout": "Endurance Set D",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 43.9,
+        "split": 44.7,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 44.2,
+        "split": 43.7,
         "spm": 19,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 46.2,
+        "split": 45.0,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 46.3,
+        "split": 47.3,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 46.5,
+        "split": 46.2,
         "spm": 19,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 46.8,
+        "split": 46.7,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 47.2,
+        "split": 47.1,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 47.2,
+        "split": 47.0,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 47.3,
+        "split": 45.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 47.3,
+        "split": 47.5,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 47.5,
+        "split": 46.5,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 47.6,
+        "split": 48.6,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 47.8,
+        "split": 47.0,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 47.9,
+        "split": 48.9,
         "spm": 19,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 47.9,
+        "split": 47.8,
         "spm": 20,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 48.3,
+        "split": 48.6,
         "spm": 19,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 48.4,
+        "split": 47.6,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 48.9,
+        "split": 48.6,
         "spm": 19,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 48.9,
+        "split": 47.4,
         "spm": 20,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 49.1,
+        "split": 48.3,
         "spm": 19,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 49.5,
+        "split": 49.0,
         "spm": 19,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 52.3,
+        "split": 52.7,
         "spm": 20,
         "rank": 46,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 44.1,
+        "split": 44.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 45.4,
+        "split": 44.5,
         "spm": 19,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 45.9,
+        "split": 47.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 46.0,
+        "split": 45.7,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 46.4,
+        "split": 47.3,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 46.6,
+        "split": 45.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 46.9,
+        "split": 47.8,
         "spm": 19,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 46.9,
+        "split": 45.9,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 47.4,
+        "split": 47.0,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.6,
+        "split": 47.2,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 47.6,
+        "split": 47.0,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 47.6,
+        "split": 46.2,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 47.8,
+        "split": 48.8,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 47.9,
+        "split": 47.6,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 48.4,
+        "split": 49.6,
         "spm": 19,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 48.5,
+        "split": 48.3,
         "spm": 19,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 48.6,
+        "split": 49.4,
         "spm": 19,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 48.7,
+        "split": 50.1,
         "spm": 19,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 48.7,
+        "split": 50.2,
         "spm": 19,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.7,
+        "split": 47.7,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 48.9,
+        "split": 50.1,
         "spm": 19,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 49.0,
+        "split": 48.8,
         "spm": 20,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 49.1,
+        "split": 50.3,
         "spm": 20,
         "rank": 43,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 49.7,
+        "split": 51.0,
         "spm": 20,
         "rank": 45,
         "dnf": false
       }
     ],
-    "teamAvg": 47.6,
-    "bestSplit": 43.9,
+    "teamAvg": 48.3,
+    "bestSplit": 45.2,
     "bestAthlete": "Chen",
     "participantCount": 46
   },
   {
-    "date": "2023-09-22",
-    "workout": "Triathalon (7 laps)",
+    "date": "2025-02-10",
+    "workout": "Mixed Fitness Test A",
     "category": "triathlon",
-    "starboard": [
+    "groupA": [
       {
         "name": "Kwon",
-        "split": 49.3,
+        "split": 48.3,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 49.3,
+        "split": 50.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       }
     ],
-    "port": [],
-    "teamAvg": 49.3,
-    "bestSplit": 49.3,
+    "groupB": [],
+    "teamAvg": 50.0,
+    "bestSplit": 50.3,
     "bestAthlete": "Kwon",
     "participantCount": 2
   },
   {
-    "date": "2023-09-25",
-    "workout": "4x4km 3' rest",
+    "date": "2025-02-13",
+    "workout": "Interval Set B",
     "category": "intervals",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 39.3,
+        "split": 40.1,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 41.4,
+        "split": 40.6,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 42.3,
-        "spm": 22,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 42.4,
-        "spm": 22,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 42.6,
-        "spm": 22,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 42.8,
-        "spm": 22,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 43.0,
-        "spm": 22,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 43.3,
-        "spm": 22,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Kwon",
-        "split": 43.9,
-        "spm": 22,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 44.6,
-        "spm": 22,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 44.6,
-        "spm": 22,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 44.6,
-        "spm": 22,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 44.8,
-        "spm": 22,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 45.2,
-        "spm": 22,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 45.3,
-        "spm": 22,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Petrov",
-        "split": 46.1,
-        "spm": 22,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 46.1,
-        "spm": 22,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 46.3,
-        "spm": 22,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Hayes",
-        "split": 46.4,
-        "spm": 22,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 47.2,
-        "spm": 22,
-        "rank": 42,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 47.4,
-        "spm": 22,
-        "rank": 44,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 49.3,
-        "spm": 23,
-        "rank": 46,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 39.8,
-        "spm": 22,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 41.1,
-        "spm": 22,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 42.3,
-        "spm": 22,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 42.6,
-        "spm": 22,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 42.9,
-        "spm": 22,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
         "split": 43.2,
         "spm": 22,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 43.4,
-        "spm": 22,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 43.6,
-        "spm": 22,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 43.7,
-        "spm": 22,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 43.7,
-        "spm": 22,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 44.0,
-        "spm": 22,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 44.1,
-        "spm": 22,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 44.4,
-        "spm": 22,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 44.6,
-        "spm": 22,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 44.7,
-        "spm": 22,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 44.7,
-        "spm": 22,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 44.8,
-        "spm": 22,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 45.6,
-        "spm": 22,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 45.8,
-        "spm": 22,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 45.9,
-        "spm": 22,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 46.1,
-        "spm": 22,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 46.4,
-        "spm": 22,
-        "rank": 41,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 47.3,
-        "spm": 22,
-        "rank": 43,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 48.1,
-        "spm": 22,
-        "rank": 45,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 44.4,
-    "bestSplit": 39.3,
-    "bestAthlete": "Chen",
-    "participantCount": 46
-  },
-  {
-    "date": "2023-10-02",
-    "workout": "2x6km 8' rest",
-    "category": "intervals",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 37.7,
-        "spm": 24,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 39.9,
-        "spm": 24,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 39.9,
-        "spm": 24,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brandt",
-        "split": 40.4,
-        "spm": 24,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "De Vries",
-        "split": 40.5,
-        "spm": 24,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 40.5,
-        "spm": 24,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 40.8,
-        "spm": 24,
-        "rank": 10,
-        "dnf": false
-      },
-      {
         "name": "Foster",
-        "split": 40.9,
-        "spm": 24,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 42.2,
-        "spm": 24,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Kwon",
-        "split": 42.3,
-        "spm": 24,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Hayes",
-        "split": 42.7,
-        "spm": 24,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 42.9,
-        "spm": 24,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 43.0,
-        "spm": 24,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 43.8,
-        "spm": 24,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 44.0,
-        "spm": 24,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Petrov",
-        "split": 44.1,
-        "spm": 24,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 44.3,
-        "spm": 24,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 45.0,
-        "spm": 24,
-        "rank": 41,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 45.4,
-        "spm": 24,
-        "rank": 42,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 47.1,
-        "spm": 24,
-        "rank": 45,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Park",
-        "split": 39.5,
-        "spm": 24,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 39.8,
-        "spm": 24,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 40.2,
-        "spm": 24,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 41.0,
-        "spm": 24,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 41.3,
-        "spm": 24,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
         "split": 42.1,
-        "spm": 24,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 42.4,
-        "spm": 24,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 42.5,
-        "spm": 24,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 42.5,
-        "spm": 24,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 42.7,
-        "spm": 24,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
-        "split": 43.0,
-        "spm": 24,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 43.1,
-        "spm": 24,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 43.5,
-        "spm": 24,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 43.9,
-        "spm": 24,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 44.3,
-        "spm": 24,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 44.6,
-        "spm": 24,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 44.6,
-        "spm": 24,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 44.9,
-        "spm": 24,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 45.4,
-        "spm": 24,
-        "rank": 43,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 46.0,
-        "spm": 24,
-        "rank": 44,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": null,
-        "spm": null,
-        "rank": null,
-        "dnf": true
-      }
-    ],
-    "teamAvg": 42.6,
-    "bestSplit": 37.7,
-    "bestAthlete": "Chen",
-    "participantCount": 46
-  },
-  {
-    "date": "2023-10-04",
-    "workout": "3x17' 3' Rest",
-    "category": "steady_state",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 44.8,
-        "spm": 19,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 45.7,
-        "spm": 19,
-        "rank": 2,
+        "spm": 22,
+        "rank": 7,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 46.2,
-        "spm": 19,
-        "rank": 3,
+        "split": 42.1,
+        "spm": 22,
+        "rank": 8,
         "dnf": false
       },
       {
-        "name": "Webb",
-        "split": 47.2,
-        "spm": 19,
-        "rank": 7,
+        "name": "Brandt",
+        "split": 43.0,
+        "spm": 22,
+        "rank": 10,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 48.1,
-        "spm": 20,
-        "rank": 10,
+        "split": 41.6,
+        "spm": 22,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 42.1,
+        "spm": 22,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Kwon",
+        "split": 42.9,
+        "spm": 22,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 44.4,
+        "spm": 22,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 44.5,
+        "spm": 22,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 44.3,
+        "spm": 22,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 45.8,
+        "spm": 22,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 45.1,
+        "spm": 22,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 44.8,
+        "spm": 22,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 46.4,
+        "spm": 22,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 47.2,
+        "spm": 22,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 44.8,
+        "spm": 22,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Hayes",
+        "split": 46.9,
+        "spm": 22,
+        "rank": 40,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
         "split": 48.2,
+        "spm": 22,
+        "rank": 42,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 48.4,
+        "spm": 22,
+        "rank": 44,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 49.7,
+        "spm": 23,
+        "rank": 46,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 40.5,
+        "spm": 22,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 41.9,
+        "spm": 22,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 43.6,
+        "spm": 22,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 41.6,
+        "spm": 22,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 42.6,
+        "spm": 22,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 44.1,
+        "spm": 22,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 44.3,
+        "spm": 22,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 42.7,
+        "spm": 22,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 44.9,
+        "spm": 22,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 42.4,
+        "spm": 22,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 43.7,
+        "spm": 22,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 45.5,
+        "spm": 22,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 44.0,
+        "spm": 22,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 44.2,
+        "spm": 22,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 44.1,
+        "spm": 22,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 43.9,
+        "spm": 22,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 45.8,
+        "spm": 22,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 44.6,
+        "spm": 22,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 47.0,
+        "spm": 22,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 45.7,
+        "spm": 22,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 47.6,
+        "spm": 22,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 47.6,
+        "spm": 22,
+        "rank": 41,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 47.1,
+        "spm": 22,
+        "rank": 43,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 49.4,
+        "spm": 22,
+        "rank": 45,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 45.1,
+    "bestSplit": 40.6,
+    "bestAthlete": "Chen",
+    "participantCount": 46
+  },
+  {
+    "date": "2025-02-20",
+    "workout": "Interval Set C",
+    "category": "intervals",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 38.5,
+        "spm": 24,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 39.4,
+        "spm": 24,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 39.1,
+        "spm": 24,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 40.6,
+        "spm": 24,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "De Vries",
+        "split": 41.4,
+        "spm": 24,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 39.1,
+        "spm": 24,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 39.6,
+        "spm": 24,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 40.6,
+        "spm": 24,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 42.0,
+        "spm": 24,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Kwon",
+        "split": 41.3,
+        "spm": 24,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 43.6,
+        "spm": 24,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 42.5,
+        "spm": 24,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Hayes",
+        "split": 43.2,
+        "spm": 24,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 42.8,
+        "spm": 24,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 42.7,
+        "spm": 24,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 44.9,
+        "spm": 24,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 43.5,
+        "spm": 24,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 44.4,
+        "spm": 24,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 45.3,
+        "spm": 24,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 43.5,
+        "spm": 24,
+        "rank": 41,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 46.4,
+        "spm": 24,
+        "rank": 42,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 47.5,
+        "spm": 24,
+        "rank": 45,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Park",
+        "split": 40.3,
+        "spm": 24,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 41.1,
+        "spm": 24,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 39.9,
+        "spm": 24,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 40.0,
+        "spm": 24,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 41.0,
+        "spm": 24,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 40.8,
+        "spm": 24,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 43.3,
+        "spm": 24,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 43.9,
+        "spm": 24,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 43.7,
+        "spm": 24,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 41.2,
+        "spm": 24,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 43.6,
+        "spm": 24,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 42.2,
+        "spm": 24,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 42.1,
+        "spm": 24,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 43.9,
+        "spm": 24,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 42.3,
+        "spm": 24,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 45.0,
+        "spm": 24,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 45.1,
+        "spm": 24,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 45.2,
+        "spm": 24,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 43.6,
+        "spm": 24,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 44.4,
+        "spm": 24,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 46.1,
+        "spm": 24,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 45.2,
+        "spm": 24,
+        "rank": 43,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 47.3,
+        "spm": 24,
+        "rank": 44,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": null,
+        "spm": null,
+        "rank": null,
+        "dnf": true
+      }
+    ],
+    "teamAvg": 43.3,
+    "bestSplit": 36.8,
+    "bestAthlete": "Chen",
+    "participantCount": 46
+  },
+  {
+    "date": "2025-02-22",
+    "workout": "Endurance Set E",
+    "category": "steady_state",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 45.6,
+        "spm": 19,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 45.4,
+        "spm": 19,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 45.7,
+        "spm": 19,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 46.0,
+        "spm": 19,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 46.7,
+        "spm": 20,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 49.2,
         "spm": 19,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 48.4,
+        "split": 48.3,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 48.6,
+        "split": 48.8,
         "spm": 19,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 48.8,
+        "split": 49.8,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 48.9,
+        "split": 48.8,
         "spm": 19,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 48.9,
+        "split": 49.2,
         "spm": 19,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 49.0,
+        "split": 48.8,
         "spm": 19,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 49.1,
+        "split": 50.0,
         "spm": 19,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 49.3,
+        "split": 48.5,
         "spm": 19,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 49.4,
+        "split": 48.4,
         "spm": 19,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 49.7,
+        "split": 48.2,
         "spm": 19,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 49.7,
+        "split": 49.4,
         "spm": 19,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 49.7,
+        "split": 50.8,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 49.7,
+        "split": 50.7,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 49.8,
+        "split": 49.3,
         "spm": 19,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 51.1,
+        "split": 50.9,
         "spm": 19,
         "rank": 42,
         "dnf": false
@@ -3385,301 +3385,301 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Delacroix",
-        "split": 46.3,
+        "split": 45.4,
         "spm": 19,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 46.5,
+        "split": 47.3,
         "spm": 19,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 47.0,
+        "split": 48.2,
         "spm": 19,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.3,
+        "split": 46.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 47.5,
+        "split": 47.2,
         "spm": 19,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 48.7,
+        "split": 49.6,
         "spm": 19,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 48.8,
+        "split": 48.2,
         "spm": 19,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 48.8,
+        "split": 50.3,
         "spm": 19,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 48.9,
+        "split": 48.7,
         "spm": 19,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 48.9,
+        "split": 50.2,
         "spm": 19,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 49.0,
+        "split": 47.7,
         "spm": 19,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 49.0,
+        "split": 50.2,
         "spm": 19,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 49.1,
+        "split": 48.3,
         "spm": 19,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 49.1,
+        "split": 50.0,
         "spm": 19,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 49.1,
+        "split": 48.1,
         "spm": 19,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 49.3,
+        "split": 47.9,
         "spm": 19,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 49.3,
+        "split": 50.3,
         "spm": 19,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 49.4,
+        "split": 50.8,
         "spm": 19,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 49.5,
+        "split": 49.2,
         "spm": 19,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 50.1,
+        "split": 49.1,
         "spm": 20,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 50.2,
+        "split": 51.4,
         "spm": 19,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 51.8,
+        "split": 53.1,
         "spm": 19,
         "rank": 43,
         "dnf": false
       }
     ],
-    "teamAvg": 48.7,
-    "bestSplit": 44.8,
+    "teamAvg": 49.4,
+    "bestSplit": 46.1,
     "bestAthlete": "Chen",
     "participantCount": 44
   },
   {
-    "date": "2023-10-09",
-    "workout": "3x5500km, 3' rest",
+    "date": "2025-02-27",
+    "workout": "Interval Set D",
     "category": "intervals",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.7,
+        "split": 45.5,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 45.7,
+        "split": 44.9,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 45.9,
+        "split": 44.5,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 45.9,
+        "split": 45.6,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 46.0,
+        "split": 46.2,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 46.2,
+        "split": 45.0,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 46.7,
+        "split": 47.2,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 46.7,
+        "split": 45.2,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 47.0,
+        "split": 48.0,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 47.1,
+        "split": 47.0,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 47.3,
+        "split": 47.0,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 47.4,
+        "split": 47.3,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 47.7,
+        "split": 48.7,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 47.8,
+        "split": 47.3,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 47.9,
+        "split": 48.9,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 48.9,
+        "split": 50.0,
         "spm": 21,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 49.2,
+        "split": 48.7,
         "spm": 20,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 49.4,
+        "split": 49.8,
         "spm": 21,
         "rank": 44,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 52.0,
+        "split": 51.9,
         "spm": 19,
         "rank": 45,
         "dnf": false
@@ -3692,2140 +3692,2140 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Park",
-        "split": 44.7,
+        "split": 45.5,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Johansson",
-        "split": 45.3,
+        "split": 46.0,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 45.5,
+        "split": 46.4,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 45.9,
+        "split": 45.0,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 46.0,
+        "split": 47.3,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 46.1,
+        "split": 45.8,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 46.2,
+        "split": 44.9,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 46.2,
+        "split": 45.9,
         "spm": 21,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 46.8,
+        "split": 48.0,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 47.0,
+        "split": 46.0,
         "spm": 18,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 47.1,
+        "split": 46.3,
         "spm": 21,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 47.2,
+        "split": 48.1,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 47.2,
+        "split": 47.0,
         "spm": 21,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 47.3,
+        "split": 46.9,
         "spm": 21,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 47.4,
+        "split": 48.8,
         "spm": 20,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.4,
+        "split": 47.0,
         "spm": 20,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 47.4,
+        "split": 46.0,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 47.5,
+        "split": 48.4,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 47.7,
+        "split": 48.7,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 47.8,
+        "split": 49.0,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.0,
+        "split": 47.0,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 48.3,
+        "split": 49.8,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 48.3,
+        "split": 48.1,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 48.9,
+        "split": 50.1,
         "spm": 20,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 48.9,
+        "split": 48.7,
         "spm": 20,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 49.3,
+        "split": 50.6,
         "spm": 20,
         "rank": 43,
         "dnf": false
       }
     ],
-    "teamAvg": 47.2,
-    "bestSplit": 44.7,
+    "teamAvg": 47.9,
+    "bestSplit": 46.0,
     "bestAthlete": "Chen",
     "participantCount": 46
   },
   {
-    "date": "2023-10-11",
-    "workout": "2x22' 3' rest",
+    "date": "2025-03-01",
+    "workout": "Endurance Set F",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.0,
+        "split": 44.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 45.0,
+        "split": 44.7,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 45.7,
+        "split": 44.5,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 46.2,
+        "split": 44.8,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 46.3,
+        "split": 47.3,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 46.5,
+        "split": 45.7,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 46.5,
+        "split": 47.5,
         "spm": 21,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 46.6,
+        "split": 46.5,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 47.0,
+        "split": 47.2,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 47.0,
+        "split": 46.9,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 47.1,
+        "split": 47.4,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 47.2,
+        "split": 48.2,
         "spm": 21,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Kwon",
-        "split": 47.4,
-        "spm": 20,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 47.6,
-        "spm": 20,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 48.3,
-        "spm": 20,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Nakamura",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 49.0,
-        "spm": 20,
-        "rank": 41,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 43.9,
-        "spm": 20,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 44.8,
-        "spm": 20,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 45.4,
-        "spm": 20,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 45.6,
-        "spm": 20,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 46.0,
-        "spm": 20,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
         "split": 46.4,
         "spm": 20,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
-        "split": 47.1,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 47.6,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 47.9,
-        "spm": 20,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 48.1,
-        "spm": 20,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 48.3,
-        "spm": 20,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 48.8,
-        "spm": 20,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 48.9,
-        "spm": 20,
-        "rank": 40,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 47.0,
-    "bestSplit": 43.9,
-    "bestAthlete": "Johansson",
-    "participantCount": 41
-  },
-  {
-    "date": "2023-10-13",
-    "workout": "Triathalon",
-    "category": "triathlon",
-    "starboard": [],
-    "port": [],
-    "teamAvg": null,
-    "bestSplit": null,
-    "bestAthlete": "N/A",
-    "participantCount": 0
-  },
-  {
-    "date": "2023-10-16",
-    "workout": "4x4km",
-    "category": "intervals",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 39.0,
-        "spm": 22,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 40.8,
-        "spm": 22,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 41.9,
-        "spm": 22,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 41.9,
-        "spm": 22,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 42.0,
-        "spm": 22,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 42.2,
-        "spm": 22,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 44.1,
-        "spm": 22,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 44.2,
-        "spm": 22,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 44.5,
-        "spm": 22,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 44.5,
-        "spm": 22,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 44.7,
-        "spm": 22,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 45.2,
-        "spm": 22,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Hayes",
-        "split": 45.5,
-        "spm": 22,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 45.5,
-        "spm": 22,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 45.7,
-        "spm": 22,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 46.9,
-        "spm": 23,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 47.6,
-        "spm": 22,
-        "rank": 41,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 39.8,
-        "spm": 22,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 40.9,
-        "spm": 22,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 41.6,
-        "spm": 22,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 41.9,
-        "spm": 22,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 42.1,
-        "spm": 22,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 42.5,
-        "spm": 22,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 42.7,
-        "spm": 22,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 42.8,
-        "spm": 22,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 43.1,
-        "spm": 22,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 43.2,
-        "spm": 22,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 43.7,
-        "spm": 22,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 44.3,
-        "spm": 22,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 44.3,
-        "spm": 22,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 44.3,
-        "spm": 22,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 44.7,
-        "spm": 22,
         "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 44.7,
-        "spm": 22,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 44.9,
-        "spm": 22,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 44.9,
-        "spm": 22,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 45.0,
-        "spm": 22,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 45.3,
-        "spm": 22,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
-        "split": 45.4,
-        "spm": 22,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 45.5,
-        "spm": 22,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 45.8,
-        "spm": 22,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 46.6,
-        "spm": 22,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 47.8,
-        "spm": 22,
-        "rank": 42,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 48.8,
-        "spm": 22,
-        "rank": 43,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 44.0,
-    "bestSplit": 39.0,
-    "bestAthlete": "Chen",
-    "participantCount": 43
-  },
-  {
-    "date": "2023-10-20",
-    "workout": "2x22' 2' Rest",
-    "category": "steady_state",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 42.2,
-        "spm": 20,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 44.3,
-        "spm": 20,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 45.3,
-        "spm": 20,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 46.0,
-        "spm": 20,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 47.1,
-        "spm": 20,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 47.5,
-        "spm": 20,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Petrov",
-        "split": 48.1,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 48.1,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 48.6,
-        "spm": 20,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 48.6,
-        "spm": 20,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 48.6,
-        "spm": 20,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 50.0,
-        "spm": 20,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 51.2,
-        "spm": 20,
-        "rank": 41,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 42.5,
-        "spm": 21,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 44.8,
-        "spm": 20,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 46.3,
-        "spm": 20,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 47.3,
-        "spm": 20,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 47.4,
-        "spm": 20,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 47.6,
-        "spm": 20,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 47.8,
-        "spm": 21,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 48.2,
-        "spm": 20,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 49.0,
-        "spm": 20,
-        "rank": 39,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 47.3,
-    "bestSplit": 42.2,
-    "bestAthlete": "Chen",
-    "participantCount": 41
-  },
-  {
-    "date": "2023-10-23",
-    "workout": "2x6km 8' rest",
-    "category": "intervals",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 37.3,
-        "spm": 24,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 39.3,
-        "spm": 24,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 39.5,
-        "spm": 24,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "De Vries",
-        "split": 39.6,
-        "spm": 24,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 40.0,
-        "spm": 24,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 40.0,
-        "spm": 24,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 40.5,
-        "spm": 24,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 42.1,
-        "spm": 24,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 42.6,
-        "spm": 24,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 42.7,
-        "spm": 24,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Hayes",
-        "split": 43.0,
-        "spm": 24,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 43.4,
-        "spm": 24,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 44.1,
-        "spm": 24,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 44.8,
-        "spm": 24,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 45.6,
-        "spm": 24,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 46.0,
-        "spm": 24,
-        "rank": 39,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Johansson",
-        "split": 37.6,
-        "spm": 24,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Park",
-        "split": 39.5,
-        "spm": 24,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 39.8,
-        "spm": 24,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Cruz",
-        "split": 40.3,
-        "spm": 24,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 40.6,
-        "spm": 24,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 40.8,
-        "spm": 24,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Duval",
-        "split": 41.3,
-        "spm": 24,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 41.7,
-        "spm": 24,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 41.7,
-        "spm": 24,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 41.8,
-        "spm": 23,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 41.9,
-        "spm": 24,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 42.1,
-        "spm": 23,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 42.4,
-        "spm": 24,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 43.0,
-        "spm": 24,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 43.3,
-        "spm": 24,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Dalton",
-        "split": 43.4,
-        "spm": 24,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 43.6,
-        "spm": 24,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 43.6,
-        "spm": 24,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Mitchell",
-        "split": 43.6,
-        "spm": 24,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 43.8,
-        "spm": 24,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 44.8,
-        "spm": 24,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 44.8,
-        "spm": 24,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 45.9,
-        "spm": 24,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 46.2,
-        "spm": 24,
-        "rank": 40,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 42.2,
-    "bestSplit": 37.3,
-    "bestAthlete": "Chen",
-    "participantCount": 40
-  },
-  {
-    "date": "2023-10-25",
-    "workout": "3x15' 2' Rest",
-    "category": "steady_state",
-    "starboard": [
-      {
-        "name": "Chen",
-        "split": 44.6,
-        "spm": 20,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Eriksson",
-        "split": 45.3,
-        "spm": 20,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 45.7,
-        "spm": 20,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 46.4,
-        "spm": 20,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 47.2,
-        "spm": 19,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 47.8,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 48.3,
-        "spm": 20,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 48.3,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 31,
         "dnf": false
       },
       {
         "name": "DB",
         "split": 48.7,
         "spm": 20,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 47.7,
+        "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
-        "name": "Larsson",
+        "name": "Bennett",
+        "split": 48.2,
+        "spm": 20,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Nakamura",
         "split": 49.3,
         "spm": 20,
         "rank": 38,
         "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 49.4,
+        "spm": 20,
+        "rank": 41,
+        "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 43.9,
+        "split": 44.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 45.8,
+        "split": 45.6,
+        "spm": 20,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 46.6,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 46.8,
+        "split": 45.3,
+        "spm": 20,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 47.3,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Bergman",
-        "split": 46.9,
+        "name": "Lehmann",
+        "split": 47.3,
         "spm": 20,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 47.0,
-        "spm": 19,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 47.0,
-        "spm": 20,
-        "rank": 13,
+        "rank": 11,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 47.1,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 47.1,
+        "split": 45.3,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Romanov",
-        "split": 47.2,
+        "name": "Jensen",
+        "split": 47.8,
         "spm": 20,
-        "rank": 18,
+        "rank": 16,
         "dnf": false
       },
       {
-        "name": "Cruz",
-        "split": 47.5,
+        "name": "Romanov",
+        "split": 46.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Dalton",
-        "split": 47.6,
+        "name": "Payne",
+        "split": 46.8,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Delacroix",
-        "split": 47.7,
+        "name": "Bergman",
+        "split": 45.7,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Okafor",
-        "split": 47.9,
+        "name": "Duval",
+        "split": 48.0,
         "spm": 20,
-        "rank": 24,
+        "rank": 23,
         "dnf": false
       },
       {
-        "name": "Kowalski",
-        "split": 48.0,
+        "name": "Fischer",
+        "split": 48.2,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Thornton",
-        "split": 48.0,
+        "name": "Okafor",
+        "split": 46.6,
         "spm": 20,
-        "rank": 26,
+        "rank": 28,
         "dnf": false
       },
       {
-        "name": "Fischer",
-        "split": 48.6,
+        "name": "Hawkins",
+        "split": 47.5,
+        "spm": 20,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 46.8,
+        "spm": 20,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 49.3,
+        "spm": 20,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 49.3,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
-        "name": "Volkov",
-        "split": 48.8,
+        "name": "Torres",
+        "split": 49.5,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
-        "name": "Duval",
-        "split": 48.8,
+        "name": "Petrowski",
+        "split": 48.0,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
-        "name": "Lim",
-        "split": 48.8,
-        "spm": 20,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 48.8,
+        "name": "Malik",
+        "split": 49.8,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
-        "name": "Torres",
-        "split": 49.3,
+        "name": "Larsson",
+        "split": 48.6,
         "spm": 20,
         "rank": 39,
         "dnf": false
       },
       {
-        "name": "Petrowski",
-        "split": 49.4,
+        "name": "Lim",
+        "split": 50.1,
         "spm": 20,
         "rank": 40,
         "dnf": false
       }
     ],
-    "teamAvg": 47.5,
-    "bestSplit": 43.9,
+    "teamAvg": 47.7,
+    "bestSplit": 45.1,
     "bestAthlete": "Johansson",
-    "participantCount": 40
+    "participantCount": 41
   },
   {
-    "date": "2023-10-30",
-    "workout": "10', 9', 8', 7', 9:55 rest",
-    "category": "threshold",
-    "starboard": [
+    "date": "2025-03-03",
+    "workout": "Mixed Fitness Test B",
+    "category": "triathlon",
+    "groupA": [],
+    "groupB": [],
+    "teamAvg": null,
+    "bestSplit": null,
+    "bestAthlete": "N/A",
+    "participantCount": 0
+  },
+  {
+    "date": "2025-03-06",
+    "workout": "Interval Set E",
+    "category": "intervals",
+    "groupA": [
       {
         "name": "Chen",
-        "split": 33.4,
-        "spm": 29,
+        "split": 39.8,
+        "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 34.5,
-        "spm": 27,
-        "rank": 2,
+        "split": 40.0,
+        "spm": 22,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 40.5,
+        "spm": 22,
+        "rank": 6,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 36.0,
-        "spm": 30,
+        "split": 41.4,
+        "spm": 22,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 41.7,
+        "spm": 22,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 42.4,
+        "spm": 22,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 45.1,
+        "spm": 22,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 44.1,
+        "spm": 22,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 43.3,
+        "spm": 22,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 43.0,
+        "spm": 22,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 44.6,
+        "spm": 22,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 44.9,
+        "spm": 22,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Hayes",
+        "split": 46.0,
+        "spm": 22,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 46.5,
+        "spm": 22,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 45.2,
+        "spm": 22,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 48.0,
+        "spm": 23,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 48.0,
+        "spm": 22,
+        "rank": 41,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 40.5,
+        "spm": 22,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 41.7,
+        "spm": 22,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 41.3,
+        "spm": 22,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 43.2,
+        "spm": 22,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 41.1,
+        "spm": 22,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 42.2,
+        "spm": 22,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 41.4,
+        "spm": 22,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 44.0,
+        "spm": 22,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 41.7,
+        "spm": 22,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 43.0,
+        "spm": 22,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 44.7,
+        "spm": 22,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 43.5,
+        "spm": 22,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 45.2,
+        "spm": 22,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 43.7,
+        "spm": 22,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 43.8,
+        "spm": 22,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 44.3,
+        "spm": 22,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 44.7,
+        "spm": 22,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 46.1,
+        "spm": 22,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 45.9,
+        "spm": 22,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 44.3,
+        "spm": 22,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 46.3,
+        "spm": 22,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 47.0,
+        "spm": 22,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 47.0,
+        "spm": 22,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 46.2,
+        "spm": 22,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 47.6,
+        "spm": 22,
+        "rank": 42,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 50.1,
+        "spm": 22,
+        "rank": 43,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 44.7,
+    "bestSplit": 40.3,
+    "bestAthlete": "Chen",
+    "participantCount": 43
+  },
+  {
+    "date": "2025-03-10",
+    "workout": "Endurance Set G",
+    "category": "steady_state",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 43.0,
+        "spm": 20,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 43.8,
+        "spm": 20,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 45.0,
+        "spm": 20,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 44.8,
+        "spm": 20,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 45.9,
+        "spm": 20,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 46.9,
+        "spm": 20,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 47.3,
+        "spm": 20,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 46.0,
+        "spm": 20,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 48.8,
+        "spm": 20,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 46.4,
+        "spm": 20,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 47.6,
+        "spm": 20,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 48.6,
+        "spm": 20,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 48.5,
+        "spm": 20,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 49.6,
+        "spm": 20,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 49.9,
+        "spm": 20,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 52.2,
+        "spm": 20,
+        "rank": 41,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 43.2,
+        "spm": 21,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 45.6,
+        "spm": 20,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 46.0,
+        "spm": 20,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 45.3,
+        "spm": 20,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 47.7,
+        "spm": 20,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 48.1,
+        "spm": 20,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 46.6,
+        "spm": 20,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 46.1,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 48.2,
+        "spm": 20,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 46.2,
+        "spm": 20,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 45.8,
+        "spm": 20,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 48.8,
+        "spm": 20,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 47.2,
+        "spm": 20,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 47.2,
+        "spm": 20,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 47.1,
+        "spm": 20,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 47.0,
+        "spm": 21,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 47.2,
+        "spm": 20,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 48.0,
+        "spm": 20,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 49.7,
+        "spm": 20,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 49.7,
+        "spm": 20,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 49.9,
+        "spm": 20,
+        "rank": 39,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 48.0,
+    "bestSplit": 43.1,
+    "bestAthlete": "Chen",
+    "participantCount": 41
+  },
+  {
+    "date": "2025-03-13",
+    "workout": "Interval Set C",
+    "category": "intervals",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 38.1,
+        "spm": 24,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 38.5,
+        "spm": 24,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 39.0,
+        "spm": 24,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 36.1,
-        "spm": 29,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 36.2,
-        "spm": 28,
+        "split": 40.5,
+        "spm": 24,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Foster",
-        "split": 36.9,
-        "spm": 30,
+        "name": "Brandt",
+        "split": 40.2,
+        "spm": 24,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Webb",
-        "split": 37.4,
-        "spm": 28,
+        "split": 38.8,
+        "spm": 24,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 40.2,
+        "spm": 24,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 37.6,
-        "spm": 28,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 37.7,
-        "spm": 28,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 37.9,
-        "spm": 28,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 37.9,
-        "spm": 27,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 38.8,
-        "spm": 29,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 39.0,
-        "spm": 27,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Hayes",
-        "split": 39.0,
-        "spm": 27,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 39.0,
-        "spm": 28,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 39.3,
-        "spm": 27,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 39.6,
-        "spm": 28,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 39.6,
-        "spm": 30,
-        "rank": 36,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 40.8,
-        "spm": 27,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 41.6,
-        "spm": 28,
-        "rank": 40,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 41.9,
-        "spm": 27,
-        "rank": 41,
-        "dnf": false
-      },
-      {
-        "name": "Kwon",
-        "split": 37.5,
-        "spm": 28,
-        "rank": 12,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Park",
-        "split": 35.7,
-        "spm": 28,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 36.4,
-        "spm": 29,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 36.9,
-        "spm": 29,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 37.0,
-        "spm": 28,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 38.0,
-        "spm": 28,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 38.0,
-        "spm": 28,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Sato",
-        "split": 38.1,
-        "spm": 30,
+        "split": 42.0,
+        "spm": 24,
         "rank": 19,
         "dnf": false
       },
       {
+        "name": "Cho",
+        "split": 42.5,
+        "spm": 24,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 41.2,
+        "spm": 24,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Hayes",
+        "split": 43.5,
+        "spm": 24,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 43.3,
+        "spm": 24,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 45.2,
+        "spm": 24,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 44.5,
+        "spm": 24,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 46.0,
+        "spm": 24,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 45.8,
+        "spm": 24,
+        "rank": 39,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 38.3,
+        "spm": 24,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 40.3,
+        "spm": 24,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 39.5,
+        "spm": 24,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 41.6,
+        "spm": 24,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 40.3,
+        "spm": 24,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 39.8,
+        "spm": 24,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 42.2,
+        "spm": 24,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 40.4,
+        "spm": 24,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 40.3,
+        "spm": 24,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 40.9,
+        "spm": 23,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 43.3,
+        "spm": 24,
+        "rank": 18,
+        "dnf": false
+      },
+      {
         "name": "Keane",
-        "split": 38.4,
-        "spm": 26,
+        "split": 43.3,
+        "spm": 23,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 38.5,
-        "spm": 27,
+        "split": 43.4,
+        "spm": 24,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Van Berg",
-        "split": 38.6,
-        "spm": 27,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 39.0,
-        "spm": 31,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 39.1,
-        "spm": 28,
-        "rank": 28,
-        "dnf": false
-      },
-      {
         "name": "Malik",
-        "split": 39.1,
-        "spm": 27,
-        "rank": 29,
+        "split": 44.5,
+        "spm": 24,
+        "rank": 25,
         "dnf": false
       },
       {
-        "name": "Petrowski",
-        "split": 39.2,
-        "spm": 30,
-        "rank": 30,
+        "name": "Jensen",
+        "split": 44.2,
+        "spm": 24,
+        "rank": 26,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 39.3,
-        "spm": 27,
-        "rank": 32,
+        "split": 42.8,
+        "spm": 24,
+        "rank": 28,
         "dnf": false
       },
       {
-        "name": "Thornton",
-        "split": 39.3,
-        "spm": 29,
-        "rank": 33,
+        "name": "Sato",
+        "split": 43.2,
+        "spm": 24,
+        "rank": 29,
         "dnf": false
       },
       {
-        "name": "Lehmann",
-        "split": 39.5,
-        "spm": 26,
-        "rank": 34,
+        "name": "Romanov",
+        "split": 42.8,
+        "spm": 24,
+        "rank": 30,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 39.8,
-        "spm": 27,
-        "rank": 37,
+        "split": 43.2,
+        "spm": 24,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 42.8,
+        "spm": 24,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 46.0,
+        "spm": 24,
+        "rank": 35,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 40.1,
-        "spm": 28,
-        "rank": 38,
+        "split": 46.0,
+        "spm": 24,
+        "rank": 36,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 42.4,
-        "spm": 28,
-        "rank": 42,
+        "split": 47.2,
+        "spm": 24,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 46.0,
+        "spm": 24,
+        "rank": 40,
         "dnf": false
       }
     ],
-    "teamAvg": 38.3,
-    "bestSplit": 33.4,
+    "teamAvg": 42.9,
+    "bestSplit": 37.1,
     "bestAthlete": "Chen",
-    "participantCount": 42
+    "participantCount": 40
   },
   {
-    "date": "2023-11-01",
-    "workout": "2x22' 3' rest",
+    "date": "2025-03-15",
+    "workout": "Endurance Set H",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.1,
+        "split": 45.4,
+        "spm": 20,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 44.8,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Eriksson",
-        "split": 44.2,
+        "name": "Foster",
+        "split": 45.4,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Foster",
-        "split": 45.5,
-        "spm": 20,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Webb",
-        "split": 45.9,
+        "name": "O'Sullivan",
+        "split": 47.4,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Rivera",
-        "split": 46.5,
+        "name": "Webb",
+        "split": 45.4,
         "spm": 20,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 10,
+        "rank": 7,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 46.8,
+        "split": 46.9,
         "spm": 20,
         "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 46.4,
+        "spm": 19,
+        "rank": 16,
         "dnf": false
       },
       {
         "name": "Cho",
         "split": 47.1,
         "spm": 20,
-        "rank": 16,
+        "rank": 17,
         "dnf": false
       },
       {
-        "name": "Petrov",
-        "split": 47.9,
-        "spm": 20,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 47.9,
+        "name": "Reeves",
+        "split": 48.2,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 48.1,
-        "spm": 21,
-        "rank": 24,
+        "split": 48.8,
+        "spm": 20,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 48.0,
+        "spm": 20,
+        "rank": 27,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 48.2,
+        "split": 46.8,
         "spm": 20,
-        "rank": 27,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 49.4,
+        "spm": 20,
+        "rank": 29,
         "dnf": false
       },
       {
         "name": "Bennett",
         "split": 48.3,
         "spm": 20,
-        "rank": 28,
+        "rank": 30,
         "dnf": false
       },
       {
-        "name": "Kowalski",
-        "split": 48.5,
+        "name": "Brandt",
+        "split": 48.7,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
-        "name": "Brandt",
-        "split": 48.5,
-        "spm": 20,
-        "rank": 32,
-        "dnf": false
-      },
-      {
         "name": "DB",
-        "split": 48.5,
+        "split": 49.8,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 48.9,
+        "split": 49.1,
+        "spm": 20,
+        "rank": 38,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Johansson",
+        "split": 44.6,
+        "spm": 20,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 46.6,
+        "spm": 20,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 46.5,
+        "spm": 20,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 45.6,
+        "spm": 20,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 47.9,
+        "spm": 19,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 45.7,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 46.4,
+        "spm": 20,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Cruz",
+        "split": 48.8,
+        "spm": 20,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 46.8,
+        "spm": 20,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 46.9,
+        "spm": 20,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 47.5,
+        "spm": 20,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 49.6,
+        "spm": 20,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 50.0,
+        "spm": 20,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Duval",
+        "split": 49.7,
+        "spm": 20,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 50.0,
+        "spm": 20,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 50.6,
+        "spm": 20,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 49.2,
+        "spm": 20,
+        "rank": 40,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 48.2,
+    "bestSplit": 43.7,
+    "bestAthlete": "Johansson",
+    "participantCount": 40
+  },
+  {
+    "date": "2025-03-20",
+    "workout": "Threshold Test B",
+    "category": "threshold",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 34.2,
+        "spm": 29,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 33.7,
+        "spm": 27,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 35.5,
+        "spm": 30,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "De Vries",
+        "split": 37.0,
+        "spm": 29,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 36.4,
+        "spm": 28,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 36.6,
+        "spm": 30,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 36.2,
+        "spm": 28,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 37.5,
+        "spm": 28,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 36.3,
+        "spm": 28,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 37.8,
+        "spm": 28,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 37.8,
+        "spm": 27,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 39.8,
+        "spm": 29,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 40.0,
+        "spm": 27,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Hayes",
+        "split": 39.5,
+        "spm": 27,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 39.9,
+        "spm": 28,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 39.0,
+        "spm": 27,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 39.4,
+        "spm": 28,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 40.7,
+        "spm": 30,
+        "rank": 36,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 41.2,
+        "spm": 27,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 41.4,
+        "spm": 28,
+        "rank": 40,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 42.9,
+        "spm": 27,
+        "rank": 41,
+        "dnf": false
+      },
+      {
+        "name": "Kwon",
+        "split": 36.5,
+        "spm": 28,
+        "rank": 12,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Park",
+        "split": 36.5,
+        "spm": 28,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 36.1,
+        "spm": 29,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 35.9,
+        "spm": 29,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 35.6,
+        "spm": 28,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 36.7,
+        "spm": 28,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 37.1,
+        "spm": 28,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Sato",
+        "split": 37.7,
+        "spm": 30,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Keane",
+        "split": 39.6,
+        "spm": 26,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 39.5,
+        "spm": 27,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 40.0,
+        "spm": 27,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 38.2,
+        "spm": 31,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 40.3,
+        "spm": 28,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 40.6,
+        "spm": 27,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 39.0,
+        "spm": 30,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Dalton",
+        "split": 38.7,
+        "spm": 27,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 38.3,
+        "spm": 29,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 40.4,
+        "spm": 26,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Mitchell",
+        "split": 39.4,
+        "spm": 27,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 41.3,
+        "spm": 28,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 43.7,
+        "spm": 28,
+        "rank": 42,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 39.0,
+    "bestSplit": 34.7,
+    "bestAthlete": "Chen",
+    "participantCount": 42
+  },
+  {
+    "date": "2025-03-22",
+    "workout": "Endurance Set F",
+    "category": "steady_state",
+    "groupA": [
+      {
+        "name": "Chen",
+        "split": 44.9,
+        "spm": 20,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Eriksson",
+        "split": 43.7,
+        "spm": 20,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Foster",
+        "split": 45.2,
+        "spm": 20,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Webb",
+        "split": 44.7,
+        "spm": 20,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 45.7,
+        "spm": 20,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 47.7,
+        "spm": 20,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 46.7,
+        "spm": 20,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 48.2,
+        "spm": 20,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
+        "split": 46.5,
+        "spm": 20,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 49.1,
+        "spm": 21,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 46.7,
+        "spm": 20,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 48.2,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 48.0,
+        "spm": 20,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 49.6,
+        "spm": 20,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 48.7,
         "spm": 21,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 49.1,
+        "split": 49.5,
         "spm": 20,
         "rank": 39,
         "dnf": false
@@ -5838,1222 +5838,1222 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Johansson",
-        "split": 43.2,
+        "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 43.7,
+        "split": 44.5,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 45.9,
+        "split": 44.6,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 46.5,
+        "split": 46.2,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 46.8,
+        "split": 47.7,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 46.8,
+        "split": 45.8,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 46.9,
+        "split": 47.8,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 47.0,
+        "split": 48.4,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 47.2,
+        "split": 47.0,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 47.3,
+        "split": 45.9,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 47.3,
+        "split": 46.5,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 47.7,
+        "split": 48.9,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 47.9,
+        "split": 48.9,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 48.1,
+        "split": 47.7,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 48.1,
+        "split": 49.3,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 48.4,
+        "split": 48.2,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 48.4,
+        "split": 48.0,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.5,
+        "split": 47.5,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 48.5,
+        "split": 49.7,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 48.5,
+        "split": 50.0,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 48.9,
+        "split": 49.8,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 50.2,
+        "split": 51.5,
         "spm": 20,
         "rank": 40,
         "dnf": false
       }
     ],
-    "teamAvg": 47.3,
-    "bestSplit": 43.2,
+    "teamAvg": 48.0,
+    "bestSplit": 44.5,
     "bestAthlete": "Johansson",
     "participantCount": 41
   },
   {
-    "date": "2023-11-06",
-    "workout": "3x3km 8' rest",
+    "date": "2025-03-27",
+    "workout": "Interval Set F",
     "category": "intervals",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 33.6,
+        "split": 34.4,
         "spm": 29,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 35.1,
+        "split": 34.3,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 36.3,
+        "split": 37.2,
         "spm": 28,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 36.4,
+        "split": 36.6,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 36.5,
+        "split": 36.0,
         "spm": 30,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 36.7,
+        "split": 36.4,
         "spm": 30,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 37.4,
+        "split": 36.0,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 37.5,
+        "split": 36.0,
         "spm": 30,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 38.1,
+        "split": 38.0,
         "spm": 28,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 38.5,
+        "split": 38.4,
         "spm": 28,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 38.7,
+        "split": 38.5,
         "spm": 27,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 39.0,
+        "split": 40.0,
         "spm": 28,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 39.1,
+        "split": 39.0,
         "spm": 26,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 39.5,
+        "split": 40.5,
         "spm": 27,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 39.5,
+        "split": 40.6,
         "spm": 30,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 39.6,
+        "split": 40.1,
         "spm": 27,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 39.9,
+        "split": 39.4,
         "spm": 28,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 40.3,
+        "split": 40.0,
         "spm": 27,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 40.3,
+        "split": 40.6,
         "spm": 28,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 41.4,
+        "split": 42.4,
         "spm": 27,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 41.9,
+        "split": 42.3,
         "spm": 28,
         "rank": 42,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 42.8,
+        "split": 42.6,
         "spm": 27,
         "rank": 43,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Park",
-        "split": 35.1,
+        "split": 35.9,
         "spm": 28,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 36.6,
+        "split": 36.3,
         "spm": 29,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 36.9,
+        "split": 35.9,
         "spm": 28,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 37.0,
+        "split": 36.7,
         "spm": 26,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 37.1,
+        "split": 35.7,
         "spm": 28,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 37.9,
+        "split": 36.6,
         "spm": 28,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 38.4,
+        "split": 39.4,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 38.4,
+        "split": 39.3,
         "spm": 27,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 38.5,
+        "split": 38.3,
         "spm": 28,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 38.5,
+        "split": 38.1,
         "spm": 29,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 38.9,
+        "split": 40.3,
         "spm": 29,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 39.0,
+        "split": 38.4,
         "spm": 28,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 39.0,
+        "split": 38.2,
         "spm": 30,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 39.1,
+        "split": 40.0,
         "spm": 28,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 39.3,
+        "split": 40.8,
         "spm": 27,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 39.3,
+        "split": 38.9,
         "spm": 30,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 39.5,
+        "split": 40.7,
         "spm": 27,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 39.6,
+        "split": 38.6,
         "spm": 30,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 39.9,
+        "split": 40.8,
         "spm": 30,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 40.0,
+        "split": 41.2,
         "spm": 29,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 41.7,
+        "split": 43.0,
         "spm": 27,
         "rank": 41,
         "dnf": false
       }
     ],
-    "teamAvg": 38.6,
-    "bestSplit": 33.6,
+    "teamAvg": 39.3,
+    "bestSplit": 34.9,
     "bestAthlete": "Chen",
     "participantCount": 43
   },
   {
-    "date": "2023-11-08",
-    "workout": "2x5km 4' rest",
+    "date": "2025-03-29",
+    "workout": "Interval Set G",
     "category": "intervals",
-    "starboard": [
+    "groupA": [
       {
         "name": "Brandt",
-        "split": 43.6,
+        "split": 43.8,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Chen",
-        "split": 43.6,
+        "split": 44.4,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 43.8,
+        "split": 43.5,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 44.1,
+        "split": 43.3,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 45.8,
+        "split": 45.7,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 46.1,
+        "split": 46.6,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 46.1,
+        "split": 44.7,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 46.2,
+        "split": 45.7,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 46.5,
+        "split": 46.4,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 46.5,
+        "split": 47.5,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 46.6,
+        "split": 46.5,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 46.7,
+        "split": 47.7,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 46.9,
+        "split": 47.2,
         "spm": 22,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 47.1,
+        "split": 46.9,
         "spm": 22,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 47.1,
+        "split": 48.1,
         "spm": 22,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 47.2,
+        "split": 46.9,
         "spm": 21,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 47.5,
+        "split": 47.0,
         "spm": 21,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 47.5,
+        "split": 48.6,
         "spm": 23,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 47.8,
+        "split": 46.3,
         "spm": 21,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 47.9,
+        "split": 48.3,
         "spm": 22,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 48.4,
+        "split": 48.2,
         "spm": 22,
         "rank": 41,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Park",
-        "split": 44.8,
+        "split": 45.6,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 45.5,
+        "split": 44.2,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 45.6,
+        "split": 45.3,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 45.7,
+        "split": 46.6,
         "spm": 21,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 45.9,
+        "split": 45.7,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 46.1,
+        "split": 47.6,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 46.2,
+        "split": 47.4,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 46.3,
+        "split": 45.7,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 46.3,
+        "split": 45.9,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 46.4,
+        "split": 47.3,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 46.5,
+        "split": 45.5,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 46.6,
+        "split": 47.5,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 46.6,
+        "split": 48.0,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 46.7,
+        "split": 45.3,
         "spm": 22,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 46.8,
+        "split": 46.0,
         "spm": 22,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 47.1,
+        "split": 48.1,
         "spm": 22,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 47.2,
+        "split": 48.4,
         "spm": 21,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.3,
+        "split": 46.9,
         "spm": 22,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 47.4,
+        "split": 48.7,
         "spm": 22,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 48.0,
+        "split": 49.2,
         "spm": 21,
         "rank": 40,
         "dnf": false
       }
     ],
-    "teamAvg": 46.4,
-    "bestSplit": 43.6,
+    "teamAvg": 47.1,
+    "bestSplit": 44.8,
     "bestAthlete": "Brandt",
     "participantCount": 41
   },
   {
-    "date": "2023-11-13",
-    "workout": "5km",
+    "date": "2025-04-03",
+    "workout": "Threshold Test C",
     "category": "threshold",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 32.6,
+        "split": 33.4,
         "spm": 30,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 34.0,
+        "split": 33.2,
         "spm": 29,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 35.2,
+        "split": 35.4,
         "spm": 29,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 35.4,
+        "split": 34.9,
         "spm": 32,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 35.6,
+        "split": 36.5,
         "spm": 28,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 35.7,
+        "split": 35.4,
         "spm": 30,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 36.8,
+        "split": 36.7,
         "spm": 29,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 36.8,
+        "split": 35.4,
         "spm": 30,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 37.3,
+        "split": 35.8,
         "spm": 30,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 37.9,
+        "split": 37.8,
         "spm": 27,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 38.2,
+        "split": 39.2,
         "spm": 29,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 38.4,
+        "split": 38.1,
         "spm": 27,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 38.5,
+        "split": 39.0,
         "spm": 27,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 38.6,
+        "split": 38.5,
         "spm": 27,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 38.7,
+        "split": 39.7,
         "spm": 27,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 39.4,
+        "split": 39.7,
         "spm": 28,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 39.6,
+        "split": 40.7,
         "spm": 30,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 39.7,
+        "split": 39.2,
         "spm": 28,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 40.3,
+        "split": 40.1,
         "spm": 28,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 40.6,
+        "split": 41.0,
         "spm": 27,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 41.1,
+        "split": 42.1,
         "spm": 27,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 42.7,
+        "split": 42.5,
         "spm": 27,
         "rank": 43,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Park",
-        "split": 34.1,
+        "split": 34.9,
         "spm": 29,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 35.7,
+        "split": 35.4,
         "spm": 28,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 36.3,
+        "split": 36.0,
         "spm": 29,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 36.7,
+        "split": 35.7,
         "spm": 29,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 36.9,
+        "split": 35.5,
         "spm": 28,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 37.2,
+        "split": 38.2,
         "spm": 28,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 37.4,
+        "split": 38.3,
         "spm": 31,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 37.8,
+        "split": 39.2,
         "spm": 27,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 38.4,
+        "split": 39.3,
         "spm": 29,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Mitchell",
-        "split": 38.4,
+        "split": 38.0,
         "spm": 31,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 38.5,
+        "split": 37.2,
         "spm": 29,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 38.6,
+        "split": 39.8,
         "spm": 27,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 38.8,
+        "split": 38.0,
         "spm": 30,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 39.1,
+        "split": 38.7,
         "spm": 29,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 39.5,
+        "split": 38.5,
         "spm": 29,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 39.7,
+        "split": 39.5,
         "spm": 29,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 39.8,
+        "split": 41.0,
         "spm": 28,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Duval",
-        "split": 40.5,
+        "split": 41.4,
         "spm": 29,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 41.0,
+        "split": 42.2,
         "spm": 28,
         "rank": 39,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 41.5,
+        "split": 42.8,
         "spm": 28,
         "rank": 41,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 41.7,
+        "split": 43.2,
         "spm": 28,
         "rank": 42,
         "dnf": false
       }
     ],
-    "teamAvg": 38.2,
-    "bestSplit": 32.6,
+    "teamAvg": 38.9,
+    "bestSplit": 34.1,
     "bestAthlete": "Chen",
     "participantCount": 43
   },
   {
-    "date": "2023-11-20",
-    "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+    "date": "2025-04-10",
+    "workout": "Threshold Test D",
     "category": "threshold",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 37.8,
+        "split": 38.6,
         "spm": 26,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 39.7,
+        "split": 38.9,
         "spm": 26,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 40.0,
+        "split": 40.9,
         "spm": 26,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 40.2,
+        "split": 39.9,
         "spm": 28,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 40.4,
+        "split": 40.6,
         "spm": 26,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 40.8,
+        "split": 40.3,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 40.9,
+        "split": 39.4,
         "spm": 31,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 41.3,
+        "split": 41.2,
         "spm": 28,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 42.3,
+        "split": 43.3,
         "spm": 26,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 42.4,
+        "split": 42.9,
         "spm": 25,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 42.7,
+        "split": 42.6,
         "spm": 26,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 43.0,
+        "split": 44.1,
         "spm": 29,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 43.1,
+        "split": 44.1,
         "spm": 28,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 43.5,
+        "split": 43.3,
         "spm": 26,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 43.9,
+        "split": 43.4,
         "spm": 27,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 43.9,
+        "split": 44.2,
         "spm": 27,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 44.5,
+        "split": 44.9,
         "spm": 27,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 44.6,
+        "split": 45.6,
         "spm": 24,
         "rank": 36,
         "dnf": false
@@ -7066,108 +7066,108 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Park",
-        "split": 39.8,
+        "split": 40.6,
         "spm": 26,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 40.1,
+        "split": 39.8,
         "spm": 26,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 41.0,
+        "split": 40.0,
         "spm": 25,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 41.1,
+        "split": 39.7,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 41.1,
+        "split": 40.8,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 41.1,
+        "split": 42.0,
         "spm": 29,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 42.3,
+        "split": 43.3,
         "spm": 26,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 42.5,
+        "split": 41.7,
         "spm": 29,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 42.8,
+        "split": 44.0,
         "spm": 25,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 42.8,
+        "split": 43.7,
         "spm": 26,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 42.9,
+        "split": 42.7,
         "spm": 27,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 43.2,
+        "split": 42.2,
         "spm": 29,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 44.1,
+        "split": 43.7,
         "spm": 27,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 44.8,
+        "split": 46.3,
         "spm": 25,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 45.7,
+        "split": 47.0,
         "spm": 26,
         "rank": 38,
         "dnf": false
@@ -7181,335 +7181,335 @@ export const sessions = [
       },
       {
         "name": "Bergman",
-        "split": 36.9,
+        "split": 35.6,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 38.3,
+        "split": 36.9,
         "spm": 28,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 39.0,
+        "split": 38.4,
         "spm": 28,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 39.2,
+        "split": 39.1,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 41.7,
+        "split": 41.5,
         "spm": 28,
         "rank": 19,
         "dnf": false
       }
     ],
-    "teamAvg": 41.7,
-    "bestSplit": 36.9,
+    "teamAvg": 42.4,
+    "bestSplit": 36.7,
     "bestAthlete": "Bergman",
     "participantCount": 40
   },
   {
-    "date": "2023-11-27",
-    "workout": "6x10' 90\" rest",
+    "date": "2025-04-17",
+    "workout": "Endurance Set J",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 43.4,
+        "split": 44.2,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 45.5,
+        "split": 44.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 45.6,
+        "split": 45.1,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 45.7,
+        "split": 45.4,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Novak",
-        "split": 45.9,
+        "split": 44.5,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Brandt",
-        "split": 46.1,
+        "split": 46.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Rivera",
-        "split": 46.3,
+        "split": 45.5,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 46.3,
+        "split": 46.2,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 46.3,
+        "split": 47.2,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 46.6,
+        "split": 46.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 46.6,
+        "split": 48.1,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 46.8,
+        "split": 47.9,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Tran",
-        "split": 46.9,
+        "split": 46.8,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Payne",
-        "split": 47.7,
+        "split": 47.5,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 47.7,
+        "split": 48.0,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 47.7,
+        "split": 48.1,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 47.9,
+        "split": 48.9,
         "spm": 20,
         "rank": 33,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 47.9,
+        "split": 48.9,
         "spm": 21,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 49.5,
+        "split": 49.2,
         "spm": 20,
         "rank": 39,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Klein",
-        "split": 44.8,
+        "split": 45.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 45.3,
+        "split": 45.0,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 45.6,
+        "split": 46.5,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Park",
-        "split": 45.7,
+        "split": 46.5,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Bergman",
-        "split": 45.7,
+        "split": 44.4,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 46.3,
+        "split": 45.3,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 46.3,
+        "split": 46.1,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 46.3,
+        "split": 47.7,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 46.4,
+        "split": 45.0,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 46.5,
+        "split": 46.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 46.5,
+        "split": 47.8,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 46.7,
+        "split": 47.9,
         "spm": 19,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 47.4,
+        "split": 46.6,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 47.4,
+        "split": 48.4,
         "spm": 20,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Sato",
-        "split": 47.5,
+        "split": 47.1,
         "spm": 20,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 47.8,
+        "split": 49.0,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 47.9,
+        "split": 49.1,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 48.0,
+        "split": 48.9,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 48.1,
+        "split": 47.1,
         "spm": 20,
         "rank": 37,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 48.5,
+        "split": 47.6,
         "spm": 20,
         "rank": 38,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 49.5,
+        "split": 49.3,
         "spm": 20,
         "rank": 40,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 50.4,
+        "split": 51.7,
         "spm": 20,
         "rank": 41,
         "dnf": false
@@ -7522,817 +7522,817 @@ export const sessions = [
         "dnf": true
       }
     ],
-    "teamAvg": 46.9,
-    "bestSplit": 43.4,
+    "teamAvg": 47.6,
+    "bestSplit": 42.6,
     "bestAthlete": "Chen",
     "participantCount": 42
   },
   {
-    "date": "2023-11-29",
-    "workout": "2x22' 3' Rest",
+    "date": "2025-04-19",
+    "workout": "Endurance Set I",
     "category": "steady_state",
-    "starboard": [
+    "groupA": [
       {
         "name": "Chen",
-        "split": 44.2,
+        "split": 45.0,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 45.3,
-        "spm": 20,
-        "rank": 3,
-        "dnf": false
-      },
-      {
-        "name": "Foster",
-        "split": 45.4,
-        "spm": 20,
-        "rank": 4,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 11,
-        "dnf": false
-      },
-      {
-        "name": "Novak",
-        "split": 46.6,
-        "spm": 21,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Brandt",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Tran",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 18,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 47.1,
-        "spm": 20,
-        "rank": 19,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 47.1,
-        "spm": 21,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 47.2,
-        "spm": 20,
-        "rank": 21,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 47.5,
-        "spm": 20,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 47.5,
-        "spm": 20,
-        "rank": 26,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 47.6,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Petrov",
-        "split": 47.6,
-        "spm": 20,
-        "rank": 29,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 47.9,
-        "spm": 20,
-        "rank": 33,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 47.9,
-        "spm": 21,
-        "rank": 34,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 48.4,
-        "spm": 20,
-        "rank": 35,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 48.8,
-        "spm": 21,
-        "rank": 36,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Park",
-        "split": 44.6,
-        "spm": 20,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Lehmann",
-        "split": 45.9,
-        "spm": 20,
-        "rank": 5,
-        "dnf": false
-      },
-      {
-        "name": "Keane",
-        "split": 46.1,
-        "spm": 20,
-        "rank": 6,
-        "dnf": false
-      },
-      {
-        "name": "Delacroix",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 8,
-        "dnf": false
-      },
-      {
-        "name": "Hartmann",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 9,
-        "dnf": false
-      },
-      {
-        "name": "Bergman",
-        "split": 46.3,
-        "spm": 21,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Petrowski",
-        "split": 46.6,
-        "spm": 20,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Van Berg",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "Romanov",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 16,
-        "dnf": false
-      },
-      {
-        "name": "Hawkins",
-        "split": 47.3,
-        "spm": 20,
-        "rank": 22,
-        "dnf": false
-      },
-      {
-        "name": "Thornton",
-        "split": 47.4,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Jensen",
-        "split": 47.4,
-        "spm": 20,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Volkov",
-        "split": 47.5,
-        "spm": 20,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Fischer",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 30,
-        "dnf": false
-      },
-      {
-        "name": "Klein",
-        "split": 47.7,
-        "spm": 20,
-        "rank": 31,
-        "dnf": false
-      },
-      {
-        "name": "Tanaka",
-        "split": 47.8,
-        "spm": 21,
-        "rank": 32,
-        "dnf": false
-      },
-      {
-        "name": "Larsson",
-        "split": 48.8,
-        "spm": 21,
-        "rank": 37,
-        "dnf": false
-      },
-      {
-        "name": "Lim",
-        "split": 48.8,
-        "spm": 21,
-        "rank": 38,
-        "dnf": false
-      },
-      {
-        "name": "Torres",
-        "split": 49.1,
-        "spm": 20,
-        "rank": 39,
-        "dnf": false
-      },
-      {
-        "name": "Santos",
-        "split": 52.1,
-        "spm": 20,
-        "rank": 40,
-        "dnf": false
-      }
-    ],
-    "teamAvg": 47.2,
-    "bestSplit": 44.2,
-    "bestAthlete": "Chen",
-    "participantCount": 40
-  },
-  {
-    "date": "2023-12-01",
-    "workout": "7' 30'' on, 1' rest",
-    "category": "threshold",
-    "starboard": [
-      {
-        "name": "Foster",
-        "split": 45.5,
-        "spm": 20,
-        "rank": 7,
-        "dnf": false
-      },
-      {
-        "name": "Payne",
-        "split": 46.0,
-        "spm": 20,
-        "rank": 10,
-        "dnf": false
-      },
-      {
-        "name": "Petrov",
-        "split": 46.1,
-        "spm": 20,
-        "rank": 12,
-        "dnf": false
-      },
-      {
-        "name": "Rivera",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 13,
-        "dnf": false
-      },
-      {
-        "name": "Cho",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 14,
-        "dnf": false
-      },
-      {
-        "name": "Ibrahimi",
-        "split": 46.2,
-        "spm": 20,
-        "rank": 15,
-        "dnf": false
-      },
-      {
-        "name": "O'Sullivan",
-        "split": 46.4,
-        "spm": 20,
-        "rank": 17,
-        "dnf": false
-      },
-      {
-        "name": "Bakker",
-        "split": 46.5,
-        "spm": 21,
-        "rank": 20,
-        "dnf": false
-      },
-      {
-        "name": "DB",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 23,
-        "dnf": false
-      },
-      {
-        "name": "Kowalski",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 24,
-        "dnf": false
-      },
-      {
-        "name": "Bennett",
-        "split": 46.7,
-        "spm": 20,
-        "rank": 25,
-        "dnf": false
-      },
-      {
-        "name": "Reeves",
-        "split": 46.8,
-        "spm": 20,
-        "rank": 27,
-        "dnf": false
-      },
-      {
-        "name": "Malik",
-        "split": 46.9,
-        "spm": 20,
-        "rank": 28,
-        "dnf": false
-      },
-      {
-        "name": "Lindqvist",
-        "split": 47.4,
-        "spm": 20,
-        "rank": 33,
-        "dnf": false
-      }
-    ],
-    "port": [
-      {
-        "name": "Keane",
-        "split": 44.6,
-        "spm": 20,
-        "rank": 1,
-        "dnf": false
-      },
-      {
-        "name": "Okafor",
-        "split": 44.7,
-        "spm": 20,
-        "rank": 2,
-        "dnf": false
-      },
-      {
-        "name": "Park",
         "split": 44.8,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Delacroix",
-        "split": 45.0,
+        "name": "Foster",
+        "split": 45.1,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Romanov",
+        "name": "Cho",
+        "split": 46.5,
+        "spm": 20,
+        "rank": 11,
+        "dnf": false
+      },
+      {
+        "name": "Novak",
         "split": 45.2,
+        "spm": 21,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 47.9,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Brandt",
+        "split": 47.1,
+        "spm": 20,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Tran",
+        "split": 46.8,
+        "spm": 20,
+        "rank": 18,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 46.3,
+        "spm": 20,
+        "rank": 19,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 48.1,
+        "spm": 21,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 45.7,
+        "spm": 20,
+        "rank": 21,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 47.3,
+        "spm": 20,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 47.2,
+        "spm": 20,
+        "rank": 26,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 49.1,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 47.9,
+        "spm": 20,
+        "rank": 29,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 47.8,
+        "spm": 20,
+        "rank": 33,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 48.9,
+        "spm": 21,
+        "rank": 34,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 47.9,
+        "spm": 20,
+        "rank": 35,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 49.2,
+        "spm": 21,
+        "rank": 36,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Park",
+        "split": 45.4,
+        "spm": 20,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Lehmann",
+        "split": 46.8,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Van Berg",
-        "split": 45.4,
+        "name": "Keane",
+        "split": 47.3,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Hartmann",
-        "split": 45.5,
+        "name": "Delacroix",
+        "split": 45.3,
+        "spm": 20,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 45.2,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Petrowski",
-        "split": 45.5,
+        "name": "Hartmann",
+        "split": 45.9,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Bergman",
+        "split": 45.0,
+        "spm": 21,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 46.4,
+        "spm": 20,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 48.2,
+        "spm": 20,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
         "split": 46.0,
+        "spm": 20,
+        "rank": 16,
+        "dnf": false
+      },
+      {
+        "name": "Hawkins",
+        "split": 47.0,
+        "spm": 20,
+        "rank": 22,
+        "dnf": false
+      },
+      {
+        "name": "Thornton",
+        "split": 46.4,
+        "spm": 20,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Jensen",
+        "split": 48.3,
+        "spm": 20,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Volkov",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Fischer",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 30,
+        "dnf": false
+      },
+      {
+        "name": "Klein",
+        "split": 48.7,
+        "spm": 20,
+        "rank": 31,
+        "dnf": false
+      },
+      {
+        "name": "Tanaka",
+        "split": 46.4,
+        "spm": 21,
+        "rank": 32,
+        "dnf": false
+      },
+      {
+        "name": "Larsson",
+        "split": 48.6,
+        "spm": 21,
+        "rank": 37,
+        "dnf": false
+      },
+      {
+        "name": "Lim",
+        "split": 50.0,
+        "spm": 21,
+        "rank": 38,
+        "dnf": false
+      },
+      {
+        "name": "Torres",
+        "split": 50.4,
+        "spm": 20,
+        "rank": 39,
+        "dnf": false
+      },
+      {
+        "name": "Santos",
+        "split": 51.3,
+        "spm": 20,
+        "rank": 40,
+        "dnf": false
+      }
+    ],
+    "teamAvg": 47.9,
+    "bestSplit": 43.4,
+    "bestAthlete": "Chen",
+    "participantCount": 40
+  },
+  {
+    "date": "2025-04-21",
+    "workout": "Threshold Test E",
+    "category": "threshold",
+    "groupA": [
+      {
+        "name": "Foster",
+        "split": 45.2,
+        "spm": 20,
+        "rank": 7,
+        "dnf": false
+      },
+      {
+        "name": "Payne",
+        "split": 45.8,
+        "spm": 20,
+        "rank": 10,
+        "dnf": false
+      },
+      {
+        "name": "Petrov",
+        "split": 46.4,
+        "spm": 20,
+        "rank": 12,
+        "dnf": false
+      },
+      {
+        "name": "Rivera",
+        "split": 45.4,
+        "spm": 20,
+        "rank": 13,
+        "dnf": false
+      },
+      {
+        "name": "Cho",
+        "split": 46.1,
+        "spm": 20,
+        "rank": 14,
+        "dnf": false
+      },
+      {
+        "name": "Ibrahimi",
+        "split": 45.9,
+        "spm": 20,
+        "rank": 15,
+        "dnf": false
+      },
+      {
+        "name": "O'Sullivan",
+        "split": 47.4,
+        "spm": 20,
+        "rank": 17,
+        "dnf": false
+      },
+      {
+        "name": "Bakker",
+        "split": 47.5,
+        "spm": 21,
+        "rank": 20,
+        "dnf": false
+      },
+      {
+        "name": "DB",
+        "split": 47.8,
+        "spm": 20,
+        "rank": 23,
+        "dnf": false
+      },
+      {
+        "name": "Kowalski",
+        "split": 46.2,
+        "spm": 20,
+        "rank": 24,
+        "dnf": false
+      },
+      {
+        "name": "Bennett",
+        "split": 46.6,
+        "spm": 20,
+        "rank": 25,
+        "dnf": false
+      },
+      {
+        "name": "Reeves",
+        "split": 47.2,
+        "spm": 20,
+        "rank": 27,
+        "dnf": false
+      },
+      {
+        "name": "Malik",
+        "split": 48.4,
+        "spm": 20,
+        "rank": 28,
+        "dnf": false
+      },
+      {
+        "name": "Lindqvist",
+        "split": 45.9,
+        "spm": 20,
+        "rank": 33,
+        "dnf": false
+      }
+    ],
+    "groupB": [
+      {
+        "name": "Keane",
+        "split": 45.8,
+        "spm": 20,
+        "rank": 1,
+        "dnf": false
+      },
+      {
+        "name": "Okafor",
+        "split": 43.7,
+        "spm": 20,
+        "rank": 2,
+        "dnf": false
+      },
+      {
+        "name": "Park",
+        "split": 45.6,
+        "spm": 20,
+        "rank": 3,
+        "dnf": false
+      },
+      {
+        "name": "Delacroix",
+        "split": 44.1,
+        "spm": 20,
+        "rank": 4,
+        "dnf": false
+      },
+      {
+        "name": "Romanov",
+        "split": 44.4,
+        "spm": 20,
+        "rank": 5,
+        "dnf": false
+      },
+      {
+        "name": "Van Berg",
+        "split": 46.8,
+        "spm": 20,
+        "rank": 6,
+        "dnf": false
+      },
+      {
+        "name": "Hartmann",
+        "split": 45.2,
+        "spm": 20,
+        "rank": 8,
+        "dnf": false
+      },
+      {
+        "name": "Petrowski",
+        "split": 45.3,
+        "spm": 20,
+        "rank": 9,
+        "dnf": false
+      },
+      {
+        "name": "Bergman",
+        "split": 44.7,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Klein",
-        "split": 46.2,
+        "split": 47.2,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Hawkins",
-        "split": 46.4,
+        "split": 46.1,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Dalton",
-        "split": 46.4,
+        "split": 45.8,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "Fischer",
-        "split": 46.6,
+        "split": 47.6,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 46.6,
+        "split": 47.5,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Cruz",
-        "split": 46.7,
+        "split": 48.0,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 46.9,
+        "split": 45.5,
         "spm": 20,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 46.9,
+        "split": 45.9,
         "spm": 20,
         "rank": 30,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 47.0,
+        "split": 48.2,
         "spm": 20,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 47.1,
+        "split": 48.3,
         "spm": 20,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 47.6,
+        "split": 48.5,
         "spm": 20,
         "rank": 34,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 49.0,
+        "split": 50.3,
         "spm": 20,
         "rank": 35,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 49.1,
+        "split": 48.9,
         "spm": 20,
         "rank": 36,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 50.7,
+        "split": 49.9,
         "spm": 20,
         "rank": 37,
         "dnf": false
       }
     ],
-    "teamAvg": 46.5,
-    "bestSplit": 44.6,
+    "teamAvg": 47.2,
+    "bestSplit": 43.8,
     "bestAthlete": "Keane",
     "participantCount": 37
   },
   {
-    "date": "2023-12-03",
-    "workout": "4x4', 4' rest",
+    "date": "2025-04-23",
+    "workout": "Threshold Test F",
     "category": "threshold",
-    "starboard": [
+    "groupA": [
       {
         "name": "Rivera",
-        "split": 32.5,
+        "split": 31.7,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
         "name": "De Vries",
-        "split": 33.3,
+        "split": 34.2,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
         "name": "Eriksson",
-        "split": 34.5,
+        "split": 34.0,
         "spm": 27,
         "rank": 4,
         "dnf": false
       },
       {
         "name": "Lindqvist",
-        "split": 34.6,
+        "split": 33.1,
         "spm": 27,
         "rank": 5,
         "dnf": false
       },
       {
         "name": "Foster",
-        "split": 34.9,
+        "split": 34.6,
         "spm": 27,
         "rank": 7,
         "dnf": false
       },
       {
         "name": "Bennett",
-        "split": 35.7,
+        "split": 35.6,
         "spm": 27,
         "rank": 11,
         "dnf": false
       },
       {
         "name": "Ibrahimi",
-        "split": 35.8,
+        "split": 35.5,
         "spm": 26,
         "rank": 12,
         "dnf": false
       },
       {
         "name": "O'Sullivan",
-        "split": 36.0,
+        "split": 37.0,
         "spm": 28,
         "rank": 14,
         "dnf": false
       },
       {
         "name": "Hayes",
-        "split": 36.4,
+        "split": 36.9,
         "spm": 26,
         "rank": 15,
         "dnf": false
       },
       {
         "name": "Cho",
-        "split": 36.4,
+        "split": 36.3,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
         "name": "Petrov",
-        "split": 37.1,
+        "split": 37.4,
         "spm": 27,
         "rank": 19,
         "dnf": false
       },
       {
         "name": "DB",
-        "split": 37.2,
+        "split": 38.3,
         "spm": 28,
         "rank": 20,
         "dnf": false
       },
       {
         "name": "Lehmann",
-        "split": 37.4,
+        "split": 38.3,
         "spm": 27,
         "rank": 22,
         "dnf": false
       },
       {
         "name": "Reeves",
-        "split": 37.5,
+        "split": 37.9,
         "spm": 27,
         "rank": 23,
         "dnf": false
       },
       {
         "name": "Kowalski",
-        "split": 37.8,
+        "split": 37.3,
         "spm": 27,
         "rank": 28,
         "dnf": false
       },
       {
         "name": "Malik",
-        "split": 37.9,
+        "split": 39.4,
         "spm": 26,
         "rank": 29,
         "dnf": false
       },
       {
         "name": "Bakker",
-        "split": 39.0,
+        "split": 40.0,
         "spm": 27,
         "rank": 30,
         "dnf": false
       }
     ],
-    "port": [
+    "groupB": [
       {
         "name": "Hawkins",
-        "split": 33.5,
+        "split": 33.2,
         "spm": 28,
         "rank": 3,
         "dnf": false
       },
       {
         "name": "Okafor",
-        "split": 34.7,
+        "split": 33.7,
         "spm": 27,
         "rank": 6,
         "dnf": false
       },
       {
         "name": "Hartmann",
-        "split": 34.9,
+        "split": 34.6,
         "spm": 27,
         "rank": 8,
         "dnf": false
       },
       {
         "name": "Keane",
-        "split": 35.2,
+        "split": 36.4,
         "spm": 26,
         "rank": 9,
         "dnf": false
       },
       {
         "name": "Tanaka",
-        "split": 35.5,
+        "split": 34.1,
         "spm": 27,
         "rank": 10,
         "dnf": false
       },
       {
         "name": "Petrowski",
-        "split": 35.8,
+        "split": 35.6,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
         "name": "Van Berg",
-        "split": 36.4,
+        "split": 37.8,
         "spm": 27,
         "rank": 17,
         "dnf": false
       },
       {
         "name": "Romanov",
-        "split": 36.5,
+        "split": 35.7,
         "spm": 27,
         "rank": 18,
         "dnf": false
       },
       {
         "name": "Volkov",
-        "split": 37.2,
+        "split": 38.4,
         "spm": 27,
         "rank": 21,
         "dnf": false
       },
       {
         "name": "Delacroix",
-        "split": 37.5,
+        "split": 36.6,
         "spm": 26,
         "rank": 24,
         "dnf": false
       },
       {
         "name": "Thornton",
-        "split": 37.5,
+        "split": 36.5,
         "spm": 27,
         "rank": 25,
         "dnf": false
       },
       {
         "name": "Lim",
-        "split": 37.6,
+        "split": 38.8,
         "spm": 29,
         "rank": 26,
         "dnf": false
       },
       {
         "name": "Jensen",
-        "split": 37.7,
+        "split": 38.6,
         "spm": 27,
         "rank": 27,
         "dnf": false
       },
       {
         "name": "Larsson",
-        "split": 39.3,
+        "split": 39.1,
         "spm": 27,
         "rank": 31,
         "dnf": false
       },
       {
         "name": "Santos",
-        "split": 39.8,
+        "split": 39.0,
         "spm": 26,
         "rank": 32,
         "dnf": false
       },
       {
         "name": "Torres",
-        "split": 40.6,
+        "split": 41.9,
         "spm": 27,
         "rank": 33,
         "dnf": false
       }
     ],
-    "teamAvg": 36.5,
-    "bestSplit": 32.5,
+    "teamAvg": 37.2,
+    "bestSplit": 33.8,
     "bestAthlete": "Rivera",
     "participantCount": 33
   }
@@ -8341,16 +8341,16 @@ export const sessions = [
 export const athletes = [
   {
     "name": "Chen",
-    "avgSplit": 41.1,
-    "bestSplit": 32.6,
+    "avgSplit": 42.4,
+    "bestSplit": 33.4,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -2.3,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 44.7,
         "spm": 20,
@@ -8359,8 +8359,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 43.5,
         "spm": 20,
@@ -8369,8 +8369,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 44.2,
         "spm": 20,
@@ -8379,8 +8379,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 41.6,
         "spm": 22,
@@ -8389,8 +8389,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 38.7,
         "spm": 22,
@@ -8399,8 +8399,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 43.9,
         "spm": 20,
@@ -8409,8 +8409,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 43.9,
         "spm": 20,
@@ -8419,8 +8419,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 39.3,
         "spm": 22,
@@ -8429,8 +8429,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 37.7,
         "spm": 24,
@@ -8439,8 +8439,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 44.8,
         "spm": 19,
@@ -8449,8 +8449,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 44.7,
         "spm": 20,
@@ -8459,8 +8459,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 44.0,
         "spm": 20,
@@ -8469,8 +8469,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 39.0,
         "spm": 22,
@@ -8479,8 +8479,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 42.2,
         "spm": 20,
@@ -8489,8 +8489,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 37.3,
         "spm": 24,
@@ -8499,8 +8499,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 44.6,
         "spm": 20,
@@ -8509,8 +8509,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 33.4,
         "spm": 29,
@@ -8519,8 +8519,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 44.1,
         "spm": 20,
@@ -8529,8 +8529,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 33.6,
         "spm": 29,
@@ -8539,8 +8539,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 43.6,
         "spm": 22,
@@ -8549,8 +8549,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 32.6,
         "spm": 30,
@@ -8559,8 +8559,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 37.8,
         "spm": 26,
@@ -8569,8 +8569,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 43.4,
         "spm": 20,
@@ -8579,8 +8579,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 44.2,
         "spm": 20,
@@ -8593,16 +8593,16 @@ export const athletes = [
   },
   {
     "name": "De Vries",
-    "avgSplit": 41.7,
-    "bestSplit": 33.3,
+    "avgSplit": 42.6,
+    "bestSplit": 34.2,
     "totalSessions": 14,
     "trend": "improving",
     "trendDelta": -7.6,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -8611,8 +8611,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.7,
         "spm": 21,
@@ -8621,8 +8621,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.2,
         "spm": 22,
@@ -8631,8 +8631,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.1,
         "spm": 22,
@@ -8641,8 +8641,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.1,
         "spm": 20,
@@ -8651,8 +8651,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.3,
         "spm": 22,
@@ -8661,8 +8661,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.5,
         "spm": 24,
@@ -8671,8 +8671,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.6,
         "spm": 24,
@@ -8681,8 +8681,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.1,
         "spm": 29,
@@ -8691,8 +8691,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.3,
         "spm": 28,
@@ -8701,8 +8701,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 35.6,
         "spm": 28,
@@ -8711,8 +8711,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.0,
         "spm": 26,
@@ -8721,8 +8721,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -8731,8 +8731,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 33.3,
         "spm": 27,
@@ -8745,16 +8745,16 @@ export const athletes = [
   },
   {
     "name": "Johansson",
-    "avgSplit": 42.6,
-    "bestSplit": 37.6,
+    "avgSplit": 43.3,
+    "bestSplit": 38.3,
     "totalSessions": 15,
     "trend": "improving",
     "trendDelta": -2.6,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 45.6,
         "spm": 20,
@@ -8763,8 +8763,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 42.9,
         "spm": 20,
@@ -8773,8 +8773,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 43.9,
         "spm": 20,
@@ -8783,8 +8783,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 41.5,
         "spm": 22,
@@ -8793,8 +8793,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 39.4,
         "spm": 22,
@@ -8803,8 +8803,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 46.1,
         "spm": 20,
@@ -8813,8 +8813,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 44.1,
         "spm": 20,
@@ -8823,8 +8823,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 39.8,
         "spm": 22,
@@ -8833,8 +8833,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.3,
         "spm": 20,
@@ -8843,8 +8843,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 43.9,
         "spm": 20,
@@ -8853,8 +8853,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 39.8,
         "spm": 22,
@@ -8863,8 +8863,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 42.5,
         "spm": 21,
@@ -8873,8 +8873,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 37.6,
         "spm": 24,
@@ -8883,8 +8883,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 43.9,
         "spm": 20,
@@ -8893,8 +8893,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 43.2,
         "spm": 20,
@@ -8907,16 +8907,16 @@ export const athletes = [
   },
   {
     "name": "Eriksson",
-    "avgSplit": 42.9,
-    "bestSplit": 34.5,
+    "avgSplit": 42.4,
+    "bestSplit": 34.0,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -4.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.3,
         "spm": 18,
@@ -8925,8 +8925,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.2,
         "spm": 18,
@@ -8935,8 +8935,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 44.9,
         "spm": 20,
@@ -8945,8 +8945,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.6,
         "spm": 21,
@@ -8955,8 +8955,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.5,
         "spm": 22,
@@ -8965,8 +8965,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 46.6,
         "spm": 20,
@@ -8975,8 +8975,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 44.2,
         "spm": 19,
@@ -8985,8 +8985,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.6,
         "spm": 22,
@@ -8995,8 +8995,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.9,
         "spm": 24,
@@ -9005,8 +9005,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 46.2,
         "spm": 19,
@@ -9015,8 +9015,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 49.2,
         "spm": 20,
@@ -9025,8 +9025,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 41.9,
         "spm": 22,
@@ -9035,8 +9035,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 44.3,
         "spm": 20,
@@ -9045,8 +9045,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.5,
         "spm": 24,
@@ -9055,8 +9055,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 45.3,
         "spm": 20,
@@ -9065,8 +9065,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.0,
         "spm": 30,
@@ -9075,8 +9075,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 44.2,
         "spm": 20,
@@ -9085,8 +9085,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.5,
         "spm": 30,
@@ -9095,8 +9095,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.2,
         "spm": 22,
@@ -9105,8 +9105,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 35.4,
         "spm": 32,
@@ -9115,8 +9115,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.8,
         "spm": 28,
@@ -9125,8 +9125,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.6,
         "spm": 20,
@@ -9135,8 +9135,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 45.3,
         "spm": 20,
@@ -9145,8 +9145,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 34.5,
         "spm": 27,
@@ -9159,16 +9159,16 @@ export const athletes = [
   },
   {
     "name": "Hayes",
-    "avgSplit": 43.1,
-    "bestSplit": 36.4,
+    "avgSplit": 43.6,
+    "bestSplit": 36.9,
     "totalSessions": 14,
     "trend": "improving",
     "trendDelta": -6.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -9177,8 +9177,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.6,
         "spm": 22,
@@ -9187,8 +9187,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.9,
         "spm": 22,
@@ -9197,8 +9197,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.4,
         "spm": 22,
@@ -9207,8 +9207,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.7,
         "spm": 24,
@@ -9217,8 +9217,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.7,
         "spm": 20,
@@ -9227,8 +9227,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.5,
         "spm": 22,
@@ -9237,8 +9237,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.0,
         "spm": 24,
@@ -9247,8 +9247,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.0,
         "spm": 27,
@@ -9257,8 +9257,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.6,
         "spm": 27,
@@ -9267,8 +9267,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -9277,8 +9277,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.5,
         "spm": 27,
@@ -9287,8 +9287,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.4,
         "spm": 25,
@@ -9297,8 +9297,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 36.4,
         "spm": 26,
@@ -9311,16 +9311,16 @@ export const athletes = [
   },
   {
     "name": "Park",
-    "avgSplit": 43.1,
-    "bestSplit": 34.1,
+    "avgSplit": 43.9,
+    "bestSplit": 34.9,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -1.9,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.2,
         "spm": 18,
@@ -9329,8 +9329,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.0,
         "spm": 17,
@@ -9339,8 +9339,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 44.5,
         "spm": 20,
@@ -9349,8 +9349,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.3,
         "spm": 22,
@@ -9359,8 +9359,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 41.6,
         "spm": 22,
@@ -9369,8 +9369,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.1,
         "spm": 20,
@@ -9379,8 +9379,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.6,
         "spm": 19,
@@ -9389,8 +9389,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 41.1,
         "spm": 22,
@@ -9399,8 +9399,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.5,
         "spm": 24,
@@ -9409,8 +9409,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 46.5,
         "spm": 19,
@@ -9419,8 +9419,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 44.7,
         "spm": 20,
@@ -9429,8 +9429,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 44.8,
         "spm": 20,
@@ -9439,8 +9439,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 40.9,
         "spm": 22,
@@ -9449,8 +9449,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 44.8,
         "spm": 20,
@@ -9459,8 +9459,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.5,
         "spm": 24,
@@ -9469,8 +9469,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 45.8,
         "spm": 20,
@@ -9479,8 +9479,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 35.7,
         "spm": 28,
@@ -9489,8 +9489,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 43.7,
         "spm": 20,
@@ -9499,8 +9499,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 35.1,
         "spm": 28,
@@ -9509,8 +9509,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 44.8,
         "spm": 22,
@@ -9519,8 +9519,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 34.1,
         "spm": 29,
@@ -9529,8 +9529,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 39.8,
         "spm": 26,
@@ -9539,8 +9539,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.7,
         "spm": 20,
@@ -9549,8 +9549,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 44.6,
         "spm": 20,
@@ -9559,8 +9559,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 44.8,
         "spm": 20,
@@ -9573,16 +9573,16 @@ export const athletes = [
   },
   {
     "name": "Foster",
-    "avgSplit": 43.2,
-    "bestSplit": 34.9,
+    "avgSplit": 42.9,
+    "bestSplit": 34.6,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -4.6,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.3,
         "spm": 18,
@@ -9591,8 +9591,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.8,
         "spm": 18,
@@ -9601,8 +9601,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 44.4,
         "spm": 20,
@@ -9611,8 +9611,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.0,
         "spm": 21,
@@ -9621,8 +9621,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.1,
         "spm": 22,
@@ -9631,8 +9631,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 46.4,
         "spm": 20,
@@ -9641,8 +9641,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.5,
         "spm": 19,
@@ -9651,8 +9651,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.4,
         "spm": 22,
@@ -9661,8 +9661,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.9,
         "spm": 24,
@@ -9671,8 +9671,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 45.7,
         "spm": 19,
@@ -9681,8 +9681,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.9,
         "spm": 20,
@@ -9691,8 +9691,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.0,
         "spm": 20,
@@ -9701,8 +9701,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.0,
         "spm": 22,
@@ -9711,8 +9711,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 45.3,
         "spm": 20,
@@ -9721,8 +9721,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.5,
         "spm": 24,
@@ -9731,8 +9731,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 45.7,
         "spm": 20,
@@ -9741,8 +9741,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.9,
         "spm": 30,
@@ -9751,8 +9751,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.5,
         "spm": 20,
@@ -9761,8 +9761,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.7,
         "spm": 30,
@@ -9771,8 +9771,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 43.8,
         "spm": 22,
@@ -9781,8 +9781,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 35.7,
         "spm": 30,
@@ -9791,8 +9791,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.2,
         "spm": 28,
@@ -9801,8 +9801,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.7,
         "spm": 20,
@@ -9811,8 +9811,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 45.4,
         "spm": 20,
@@ -9821,8 +9821,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.5,
         "spm": 20,
@@ -9831,8 +9831,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 34.9,
         "spm": 27,
@@ -9845,16 +9845,16 @@ export const athletes = [
   },
   {
     "name": "Rivera",
-    "avgSplit": 43.4,
-    "bestSplit": 32.5,
+    "avgSplit": 42.6,
+    "bestSplit": 31.7,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -5.6,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -9863,8 +9863,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -9873,8 +9873,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.0,
         "spm": 20,
@@ -9883,8 +9883,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.8,
         "spm": 22,
@@ -9893,8 +9893,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.4,
         "spm": 22,
@@ -9903,8 +9903,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.0,
         "spm": 20,
@@ -9913,8 +9913,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -9923,8 +9923,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 41.4,
         "spm": 22,
@@ -9933,8 +9933,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.9,
         "spm": 24,
@@ -9943,8 +9943,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.3,
         "spm": 19,
@@ -9953,8 +9953,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.7,
         "spm": 20,
@@ -9963,8 +9963,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.5,
         "spm": 20,
@@ -9973,8 +9973,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 40.8,
         "spm": 22,
@@ -9983,8 +9983,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.7,
         "spm": 20,
@@ -9993,8 +9993,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.3,
         "spm": 24,
@@ -10003,8 +10003,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.2,
         "spm": 19,
@@ -10013,8 +10013,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 34.5,
         "spm": 27,
@@ -10023,8 +10023,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.5,
         "spm": 20,
@@ -10033,8 +10033,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 35.1,
         "spm": 27,
@@ -10043,8 +10043,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 44.1,
         "spm": 22,
@@ -10053,8 +10053,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 34.0,
         "spm": 29,
@@ -10063,8 +10063,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 39.7,
         "spm": 26,
@@ -10073,8 +10073,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 19,
@@ -10083,8 +10083,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -10093,8 +10093,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.2,
         "spm": 20,
@@ -10103,8 +10103,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 32.5,
         "spm": 28,
@@ -10117,16 +10117,16 @@ export const athletes = [
   },
   {
     "name": "Hartmann",
-    "avgSplit": 43.8,
-    "bestSplit": 34.9,
+    "avgSplit": 43.5,
+    "bestSplit": 34.6,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -4.6,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.7,
         "spm": 18,
@@ -10135,8 +10135,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -10145,8 +10145,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.0,
         "spm": 20,
@@ -10155,8 +10155,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.9,
         "spm": 21,
@@ -10165,8 +10165,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.8,
         "spm": 22,
@@ -10175,8 +10175,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.7,
         "spm": 20,
@@ -10185,8 +10185,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.0,
         "spm": 20,
@@ -10195,8 +10195,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.0,
         "spm": 22,
@@ -10205,8 +10205,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.3,
         "spm": 24,
@@ -10215,8 +10215,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 47.5,
         "spm": 19,
@@ -10225,8 +10225,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.1,
         "spm": 20,
@@ -10235,8 +10235,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.6,
         "spm": 20,
@@ -10245,8 +10245,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.5,
         "spm": 22,
@@ -10255,8 +10255,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -10265,8 +10265,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.6,
         "spm": 24,
@@ -10275,8 +10275,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -10285,8 +10285,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.4,
         "spm": 29,
@@ -10295,8 +10295,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.5,
         "spm": 20,
@@ -10305,8 +10305,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.6,
         "spm": 29,
@@ -10315,8 +10315,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 45.6,
         "spm": 22,
@@ -10325,8 +10325,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 36.3,
         "spm": 29,
@@ -10335,8 +10335,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.1,
         "spm": 27,
@@ -10345,8 +10345,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.3,
         "spm": 20,
@@ -10355,8 +10355,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.2,
         "spm": 20,
@@ -10365,8 +10365,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.5,
         "spm": 20,
@@ -10375,8 +10375,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 34.9,
         "spm": 27,
@@ -10389,16 +10389,16 @@ export const athletes = [
   },
   {
     "name": "Hawkins",
-    "avgSplit": 43.9,
-    "bestSplit": 33.5,
+    "avgSplit": 43.6,
+    "bestSplit": 33.2,
     "totalSessions": 22,
     "trend": "improving",
     "trendDelta": -5.4,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -10407,8 +10407,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -10417,8 +10417,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.2,
         "spm": 20,
@@ -10427,8 +10427,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 43.7,
         "spm": 22,
@@ -10437,8 +10437,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.3,
         "spm": 22,
@@ -10447,8 +10447,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.2,
         "spm": 20,
@@ -10457,8 +10457,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -10467,8 +10467,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.9,
         "spm": 22,
@@ -10477,8 +10477,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.2,
         "spm": 24,
@@ -10487,8 +10487,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.5,
         "spm": 19,
@@ -10497,8 +10497,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.2,
         "spm": 21,
@@ -10507,8 +10507,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -10517,8 +10517,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 41.6,
         "spm": 22,
@@ -10527,8 +10527,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -10537,8 +10537,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.8,
         "spm": 24,
@@ -10547,8 +10547,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 37.0,
         "spm": 26,
@@ -10557,8 +10557,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 35.7,
         "spm": 28,
@@ -10567,8 +10567,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.1,
         "spm": 26,
@@ -10577,8 +10577,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.5,
         "spm": 20,
@@ -10587,8 +10587,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -10597,8 +10597,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.4,
         "spm": 20,
@@ -10607,8 +10607,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 33.5,
         "spm": 28,
@@ -10621,16 +10621,16 @@ export const athletes = [
   },
   {
     "name": "Brandt",
-    "avgSplit": 44.0,
-    "bestSplit": 35.2,
+    "avgSplit": 44.2,
+    "bestSplit": 35.4,
     "totalSessions": 22,
     "trend": "improving",
     "trendDelta": -0.9,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.5,
         "spm": 20,
@@ -10639,8 +10639,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.1,
         "spm": 22,
@@ -10649,8 +10649,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.4,
         "spm": 22,
@@ -10659,8 +10659,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.2,
         "spm": 20,
@@ -10669,8 +10669,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -10679,8 +10679,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.8,
         "spm": 22,
@@ -10689,8 +10689,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.4,
         "spm": 24,
@@ -10699,8 +10699,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.6,
         "spm": 19,
@@ -10709,8 +10709,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.0,
         "spm": 20,
@@ -10719,8 +10719,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -10729,8 +10729,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.2,
         "spm": 22,
@@ -10739,8 +10739,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -10749,8 +10749,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.0,
         "spm": 24,
@@ -10759,8 +10759,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -10769,8 +10769,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.2,
         "spm": 28,
@@ -10779,8 +10779,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -10789,8 +10789,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.4,
         "spm": 28,
@@ -10799,8 +10799,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 43.6,
         "spm": 22,
@@ -10809,8 +10809,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 35.2,
         "spm": 29,
@@ -10819,8 +10819,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.4,
         "spm": 26,
@@ -10829,8 +10829,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.1,
         "spm": 20,
@@ -10839,8 +10839,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -10853,16 +10853,16 @@ export const athletes = [
   },
   {
     "name": "Okafor",
-    "avgSplit": 44.1,
-    "bestSplit": 34.7,
+    "avgSplit": 43.1,
+    "bestSplit": 33.7,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -5.6,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.3,
         "spm": 20,
@@ -10871,8 +10871,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.1,
         "spm": 20,
@@ -10881,8 +10881,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 47.1,
         "spm": 20,
@@ -10891,8 +10891,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.9,
         "spm": 22,
@@ -10901,8 +10901,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.0,
         "spm": 22,
@@ -10911,8 +10911,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.5,
         "spm": 20,
@@ -10921,8 +10921,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -10931,8 +10931,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.6,
         "spm": 22,
@@ -10941,8 +10941,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.0,
         "spm": 24,
@@ -10951,8 +10951,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.1,
         "spm": 19,
@@ -10961,8 +10961,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.0,
         "spm": 18,
@@ -10971,8 +10971,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -10981,8 +10981,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.1,
         "spm": 22,
@@ -10991,8 +10991,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -11001,8 +11001,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.8,
         "spm": 24,
@@ -11011,8 +11011,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -11021,8 +11021,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 36.9,
         "spm": 29,
@@ -11031,8 +11031,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -11041,8 +11041,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 36.9,
         "spm": 28,
@@ -11051,8 +11051,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 36.7,
         "spm": 29,
@@ -11061,8 +11061,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.0,
         "spm": 25,
@@ -11071,8 +11071,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 19,
@@ -11081,8 +11081,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.2,
         "spm": 20,
@@ -11091,8 +11091,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 44.7,
         "spm": 20,
@@ -11101,8 +11101,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 34.7,
         "spm": 27,
@@ -11115,16 +11115,16 @@ export const athletes = [
   },
   {
     "name": "Novak",
-    "avgSplit": 44.2,
-    "bestSplit": 36.8,
+    "avgSplit": 42.8,
+    "bestSplit": 35.4,
     "totalSessions": 22,
     "trend": "improving",
     "trendDelta": -3.1,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -11133,8 +11133,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -11143,8 +11143,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.5,
         "spm": 20,
@@ -11153,8 +11153,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.6,
         "spm": 22,
@@ -11163,8 +11163,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.0,
         "spm": 22,
@@ -11173,8 +11173,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.8,
         "spm": 20,
@@ -11183,8 +11183,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -11193,8 +11193,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.0,
         "spm": 22,
@@ -11203,8 +11203,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.5,
         "spm": 24,
@@ -11213,8 +11213,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -11223,8 +11223,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.9,
         "spm": 20,
@@ -11233,8 +11233,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.2,
         "spm": 20,
@@ -11243,8 +11243,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 41.9,
         "spm": 22,
@@ -11253,8 +11253,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -11263,8 +11263,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.7,
         "spm": 28,
@@ -11273,8 +11273,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -11283,8 +11283,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 37.4,
         "spm": 28,
@@ -11293,8 +11293,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -11303,8 +11303,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 36.8,
         "spm": 30,
@@ -11313,8 +11313,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 38.3,
         "spm": 28,
@@ -11323,8 +11323,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -11333,8 +11333,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.6,
         "spm": 21,
@@ -11347,16 +11347,16 @@ export const athletes = [
   },
   {
     "name": "Bergman",
-    "avgSplit": 44.6,
-    "bestSplit": 36.9,
+    "avgSplit": 43.3,
+    "bestSplit": 35.6,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -2.3,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -11365,8 +11365,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -11375,8 +11375,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.2,
         "spm": 20,
@@ -11385,8 +11385,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.1,
         "spm": 22,
@@ -11395,8 +11395,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.1,
         "spm": 22,
@@ -11405,8 +11405,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.2,
         "spm": 20,
@@ -11415,8 +11415,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -11425,8 +11425,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.7,
         "spm": 22,
@@ -11435,8 +11435,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.1,
         "spm": 24,
@@ -11445,8 +11445,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.0,
         "spm": 19,
@@ -11455,8 +11455,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.2,
         "spm": 20,
@@ -11465,8 +11465,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -11475,8 +11475,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.7,
         "spm": 22,
@@ -11485,8 +11485,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -11495,8 +11495,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.7,
         "spm": 24,
@@ -11505,8 +11505,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -11515,8 +11515,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.0,
         "spm": 28,
@@ -11525,8 +11525,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -11535,8 +11535,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 37.9,
         "spm": 28,
@@ -11545,8 +11545,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 45.5,
         "spm": 22,
@@ -11555,8 +11555,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.5,
         "spm": 29,
@@ -11565,8 +11565,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 36.9,
         "spm": 28,
@@ -11575,8 +11575,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.7,
         "spm": 20,
@@ -11585,8 +11585,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.3,
         "spm": 21,
@@ -11595,8 +11595,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.0,
         "spm": 20,
@@ -11609,16 +11609,16 @@ export const athletes = [
   },
   {
     "name": "Tanaka",
-    "avgSplit": 44.7,
-    "bestSplit": 35.5,
+    "avgSplit": 43.3,
+    "bestSplit": 34.1,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -4.4,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -11627,8 +11627,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -11637,8 +11637,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.3,
         "spm": 21,
@@ -11647,8 +11647,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.7,
         "spm": 20,
@@ -11657,8 +11657,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.6,
         "spm": 22,
@@ -11667,8 +11667,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.3,
         "spm": 20,
@@ -11677,8 +11677,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -11687,8 +11687,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -11697,8 +11697,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.3,
         "spm": 19,
@@ -11707,8 +11707,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.4,
         "spm": 20,
@@ -11717,8 +11717,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.7,
         "spm": 20,
@@ -11727,8 +11727,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 43.1,
         "spm": 22,
@@ -11737,8 +11737,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -11747,8 +11747,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.7,
         "spm": 24,
@@ -11757,8 +11757,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -11767,8 +11767,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.0,
         "spm": 28,
@@ -11777,8 +11777,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -11787,8 +11787,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 37.1,
         "spm": 28,
@@ -11797,8 +11797,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.7,
         "spm": 22,
@@ -11807,8 +11807,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 36.9,
         "spm": 28,
@@ -11817,8 +11817,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.1,
         "spm": 27,
@@ -11827,8 +11827,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.4,
         "spm": 20,
@@ -11837,8 +11837,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.8,
         "spm": 21,
@@ -11847,8 +11847,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.9,
         "spm": 20,
@@ -11857,8 +11857,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 35.5,
         "spm": 27,
@@ -11871,16 +11871,16 @@ export const athletes = [
   },
   {
     "name": "Cho",
-    "avgSplit": 44.8,
-    "bestSplit": 36.4,
+    "avgSplit": 44.7,
+    "bestSplit": 36.3,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -5.0,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -11889,8 +11889,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -11899,8 +11899,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.2,
         "spm": 20,
@@ -11909,8 +11909,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.4,
         "spm": 22,
@@ -11919,8 +11919,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.4,
         "spm": 22,
@@ -11929,8 +11929,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.6,
         "spm": 20,
@@ -11939,8 +11939,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -11949,8 +11949,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 45.2,
         "spm": 22,
@@ -11959,8 +11959,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.9,
         "spm": 24,
@@ -11969,8 +11969,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -11979,8 +11979,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.1,
         "spm": 20,
@@ -11989,8 +11989,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -11999,8 +11999,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.7,
         "spm": 22,
@@ -12009,8 +12009,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -12019,8 +12019,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -12029,8 +12029,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -12039,8 +12039,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.9,
         "spm": 28,
@@ -12049,8 +12049,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -12059,8 +12059,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.5,
         "spm": 28,
@@ -12069,8 +12069,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 45.8,
         "spm": 22,
@@ -12079,8 +12079,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.6,
         "spm": 27,
@@ -12089,8 +12089,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 39.2,
         "spm": 28,
@@ -12099,8 +12099,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -12109,8 +12109,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -12119,8 +12119,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.2,
         "spm": 20,
@@ -12129,8 +12129,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 36.4,
         "spm": 27,
@@ -12143,16 +12143,16 @@ export const athletes = [
   },
   {
     "name": "Webb",
-    "avgSplit": 44.9,
-    "bestSplit": 37.4,
+    "avgSplit": 43.7,
+    "bestSplit": 36.2,
     "totalSessions": 18,
     "trend": "improving",
     "trendDelta": -4.1,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -12161,8 +12161,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -12171,8 +12171,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.8,
         "spm": 20,
@@ -12181,8 +12181,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.9,
         "spm": 22,
@@ -12191,8 +12191,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.3,
         "spm": 22,
@@ -12201,8 +12201,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.7,
         "spm": 20,
@@ -12211,8 +12211,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.2,
         "spm": 20,
@@ -12221,8 +12221,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.3,
         "spm": 22,
@@ -12231,8 +12231,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.8,
         "spm": 24,
@@ -12241,8 +12241,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 47.2,
         "spm": 19,
@@ -12251,8 +12251,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.2,
         "spm": 20,
@@ -12261,8 +12261,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.7,
         "spm": 20,
@@ -12271,8 +12271,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.5,
         "spm": 22,
@@ -12281,8 +12281,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.0,
         "spm": 20,
@@ -12291,8 +12291,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.0,
         "spm": 24,
@@ -12301,8 +12301,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -12311,8 +12311,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.4,
         "spm": 28,
@@ -12321,8 +12321,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -12335,16 +12335,16 @@ export const athletes = [
   },
   {
     "name": "Van Berg",
-    "avgSplit": 44.9,
-    "bestSplit": 36.4,
+    "avgSplit": 46.3,
+    "bestSplit": 37.8,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -4.8,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.3,
         "spm": 18,
@@ -12353,8 +12353,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.8,
         "spm": 18,
@@ -12363,8 +12363,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.0,
         "spm": 20,
@@ -12373,8 +12373,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.2,
         "spm": 21,
@@ -12383,8 +12383,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.7,
         "spm": 22,
@@ -12393,8 +12393,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.1,
         "spm": 20,
@@ -12403,8 +12403,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.7,
         "spm": 19,
@@ -12413,8 +12413,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.1,
         "spm": 22,
@@ -12423,8 +12423,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.5,
         "spm": 24,
@@ -12433,8 +12433,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.4,
         "spm": 19,
@@ -12443,8 +12443,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.4,
         "spm": 20,
@@ -12453,8 +12453,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -12463,8 +12463,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.9,
         "spm": 24,
@@ -12473,8 +12473,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -12483,8 +12483,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.6,
         "spm": 27,
@@ -12493,8 +12493,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -12503,8 +12503,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.9,
         "spm": 29,
@@ -12513,8 +12513,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.6,
         "spm": 22,
@@ -12523,8 +12523,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 37.8,
         "spm": 27,
@@ -12533,8 +12533,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": null,
         "spm": null,
@@ -12543,8 +12543,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -12553,8 +12553,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -12563,8 +12563,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.4,
         "spm": 20,
@@ -12573,8 +12573,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 36.4,
         "spm": 27,
@@ -12587,16 +12587,16 @@ export const athletes = [
   },
   {
     "name": "Lehmann",
-    "avgSplit": 44.9,
-    "bestSplit": 37.4,
+    "avgSplit": 45.8,
+    "bestSplit": 38.3,
     "totalSessions": 23,
     "trend": "improving",
     "trendDelta": -4.3,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -12605,8 +12605,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -12615,8 +12615,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.9,
         "spm": 20,
@@ -12625,8 +12625,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.6,
         "spm": 22,
@@ -12635,8 +12635,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.7,
         "spm": 20,
@@ -12645,8 +12645,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.4,
         "spm": 20,
@@ -12655,8 +12655,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.4,
         "spm": 22,
@@ -12665,8 +12665,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.4,
         "spm": 24,
@@ -12675,8 +12675,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.7,
         "spm": 19,
@@ -12685,8 +12685,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.2,
         "spm": 20,
@@ -12695,8 +12695,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.4,
         "spm": 20,
@@ -12705,8 +12705,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.0,
         "spm": 22,
@@ -12715,8 +12715,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 49.0,
         "spm": 20,
@@ -12725,8 +12725,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.5,
         "spm": 26,
@@ -12735,8 +12735,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -12745,8 +12745,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.1,
         "spm": 28,
@@ -12755,8 +12755,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.6,
         "spm": 22,
@@ -12765,8 +12765,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 37.4,
         "spm": 31,
@@ -12775,8 +12775,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.1,
         "spm": 29,
@@ -12785,8 +12785,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.6,
         "spm": 20,
@@ -12795,8 +12795,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -12805,8 +12805,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 47.6,
         "spm": 20,
@@ -12815,8 +12815,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.4,
         "spm": 27,
@@ -12829,16 +12829,16 @@ export const athletes = [
   },
   {
     "name": "Keane",
-    "avgSplit": 44.9,
-    "bestSplit": 35.2,
+    "avgSplit": 46.1,
+    "bestSplit": 36.4,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -6.0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.0,
         "spm": 19,
@@ -12847,8 +12847,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.0,
         "spm": 19,
@@ -12857,8 +12857,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 46.8,
         "spm": 20,
@@ -12867,8 +12867,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.8,
         "spm": 21,
@@ -12877,8 +12877,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.5,
         "spm": 21,
@@ -12887,8 +12887,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.9,
         "spm": 20,
@@ -12897,8 +12897,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.4,
         "spm": 19,
@@ -12907,8 +12907,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.7,
         "spm": 22,
@@ -12917,8 +12917,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.5,
         "spm": 24,
@@ -12927,8 +12927,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 47.0,
         "spm": 19,
@@ -12937,8 +12937,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.8,
         "spm": 20,
@@ -12947,8 +12947,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 45.4,
         "spm": 20,
@@ -12957,8 +12957,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 42.8,
         "spm": 22,
@@ -12967,8 +12967,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -12977,8 +12977,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.1,
         "spm": 23,
@@ -12987,8 +12987,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -12997,8 +12997,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.4,
         "spm": 26,
@@ -13007,8 +13007,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -13017,8 +13017,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.2,
         "spm": 21,
@@ -13027,8 +13027,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.6,
         "spm": 27,
@@ -13037,8 +13037,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.8,
         "spm": 25,
@@ -13047,8 +13047,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.7,
         "spm": 19,
@@ -13057,8 +13057,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.1,
         "spm": 20,
@@ -13067,8 +13067,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 44.6,
         "spm": 20,
@@ -13077,8 +13077,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 35.2,
         "spm": 26,
@@ -13091,16 +13091,16 @@ export const athletes = [
   },
   {
     "name": "Bennett",
-    "avgSplit": 45.1,
-    "bestSplit": 35.7,
+    "avgSplit": 45.0,
+    "bestSplit": 35.6,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -5.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.0,
         "spm": 20,
@@ -13109,8 +13109,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -13119,8 +13119,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.9,
         "spm": 20,
@@ -13129,8 +13129,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.5,
         "spm": 21,
@@ -13139,8 +13139,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.0,
         "spm": 22,
@@ -13149,8 +13149,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.9,
         "spm": 20,
@@ -13159,8 +13159,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -13169,8 +13169,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.6,
         "spm": 22,
@@ -13179,8 +13179,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -13189,8 +13189,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.4,
         "spm": 19,
@@ -13199,8 +13199,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.4,
         "spm": 20,
@@ -13209,8 +13209,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -13219,8 +13219,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.2,
         "spm": 22,
@@ -13229,8 +13229,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.6,
         "spm": 20,
@@ -13239,8 +13239,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.1,
         "spm": 24,
@@ -13249,8 +13249,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -13259,8 +13259,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.6,
         "spm": 28,
@@ -13269,8 +13269,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -13279,8 +13279,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.1,
         "spm": 28,
@@ -13289,8 +13289,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.5,
         "spm": 22,
@@ -13299,8 +13299,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 36.8,
         "spm": 29,
@@ -13309,8 +13309,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.3,
         "spm": 28,
@@ -13319,8 +13319,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -13329,8 +13329,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -13339,8 +13339,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.7,
         "spm": 20,
@@ -13349,8 +13349,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 35.7,
         "spm": 27,
@@ -13363,16 +13363,16 @@ export const athletes = [
   },
   {
     "name": "Cruz",
-    "avgSplit": 45.1,
-    "bestSplit": 39.8,
+    "avgSplit": 46.4,
+    "bestSplit": 41.1,
     "totalSessions": 15,
     "trend": "declining",
     "trendDelta": 1.5,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -13381,8 +13381,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.6,
         "spm": 21,
@@ -13391,8 +13391,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 42.9,
         "spm": 22,
@@ -13401,8 +13401,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.1,
         "spm": 20,
@@ -13411,8 +13411,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 45.9,
         "spm": 20,
@@ -13421,8 +13421,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 42.3,
         "spm": 22,
@@ -13431,8 +13431,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 39.8,
         "spm": 24,
@@ -13441,8 +13441,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -13451,8 +13451,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.0,
         "spm": 20,
@@ -13461,8 +13461,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.0,
         "spm": 20,
@@ -13471,8 +13471,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 41.9,
         "spm": 22,
@@ -13481,8 +13481,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 40.3,
         "spm": 24,
@@ -13491,8 +13491,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -13501,8 +13501,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.5,
         "spm": 20,
@@ -13511,8 +13511,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.7,
         "spm": 20,
@@ -13525,16 +13525,16 @@ export const athletes = [
   },
   {
     "name": "Romanov",
-    "avgSplit": 45.2,
-    "bestSplit": 36.5,
+    "avgSplit": 44.4,
+    "bestSplit": 35.7,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -4.6,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -13543,8 +13543,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -13553,8 +13553,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 47.0,
         "spm": 20,
@@ -13563,8 +13563,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.7,
         "spm": 22,
@@ -13573,8 +13573,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.9,
         "spm": 22,
@@ -13583,8 +13583,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.9,
         "spm": 20,
@@ -13593,8 +13593,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -13603,8 +13603,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.7,
         "spm": 22,
@@ -13613,8 +13613,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.1,
         "spm": 24,
@@ -13623,8 +13623,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.1,
         "spm": 19,
@@ -13633,8 +13633,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.1,
         "spm": 21,
@@ -13643,8 +13643,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -13653,8 +13653,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.3,
         "spm": 22,
@@ -13663,8 +13663,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.8,
         "spm": 21,
@@ -13673,8 +13673,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.6,
         "spm": 24,
@@ -13683,8 +13683,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -13693,8 +13693,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.0,
         "spm": 31,
@@ -13703,8 +13703,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -13713,8 +13713,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.0,
         "spm": 30,
@@ -13723,8 +13723,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.8,
         "spm": 22,
@@ -13733,8 +13733,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.8,
         "spm": 30,
@@ -13743,8 +13743,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.5,
         "spm": 29,
@@ -13753,8 +13753,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -13763,8 +13763,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -13773,8 +13773,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.2,
         "spm": 20,
@@ -13783,8 +13783,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 36.5,
         "spm": 27,
@@ -13797,16 +13797,16 @@ export const athletes = [
   },
   {
     "name": "Jensen",
-    "avgSplit": 45.2,
-    "bestSplit": 37.7,
+    "avgSplit": 46.1,
+    "bestSplit": 38.6,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -4.7,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.1,
         "spm": 20,
@@ -13815,8 +13815,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -13825,8 +13825,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.4,
         "spm": 20,
@@ -13835,8 +13835,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.3,
         "spm": 22,
@@ -13845,8 +13845,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.4,
         "spm": 22,
@@ -13855,8 +13855,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": null,
         "spm": null,
@@ -13865,8 +13865,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.3,
         "spm": 24,
@@ -13875,8 +13875,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.1,
         "spm": 19,
@@ -13885,8 +13885,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.5,
         "spm": 20,
@@ -13895,8 +13895,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -13905,8 +13905,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.3,
         "spm": 22,
@@ -13915,8 +13915,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -13925,8 +13925,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.3,
         "spm": 24,
@@ -13935,8 +13935,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.0,
         "spm": 19,
@@ -13945,8 +13945,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.0,
         "spm": 28,
@@ -13955,8 +13955,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -13965,8 +13965,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.4,
         "spm": 27,
@@ -13975,8 +13975,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 45.7,
         "spm": 21,
@@ -13985,8 +13985,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.4,
         "spm": 29,
@@ -13995,8 +13995,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.8,
         "spm": 26,
@@ -14005,8 +14005,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 48.0,
         "spm": 20,
@@ -14015,8 +14015,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -14025,8 +14025,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.6,
         "spm": 20,
@@ -14035,8 +14035,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.7,
         "spm": 27,
@@ -14049,16 +14049,16 @@ export const athletes = [
   },
   {
     "name": "Mitchell",
-    "avgSplit": 45.3,
-    "bestSplit": 38.4,
+    "avgSplit": 44.9,
+    "bestSplit": 38.0,
     "totalSessions": 17,
     "trend": "improving",
     "trendDelta": -6.8,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -14067,8 +14067,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -14077,8 +14077,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.2,
         "spm": 20,
@@ -14087,8 +14087,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -14097,8 +14097,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.1,
         "spm": 22,
@@ -14107,8 +14107,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": null,
         "spm": null,
@@ -14117,8 +14117,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -14127,8 +14127,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.4,
         "spm": 22,
@@ -14137,8 +14137,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.3,
         "spm": 21,
@@ -14147,8 +14147,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 46.6,
         "spm": 22,
@@ -14157,8 +14157,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -14167,8 +14167,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.6,
         "spm": 24,
@@ -14177,8 +14177,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.8,
         "spm": 27,
@@ -14187,8 +14187,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -14197,8 +14197,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.5,
         "spm": 29,
@@ -14207,8 +14207,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.3,
         "spm": 22,
@@ -14217,8 +14217,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.4,
         "spm": 31,
@@ -14231,16 +14231,16 @@ export const athletes = [
   },
   {
     "name": "Tran",
-    "avgSplit": 45.4,
-    "bestSplit": 37.9,
+    "avgSplit": 45.3,
+    "bestSplit": 37.8,
     "totalSessions": 20,
     "trend": "improving",
     "trendDelta": -1.2,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.6,
         "spm": 18,
@@ -14249,8 +14249,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.9,
         "spm": 18,
@@ -14259,8 +14259,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 45.5,
         "spm": 20,
@@ -14269,8 +14269,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.2,
         "spm": 22,
@@ -14279,8 +14279,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.4,
         "spm": 22,
@@ -14289,8 +14289,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.2,
         "spm": 19,
@@ -14299,8 +14299,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.2,
         "spm": 19,
@@ -14309,8 +14309,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 52.0,
         "spm": 19,
@@ -14319,8 +14319,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -14329,8 +14329,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 50.0,
         "spm": 20,
@@ -14339,8 +14339,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.4,
         "spm": 24,
@@ -14349,8 +14349,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -14359,8 +14359,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.9,
         "spm": 27,
@@ -14369,8 +14369,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -14379,8 +14379,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.1,
         "spm": 26,
@@ -14389,8 +14389,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.6,
         "spm": 22,
@@ -14399,8 +14399,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 37.9,
         "spm": 27,
@@ -14409,8 +14409,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.7,
         "spm": 26,
@@ -14419,8 +14419,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -14429,8 +14429,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -14443,16 +14443,16 @@ export const athletes = [
   },
   {
     "name": "Delacroix",
-    "avgSplit": 45.4,
-    "bestSplit": 37.5,
+    "avgSplit": 44.5,
+    "bestSplit": 36.6,
     "totalSessions": 19,
     "trend": "improving",
     "trendDelta": -6.4,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 50.3,
         "spm": 18,
@@ -14461,8 +14461,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.2,
         "spm": 18,
@@ -14471,8 +14471,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.4,
         "spm": 20,
@@ -14481,8 +14481,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.8,
         "spm": 21,
@@ -14491,8 +14491,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 46.2,
         "spm": 20,
@@ -14501,8 +14501,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 45.4,
         "spm": 19,
@@ -14511,8 +14511,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.6,
         "spm": 22,
@@ -14521,8 +14521,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": null,
         "spm": null,
@@ -14531,8 +14531,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 46.3,
         "spm": 19,
@@ -14541,8 +14541,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.9,
         "spm": 20,
@@ -14551,8 +14551,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.7,
         "spm": 22,
@@ -14561,8 +14561,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -14571,8 +14571,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.8,
         "spm": 23,
@@ -14581,8 +14581,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -14591,8 +14591,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.0,
         "spm": 28,
@@ -14601,8 +14601,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -14611,8 +14611,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.2,
         "spm": 20,
@@ -14621,8 +14621,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.0,
         "spm": 20,
@@ -14631,8 +14631,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.5,
         "spm": 26,
@@ -14645,16 +14645,16 @@ export const athletes = [
   },
   {
     "name": "Klein",
-    "avgSplit": 45.5,
-    "bestSplit": 38.7,
+    "avgSplit": 46.5,
+    "bestSplit": 39.7,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -1.5,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -14663,8 +14663,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -14673,8 +14673,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.2,
         "spm": 20,
@@ -14683,8 +14683,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 44.5,
         "spm": 22,
@@ -14693,8 +14693,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.7,
         "spm": 22,
@@ -14703,8 +14703,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.8,
         "spm": 20,
@@ -14713,8 +14713,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -14723,8 +14723,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-22",
-        "workout": "Triathalon (7 laps)",
+        "date": "2025-02-10",
+        "workout": "Mixed Fitness Test A",
         "category": "triathlon",
         "split": 49.3,
         "spm": 20,
@@ -14733,8 +14733,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.8,
         "spm": 22,
@@ -14743,8 +14743,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -14753,8 +14753,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.8,
         "spm": 19,
@@ -14763,8 +14763,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.0,
         "spm": 20,
@@ -14773,8 +14773,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.5,
         "spm": 21,
@@ -14783,8 +14783,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.1,
         "spm": 22,
@@ -14793,8 +14793,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.6,
         "spm": 20,
@@ -14803,8 +14803,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -14813,8 +14813,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.0,
         "spm": 27,
@@ -14823,8 +14823,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.7,
         "spm": 20,
@@ -14833,8 +14833,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.5,
         "spm": 27,
@@ -14843,8 +14843,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.7,
         "spm": 22,
@@ -14853,8 +14853,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.7,
         "spm": 27,
@@ -14863,8 +14863,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.3,
         "spm": 26,
@@ -14873,8 +14873,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 44.8,
         "spm": 20,
@@ -14883,8 +14883,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -14893,8 +14893,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.2,
         "spm": 20,
@@ -14907,16 +14907,16 @@ export const athletes = [
   },
   {
     "name": "Payne",
-    "avgSplit": 45.5,
-    "bestSplit": 38.7,
+    "avgSplit": 45.3,
+    "bestSplit": 38.5,
     "totalSessions": 22,
     "trend": "improving",
     "trendDelta": -1.3,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -14925,8 +14925,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.0,
         "spm": 20,
@@ -14935,8 +14935,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.1,
         "spm": 20,
@@ -14945,8 +14945,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.7,
         "spm": 22,
@@ -14955,8 +14955,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.0,
         "spm": 22,
@@ -14965,8 +14965,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.0,
         "spm": 19,
@@ -14975,8 +14975,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -14985,8 +14985,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.6,
         "spm": 22,
@@ -14995,8 +14995,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.2,
         "spm": 24,
@@ -15005,8 +15005,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.0,
         "spm": 19,
@@ -15015,8 +15015,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.2,
         "spm": 21,
@@ -15025,8 +15025,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -15035,8 +15035,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 43.2,
         "spm": 22,
@@ -15045,8 +15045,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.6,
         "spm": 28,
@@ -15055,8 +15055,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -15065,8 +15065,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.7,
         "spm": 27,
@@ -15075,8 +15075,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.1,
         "spm": 22,
@@ -15085,8 +15085,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 40.3,
         "spm": 28,
@@ -15095,8 +15095,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.5,
         "spm": 26,
@@ -15105,8 +15105,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -15115,8 +15115,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -15125,8 +15125,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.0,
         "spm": 20,
@@ -15139,16 +15139,16 @@ export const athletes = [
   },
   {
     "name": "Duval",
-    "avgSplit": 45.5,
-    "bestSplit": 39.9,
+    "avgSplit": 46.4,
+    "bestSplit": 40.8,
     "totalSessions": 19,
     "trend": "improving",
     "trendDelta": -5.0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.9,
         "spm": 18,
@@ -15157,8 +15157,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.7,
         "spm": 18,
@@ -15167,8 +15167,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 45.1,
         "spm": 20,
@@ -15177,8 +15177,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.9,
         "spm": 21,
@@ -15187,8 +15187,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 43.3,
         "spm": 21,
@@ -15197,8 +15197,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 47.9,
         "spm": 20,
@@ -15207,8 +15207,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 46.9,
         "spm": 19,
@@ -15217,8 +15217,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.2,
         "spm": 22,
@@ -15227,8 +15227,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.0,
         "spm": 24,
@@ -15237,8 +15237,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.1,
         "spm": 19,
@@ -15247,8 +15247,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 45.5,
         "spm": 20,
@@ -15257,8 +15257,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -15267,8 +15267,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.4,
         "spm": 22,
@@ -15277,8 +15277,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 41.3,
         "spm": 24,
@@ -15287,8 +15287,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -15297,8 +15297,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -15307,8 +15307,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.9,
         "spm": 30,
@@ -15317,8 +15317,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.4,
         "spm": 22,
@@ -15327,8 +15327,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 40.5,
         "spm": 29,
@@ -15341,16 +15341,16 @@ export const athletes = [
   },
   {
     "name": "Dalton",
-    "avgSplit": 45.5,
-    "bestSplit": 39.0,
+    "avgSplit": 44.9,
+    "bestSplit": 38.4,
     "totalSessions": 19,
     "trend": "improving",
     "trendDelta": -5.2,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.8,
         "spm": 20,
@@ -15359,8 +15359,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -15369,8 +15369,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.7,
         "spm": 20,
@@ -15379,8 +15379,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.1,
         "spm": 22,
@@ -15389,8 +15389,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.0,
         "spm": 22,
@@ -15399,8 +15399,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.4,
         "spm": 20,
@@ -15409,8 +15409,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -15419,8 +15419,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.7,
         "spm": 22,
@@ -15429,8 +15429,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.7,
         "spm": 24,
@@ -15439,8 +15439,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.8,
         "spm": 19,
@@ -15449,8 +15449,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.3,
         "spm": 22,
@@ -15459,8 +15459,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -15469,8 +15469,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.4,
         "spm": 24,
@@ -15479,8 +15479,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -15489,8 +15489,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.3,
         "spm": 27,
@@ -15499,8 +15499,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.0,
         "spm": 28,
@@ -15509,8 +15509,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.3,
         "spm": 22,
@@ -15519,8 +15519,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 39.0,
         "spm": 28,
@@ -15529,8 +15529,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.4,
         "spm": 20,
@@ -15543,16 +15543,16 @@ export const athletes = [
   },
   {
     "name": "Fischer",
-    "avgSplit": 45.5,
-    "bestSplit": 37.2,
+    "avgSplit": 46.5,
+    "bestSplit": 38.2,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -0.7,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -15561,8 +15561,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.7,
         "spm": 20,
@@ -15571,8 +15571,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.1,
         "spm": 21,
@@ -15581,8 +15581,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.8,
         "spm": 22,
@@ -15591,8 +15591,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.7,
         "spm": 20,
@@ -15601,8 +15601,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -15611,8 +15611,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.8,
         "spm": 22,
@@ -15621,8 +15621,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -15631,8 +15631,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.3,
         "spm": 19,
@@ -15641,8 +15641,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.7,
         "spm": 20,
@@ -15651,8 +15651,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -15661,8 +15661,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 43.7,
         "spm": 22,
@@ -15671,8 +15671,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -15681,8 +15681,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.4,
         "spm": 24,
@@ -15691,8 +15691,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.6,
         "spm": 20,
@@ -15701,8 +15701,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.5,
         "spm": 27,
@@ -15711,8 +15711,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -15721,8 +15721,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.4,
         "spm": 27,
@@ -15731,8 +15731,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.1,
         "spm": 22,
@@ -15741,8 +15741,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 37.2,
         "spm": 28,
@@ -15751,8 +15751,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.3,
         "spm": 26,
@@ -15761,8 +15761,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -15771,8 +15771,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -15781,8 +15781,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.6,
         "spm": 20,
@@ -15795,16 +15795,16 @@ export const athletes = [
   },
   {
     "name": "Lindqvist",
-    "avgSplit": 45.6,
-    "bestSplit": 34.6,
+    "avgSplit": 44.1,
+    "bestSplit": 33.1,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -5.8,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.5,
         "spm": 20,
@@ -15813,8 +15813,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -15823,8 +15823,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.5,
         "spm": 21,
@@ -15833,8 +15833,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.8,
         "spm": 22,
@@ -15843,8 +15843,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.9,
         "spm": 22,
@@ -15853,8 +15853,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.4,
         "spm": 20,
@@ -15863,8 +15863,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -15873,8 +15873,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.3,
         "spm": 22,
@@ -15883,8 +15883,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 45.0,
         "spm": 24,
@@ -15893,8 +15893,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.7,
         "spm": 19,
@@ -15903,8 +15903,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 46.7,
         "spm": 20,
@@ -15913,8 +15913,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.5,
         "spm": 22,
@@ -15923,8 +15923,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -15933,8 +15933,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.7,
         "spm": 24,
@@ -15943,8 +15943,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -15953,8 +15953,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -15963,8 +15963,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 37.5,
         "spm": 30,
@@ -15973,8 +15973,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.8,
         "spm": 21,
@@ -15983,8 +15983,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 37.3,
         "spm": 30,
@@ -15993,8 +15993,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 40.9,
         "spm": 31,
@@ -16003,8 +16003,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 45.5,
         "spm": 20,
@@ -16013,8 +16013,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.2,
         "spm": 20,
@@ -16023,8 +16023,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 47.4,
         "spm": 20,
@@ -16033,8 +16033,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 34.6,
         "spm": 27,
@@ -16047,16 +16047,16 @@ export const athletes = [
   },
   {
     "name": "DB",
-    "avgSplit": 45.7,
-    "bestSplit": 37.2,
+    "avgSplit": 46.8,
+    "bestSplit": 38.3,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -5.0,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -16065,8 +16065,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -16075,8 +16075,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.3,
         "spm": 21,
@@ -16085,8 +16085,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.9,
         "spm": 22,
@@ -16095,8 +16095,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 46.2,
         "spm": 22,
@@ -16105,8 +16105,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -16115,8 +16115,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.8,
         "spm": 24,
@@ -16125,8 +16125,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.7,
         "spm": 20,
@@ -16135,8 +16135,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.9,
         "spm": 21,
@@ -16145,8 +16145,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -16155,8 +16155,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 46.9,
         "spm": 23,
@@ -16165,8 +16165,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -16175,8 +16175,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.1,
         "spm": 24,
@@ -16185,8 +16185,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.7,
         "spm": 20,
@@ -16195,8 +16195,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.6,
         "spm": 30,
@@ -16205,8 +16205,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -16215,8 +16215,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.5,
         "spm": 30,
@@ -16225,8 +16225,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.5,
         "spm": 23,
@@ -16235,8 +16235,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.6,
         "spm": 30,
@@ -16245,8 +16245,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.0,
         "spm": 29,
@@ -16255,8 +16255,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -16265,8 +16265,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.8,
         "spm": 20,
@@ -16275,8 +16275,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.7,
         "spm": 20,
@@ -16285,8 +16285,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.2,
         "spm": 28,
@@ -16299,16 +16299,16 @@ export const athletes = [
   },
   {
     "name": "Ibrahimi",
-    "avgSplit": 45.7,
-    "bestSplit": 35.8,
+    "avgSplit": 45.4,
+    "bestSplit": 35.5,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -4.8,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.7,
         "spm": 20,
@@ -16317,8 +16317,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.0,
         "spm": 18,
@@ -16327,8 +16327,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 47.1,
         "spm": 20,
@@ -16337,8 +16337,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.6,
         "spm": 22,
@@ -16347,8 +16347,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.7,
         "spm": 22,
@@ -16357,8 +16357,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 50.9,
         "spm": 20,
@@ -16367,8 +16367,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -16377,8 +16377,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.6,
         "spm": 22,
@@ -16387,8 +16387,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.0,
         "spm": 24,
@@ -16397,8 +16397,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.7,
         "spm": 19,
@@ -16407,8 +16407,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.3,
         "spm": 20,
@@ -16417,8 +16417,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.2,
         "spm": 22,
@@ -16427,8 +16427,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.6,
         "spm": 20,
@@ -16437,8 +16437,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.8,
         "spm": 24,
@@ -16447,8 +16447,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -16457,8 +16457,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.3,
         "spm": 27,
@@ -16467,8 +16467,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 40.3,
         "spm": 27,
@@ -16477,8 +16477,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.2,
         "spm": 21,
@@ -16487,8 +16487,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.4,
         "spm": 27,
@@ -16497,8 +16497,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": null,
         "spm": null,
@@ -16507,8 +16507,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 49.5,
         "spm": 20,
@@ -16517,8 +16517,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -16527,8 +16527,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.2,
         "spm": 20,
@@ -16537,8 +16537,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 35.8,
         "spm": 26,
@@ -16551,16 +16551,16 @@ export const athletes = [
   },
   {
     "name": "Sato",
-    "avgSplit": 45.7,
-    "bestSplit": 38.1,
+    "avgSplit": 45.3,
+    "bestSplit": 37.7,
     "totalSessions": 21,
     "trend": "improving",
     "trendDelta": -5.3,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 50.7,
         "spm": 20,
@@ -16569,8 +16569,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -16579,8 +16579,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.1,
         "spm": 22,
@@ -16589,8 +16589,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.2,
         "spm": 22,
@@ -16599,8 +16599,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 50.4,
         "spm": 20,
@@ -16609,8 +16609,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -16619,8 +16619,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 44.6,
         "spm": 22,
@@ -16629,8 +16629,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.6,
         "spm": 24,
@@ -16639,8 +16639,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -16649,8 +16649,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.4,
         "spm": 20,
@@ -16659,8 +16659,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.7,
         "spm": 22,
@@ -16669,8 +16669,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -16679,8 +16679,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.6,
         "spm": 24,
@@ -16689,8 +16689,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -16699,8 +16699,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.1,
         "spm": 30,
@@ -16709,8 +16709,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -16719,8 +16719,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.3,
         "spm": 30,
@@ -16729,8 +16729,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.3,
         "spm": 22,
@@ -16739,8 +16739,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.1,
         "spm": 29,
@@ -16749,8 +16749,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 44.1,
         "spm": 27,
@@ -16759,8 +16759,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -16773,16 +16773,16 @@ export const athletes = [
   },
   {
     "name": "Volkov",
-    "avgSplit": 45.8,
-    "bestSplit": 37.2,
+    "avgSplit": 47.0,
+    "bestSplit": 38.4,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -4.9,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.4,
         "spm": 18,
@@ -16791,8 +16791,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.5,
         "spm": 18,
@@ -16801,8 +16801,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.5,
         "spm": 20,
@@ -16811,8 +16811,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.7,
         "spm": 22,
@@ -16821,8 +16821,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.6,
         "spm": 21,
@@ -16831,8 +16831,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.1,
         "spm": 20,
@@ -16841,8 +16841,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -16851,8 +16851,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 45.8,
         "spm": 22,
@@ -16861,8 +16861,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.9,
         "spm": 24,
@@ -16871,8 +16871,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.0,
         "spm": 19,
@@ -16881,8 +16881,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.8,
         "spm": 20,
@@ -16891,8 +16891,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -16901,8 +16901,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.9,
         "spm": 22,
@@ -16911,8 +16911,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.0,
         "spm": 20,
@@ -16921,8 +16921,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.8,
         "spm": 24,
@@ -16931,8 +16931,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -16941,8 +16941,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.1,
         "spm": 28,
@@ -16951,8 +16951,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -16961,8 +16961,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.5,
         "spm": 27,
@@ -16971,8 +16971,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.2,
         "spm": 22,
@@ -16981,8 +16981,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.8,
         "spm": 28,
@@ -16991,8 +16991,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -17001,8 +17001,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -17011,8 +17011,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 47.0,
         "spm": 20,
@@ -17021,8 +17021,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.2,
         "spm": 27,
@@ -17035,16 +17035,16 @@ export const athletes = [
   },
   {
     "name": "Petrov",
-    "avgSplit": 45.9,
-    "bestSplit": 37.1,
+    "avgSplit": 46.2,
+    "bestSplit": 37.4,
     "totalSessions": 20,
     "trend": "improving",
     "trendDelta": -3.4,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.6,
         "spm": 20,
@@ -17053,8 +17053,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.6,
         "spm": 21,
@@ -17063,8 +17063,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.8,
         "spm": 22,
@@ -17073,8 +17073,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 50.7,
         "spm": 20,
@@ -17083,8 +17083,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.3,
         "spm": 19,
@@ -17093,8 +17093,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -17103,8 +17103,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.1,
         "spm": 24,
@@ -17113,8 +17113,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -17123,8 +17123,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": null,
         "spm": null,
@@ -17133,8 +17133,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.1,
         "spm": 20,
@@ -17143,8 +17143,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -17153,8 +17153,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -17163,8 +17163,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 40.3,
         "spm": 28,
@@ -17173,8 +17173,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.9,
         "spm": 22,
@@ -17183,8 +17183,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.4,
         "spm": 28,
@@ -17193,8 +17193,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.9,
         "spm": 27,
@@ -17203,8 +17203,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -17213,8 +17213,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -17223,8 +17223,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.1,
         "spm": 20,
@@ -17233,8 +17233,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.1,
         "spm": 27,
@@ -17247,16 +17247,16 @@ export const athletes = [
   },
   {
     "name": "O'Sullivan",
-    "avgSplit": 46.0,
-    "bestSplit": 36.0,
+    "avgSplit": 47.0,
+    "bestSplit": 37.0,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -6.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 51.7,
         "spm": 20,
@@ -17265,8 +17265,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.1,
         "spm": 20,
@@ -17275,8 +17275,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.5,
         "spm": 20,
@@ -17285,8 +17285,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -17295,8 +17295,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 46.4,
         "spm": 22,
@@ -17305,8 +17305,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 51.8,
         "spm": 20,
@@ -17315,8 +17315,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.9,
         "spm": 19,
@@ -17325,8 +17325,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 47.2,
         "spm": 22,
@@ -17335,8 +17335,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.3,
         "spm": 24,
@@ -17345,8 +17345,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.2,
         "spm": 19,
@@ -17355,8 +17355,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.7,
         "spm": 20,
@@ -17365,8 +17365,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -17375,8 +17375,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 51.2,
         "spm": 20,
@@ -17385,8 +17385,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 46.4,
         "spm": 20,
@@ -17395,8 +17395,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 38.8,
         "spm": 29,
@@ -17405,8 +17405,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -17415,8 +17415,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.0,
         "spm": 28,
@@ -17425,8 +17425,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.1,
         "spm": 22,
@@ -17435,8 +17435,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 38.2,
         "spm": 29,
@@ -17445,8 +17445,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.1,
         "spm": 28,
@@ -17455,8 +17455,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -17465,8 +17465,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.9,
         "spm": 21,
@@ -17475,8 +17475,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.4,
         "spm": 20,
@@ -17485,8 +17485,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 36.0,
         "spm": 28,
@@ -17499,16 +17499,16 @@ export const athletes = [
   },
   {
     "name": "Thornton",
-    "avgSplit": 46.0,
-    "bestSplit": 37.5,
+    "avgSplit": 45.0,
+    "bestSplit": 36.5,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -4.8,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -17517,8 +17517,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -17527,8 +17527,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.8,
         "spm": 20,
@@ -17537,8 +17537,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.7,
         "spm": 22,
@@ -17547,8 +17547,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.5,
         "spm": 22,
@@ -17557,8 +17557,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.9,
         "spm": 20,
@@ -17567,8 +17567,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.7,
         "spm": 20,
@@ -17577,8 +17577,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 45.6,
         "spm": 22,
@@ -17587,8 +17587,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.6,
         "spm": 24,
@@ -17597,8 +17597,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 50.1,
         "spm": 20,
@@ -17607,8 +17607,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.0,
         "spm": 20,
@@ -17617,8 +17617,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -17627,8 +17627,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.3,
         "spm": 22,
@@ -17637,8 +17637,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -17647,8 +17647,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.8,
         "spm": 24,
@@ -17657,8 +17657,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.0,
         "spm": 20,
@@ -17667,8 +17667,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.3,
         "spm": 29,
@@ -17677,8 +17677,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -17687,8 +17687,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.6,
         "spm": 30,
@@ -17697,8 +17697,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.5,
         "spm": 22,
@@ -17707,8 +17707,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.5,
         "spm": 29,
@@ -17717,8 +17717,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.2,
         "spm": 29,
@@ -17727,8 +17727,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -17737,8 +17737,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -17747,8 +17747,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.9,
         "spm": 20,
@@ -17757,8 +17757,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.5,
         "spm": 27,
@@ -17771,16 +17771,16 @@ export const athletes = [
   },
   {
     "name": "Bakker",
-    "avgSplit": 46.0,
-    "bestSplit": 39.0,
+    "avgSplit": 47.0,
+    "bestSplit": 40.0,
     "totalSessions": 20,
     "trend": "improving",
     "trendDelta": -4.5,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 47.3,
         "spm": 22,
@@ -17789,8 +17789,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 51.1,
         "spm": 21,
@@ -17799,8 +17799,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -17809,8 +17809,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 47.4,
         "spm": 22,
@@ -17819,8 +17819,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 45.4,
         "spm": 24,
@@ -17829,8 +17829,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.7,
         "spm": 20,
@@ -17839,8 +17839,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.9,
         "spm": 20,
@@ -17849,8 +17849,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.2,
         "spm": 21,
@@ -17859,8 +17859,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.5,
         "spm": 22,
@@ -17869,8 +17869,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -17879,8 +17879,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 41.9,
         "spm": 27,
@@ -17889,8 +17889,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.1,
         "spm": 21,
@@ -17899,8 +17899,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 41.4,
         "spm": 27,
@@ -17909,8 +17909,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.5,
         "spm": 22,
@@ -17919,8 +17919,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 41.1,
         "spm": 27,
@@ -17929,8 +17929,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 44.6,
         "spm": 24,
@@ -17939,8 +17939,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.9,
         "spm": 21,
@@ -17949,8 +17949,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.1,
         "spm": 21,
@@ -17959,8 +17959,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.5,
         "spm": 21,
@@ -17969,8 +17969,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 39.0,
         "spm": 27,
@@ -17983,16 +17983,16 @@ export const athletes = [
   },
   {
     "name": "Malik",
-    "avgSplit": 46.1,
-    "bestSplit": 37.9,
+    "avgSplit": 47.6,
+    "bestSplit": 39.4,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -6.0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 51.3,
         "spm": 18,
@@ -18001,8 +18001,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 50.3,
         "spm": 18,
@@ -18011,8 +18011,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.7,
         "spm": 20,
@@ -18021,8 +18021,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.3,
         "spm": 21,
@@ -18031,8 +18031,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 46.2,
         "spm": 21,
@@ -18041,8 +18041,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 50.1,
         "spm": 20,
@@ -18051,8 +18051,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.7,
         "spm": 19,
@@ -18061,8 +18061,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -18071,8 +18071,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.5,
         "spm": 24,
@@ -18081,8 +18081,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.8,
         "spm": 19,
@@ -18091,8 +18091,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.3,
         "spm": 20,
@@ -18101,8 +18101,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -18111,8 +18111,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.5,
         "spm": 22,
@@ -18121,8 +18121,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.3,
         "spm": 20,
@@ -18131,8 +18131,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 43.0,
         "spm": 24,
@@ -18141,8 +18141,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 46.9,
         "spm": 20,
@@ -18151,8 +18151,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.1,
         "spm": 27,
@@ -18161,8 +18161,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -18171,8 +18171,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.3,
         "spm": 27,
@@ -18181,8 +18181,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 46.1,
         "spm": 22,
@@ -18191,8 +18191,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 41.7,
         "spm": 28,
@@ -18201,8 +18201,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 44.8,
         "spm": 25,
@@ -18211,8 +18211,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -18221,8 +18221,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 47.6,
         "spm": 20,
@@ -18231,8 +18231,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.9,
         "spm": 20,
@@ -18241,8 +18241,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.9,
         "spm": 26,
@@ -18255,16 +18255,16 @@ export const athletes = [
   },
   {
     "name": "Petrowski",
-    "avgSplit": 46.1,
-    "bestSplit": 35.8,
+    "avgSplit": 45.9,
+    "bestSplit": 35.6,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -7.9,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 51.6,
         "spm": 18,
@@ -18273,8 +18273,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 50.9,
         "spm": 18,
@@ -18283,8 +18283,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.0,
         "spm": 20,
@@ -18293,8 +18293,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.5,
         "spm": 21,
@@ -18303,8 +18303,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 46.5,
         "spm": 22,
@@ -18313,8 +18313,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 51.5,
         "spm": 20,
@@ -18323,8 +18323,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 48.5,
         "spm": 19,
@@ -18333,8 +18333,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 45.9,
         "spm": 22,
@@ -18343,8 +18343,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.6,
         "spm": 24,
@@ -18353,8 +18353,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 48.9,
         "spm": 19,
@@ -18363,8 +18363,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.3,
         "spm": 20,
@@ -18373,8 +18373,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -18383,8 +18383,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 44.9,
         "spm": 22,
@@ -18393,8 +18393,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -18403,8 +18403,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 46.2,
         "spm": 24,
@@ -18413,8 +18413,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 49.4,
         "spm": 20,
@@ -18423,8 +18423,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 39.2,
         "spm": 30,
@@ -18433,8 +18433,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -18443,8 +18443,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 38.5,
         "spm": 28,
@@ -18453,8 +18453,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 45.9,
         "spm": 22,
@@ -18463,8 +18463,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.7,
         "spm": 29,
@@ -18473,8 +18473,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 42.9,
         "spm": 27,
@@ -18483,8 +18483,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 46.3,
         "spm": 20,
@@ -18493,8 +18493,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 46.6,
         "spm": 20,
@@ -18503,8 +18503,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 45.5,
         "spm": 20,
@@ -18513,8 +18513,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 35.8,
         "spm": 27,
@@ -18527,16 +18527,16 @@ export const athletes = [
   },
   {
     "name": "Kwon",
-    "avgSplit": 46.3,
-    "bestSplit": 37.5,
+    "avgSplit": 45.3,
+    "bestSplit": 36.5,
     "totalSessions": 12,
     "trend": "improving",
     "trendDelta": -3.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.7,
         "spm": 20,
@@ -18545,8 +18545,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.8,
         "spm": 21,
@@ -18555,8 +18555,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.9,
         "spm": 22,
@@ -18565,8 +18565,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.6,
         "spm": 22,
@@ -18575,8 +18575,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 48.8,
         "spm": 20,
@@ -18585,8 +18585,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 47.5,
         "spm": 20,
@@ -18595,8 +18595,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-22",
-        "workout": "Triathalon (7 laps)",
+        "date": "2025-02-10",
+        "workout": "Mixed Fitness Test A",
         "category": "triathlon",
         "split": 49.3,
         "spm": 20,
@@ -18605,8 +18605,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 43.9,
         "spm": 22,
@@ -18615,8 +18615,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 42.3,
         "spm": 24,
@@ -18625,8 +18625,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.4,
         "spm": 19,
@@ -18635,8 +18635,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 47.4,
         "spm": 20,
@@ -18645,8 +18645,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 37.5,
         "spm": 28,
@@ -18659,16 +18659,16 @@ export const athletes = [
   },
   {
     "name": "Kowalski",
-    "avgSplit": 46.4,
-    "bestSplit": 37.8,
+    "avgSplit": 45.9,
+    "bestSplit": 37.3,
     "totalSessions": 23,
     "trend": "improving",
     "trendDelta": -4.5,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.3,
         "spm": 18,
@@ -18677,8 +18677,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.3,
         "spm": 18,
@@ -18687,8 +18687,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 47.9,
         "spm": 20,
@@ -18697,8 +18697,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.7,
         "spm": 22,
@@ -18707,8 +18707,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.3,
         "spm": 22,
@@ -18717,8 +18717,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.6,
         "spm": 20,
@@ -18727,8 +18727,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 49.5,
         "spm": 19,
@@ -18737,8 +18737,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 45.3,
         "spm": 22,
@@ -18747,8 +18747,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.0,
         "spm": 24,
@@ -18757,8 +18757,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 49.8,
         "spm": 19,
@@ -18767,8 +18767,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 47.8,
         "spm": 20,
@@ -18777,8 +18777,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -18787,8 +18787,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.7,
         "spm": 22,
@@ -18797,8 +18797,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -18807,8 +18807,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.0,
         "spm": 20,
@@ -18817,8 +18817,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -18827,8 +18827,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 39.9,
         "spm": 28,
@@ -18837,8 +18837,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.5,
         "spm": 21,
@@ -18847,8 +18847,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 39.7,
         "spm": 28,
@@ -18857,8 +18857,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 43.9,
         "spm": 27,
@@ -18867,8 +18867,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -18877,8 +18877,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.7,
         "spm": 20,
@@ -18887,8 +18887,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.8,
         "spm": 27,
@@ -18901,16 +18901,16 @@ export const athletes = [
   },
   {
     "name": "Magnusson",
-    "avgSplit": 46.7,
-    "bestSplit": 44.0,
+    "avgSplit": 45.4,
+    "bestSplit": 42.7,
     "totalSessions": 5,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.3,
         "spm": 20,
@@ -18919,8 +18919,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.1,
         "spm": 20,
@@ -18929,8 +18929,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 47.9,
         "spm": 20,
@@ -18939,8 +18939,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 45.1,
         "spm": 22,
@@ -18949,8 +18949,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.0,
         "spm": 22,
@@ -18963,16 +18963,16 @@ export const athletes = [
   },
   {
     "name": "Lim",
-    "avgSplit": 46.8,
-    "bestSplit": 37.6,
+    "avgSplit": 48.0,
+    "bestSplit": 38.8,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -5.2,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.9,
         "spm": 19,
@@ -18981,8 +18981,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.5,
         "spm": 20,
@@ -18991,8 +18991,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.7,
         "spm": 21,
@@ -19001,8 +19001,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 48.1,
         "spm": 22,
@@ -19011,8 +19011,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 47.0,
         "spm": 22,
@@ -19021,8 +19021,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.3,
         "spm": 20,
@@ -19031,8 +19031,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 49.1,
         "spm": 20,
@@ -19041,8 +19041,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 46.4,
         "spm": 22,
@@ -19051,8 +19051,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.9,
         "spm": 24,
@@ -19061,8 +19061,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 50.2,
         "spm": 19,
@@ -19071,8 +19071,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.9,
         "spm": 20,
@@ -19081,8 +19081,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.9,
         "spm": 20,
@@ -19091,8 +19091,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 45.8,
         "spm": 22,
@@ -19101,8 +19101,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -19111,8 +19111,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 44.8,
         "spm": 24,
@@ -19121,8 +19121,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -19131,8 +19131,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 40.1,
         "spm": 28,
@@ -19141,8 +19141,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -19151,8 +19151,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 40.0,
         "spm": 29,
@@ -19161,8 +19161,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 48.0,
         "spm": 21,
@@ -19171,8 +19171,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 41.0,
         "spm": 28,
@@ -19181,8 +19181,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.9,
         "spm": 20,
@@ -19191,8 +19191,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 48.8,
         "spm": 21,
@@ -19201,8 +19201,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 47.1,
         "spm": 20,
@@ -19211,8 +19211,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.6,
         "spm": 29,
@@ -19225,16 +19225,16 @@ export const athletes = [
   },
   {
     "name": "Reeves",
-    "avgSplit": 47.2,
-    "bestSplit": 37.5,
+    "avgSplit": 47.6,
+    "bestSplit": 37.9,
     "totalSessions": 25,
     "trend": "improving",
     "trendDelta": -6.5,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 51.4,
         "spm": 19,
@@ -19243,8 +19243,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 51.5,
         "spm": 20,
@@ -19253,8 +19253,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.8,
         "spm": 20,
@@ -19263,8 +19263,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.5,
         "spm": 22,
@@ -19273,8 +19273,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 47.9,
         "spm": 22,
@@ -19283,8 +19283,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 52.3,
         "spm": 20,
@@ -19293,8 +19293,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 49.3,
         "spm": 23,
@@ -19303,8 +19303,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 47.1,
         "spm": 24,
@@ -19313,8 +19313,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -19323,8 +19323,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 49.4,
         "spm": 21,
@@ -19333,8 +19333,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 49.0,
         "spm": 20,
@@ -19343,8 +19343,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 47.6,
         "spm": 22,
@@ -19353,8 +19353,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -19363,8 +19363,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 45.6,
         "spm": 24,
@@ -19373,8 +19373,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 47.8,
         "spm": 20,
@@ -19383,8 +19383,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 40.8,
         "spm": 27,
@@ -19393,8 +19393,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 49.1,
         "spm": 20,
@@ -19403,8 +19403,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 41.9,
         "spm": 28,
@@ -19413,8 +19413,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.9,
         "spm": 22,
@@ -19423,8 +19423,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 40.6,
         "spm": 27,
@@ -19433,8 +19433,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 44.5,
         "spm": 27,
@@ -19443,8 +19443,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 47.7,
         "spm": 20,
@@ -19453,8 +19453,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 48.8,
         "spm": 21,
@@ -19463,8 +19463,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 46.8,
         "spm": 20,
@@ -19473,8 +19473,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 37.5,
         "spm": 27,
@@ -19487,16 +19487,16 @@ export const athletes = [
   },
   {
     "name": "Larsson",
-    "avgSplit": 47.4,
-    "bestSplit": 39.3,
+    "avgSplit": 47.2,
+    "bestSplit": 39.1,
     "totalSessions": 26,
     "trend": "improving",
     "trendDelta": -3.8,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.6,
         "spm": 20,
@@ -19505,8 +19505,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.5,
         "spm": 20,
@@ -19515,8 +19515,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.6,
         "spm": 20,
@@ -19525,8 +19525,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.2,
         "spm": 21,
@@ -19535,8 +19535,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 47.3,
         "spm": 22,
@@ -19545,8 +19545,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 52.7,
         "spm": 20,
@@ -19555,8 +19555,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 49.0,
         "spm": 20,
@@ -19565,8 +19565,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 47.3,
         "spm": 22,
@@ -19575,8 +19575,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 45.4,
         "spm": 24,
@@ -19585,8 +19585,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 51.1,
         "spm": 19,
@@ -19595,8 +19595,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 48.9,
         "spm": 20,
@@ -19605,8 +19605,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.8,
         "spm": 20,
@@ -19615,8 +19615,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 47.8,
         "spm": 22,
@@ -19625,8 +19625,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -19635,8 +19635,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 46.0,
         "spm": 24,
@@ -19645,8 +19645,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 49.3,
         "spm": 20,
@@ -19655,8 +19655,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 41.6,
         "spm": 28,
@@ -19665,8 +19665,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.9,
         "spm": 21,
@@ -19675,8 +19675,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 42.8,
         "spm": 27,
@@ -19685,8 +19685,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 48.4,
         "spm": 22,
@@ -19695,8 +19695,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 42.7,
         "spm": 27,
@@ -19705,8 +19705,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 41.7,
         "spm": 28,
@@ -19715,8 +19715,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 49.5,
         "spm": 20,
@@ -19725,8 +19725,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 48.8,
         "spm": 21,
@@ -19735,8 +19735,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 49.1,
         "spm": 20,
@@ -19745,8 +19745,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 39.3,
         "spm": 27,
@@ -19759,16 +19759,16 @@ export const athletes = [
   },
   {
     "name": "Callahan",
-    "avgSplit": 47.5,
-    "bestSplit": 45.6,
+    "avgSplit": 46.8,
+    "bestSplit": 44.9,
     "totalSessions": 4,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.1,
         "spm": 20,
@@ -19777,8 +19777,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.8,
         "spm": 22,
@@ -19787,8 +19787,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 45.6,
         "spm": 22,
@@ -19797,8 +19797,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": null,
         "spm": null,
@@ -19811,16 +19811,16 @@ export const athletes = [
   },
   {
     "name": "Santos",
-    "avgSplit": 47.8,
-    "bestSplit": 39.8,
+    "avgSplit": 47.0,
+    "bestSplit": 39.0,
     "totalSessions": 11,
     "trend": "improving",
     "trendDelta": -0.7,
-    "primaryGroup": "Starboard",
+    "primaryGroup": "Group A",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 48.6,
         "spm": 18,
@@ -19829,8 +19829,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 47.5,
         "spm": 18,
@@ -19839,8 +19839,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 48.7,
         "spm": 20,
@@ -19849,8 +19849,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 46.4,
         "spm": 22,
@@ -19859,8 +19859,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 44.8,
         "spm": 22,
@@ -19869,8 +19869,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 49.9,
         "spm": 20,
@@ -19879,8 +19879,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 49.1,
         "spm": 19,
@@ -19889,8 +19889,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -19899,8 +19899,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 52.1,
         "spm": 20,
@@ -19909,8 +19909,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 50.7,
         "spm": 20,
@@ -19919,8 +19919,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 39.8,
         "spm": 26,
@@ -19933,16 +19933,16 @@ export const athletes = [
   },
   {
     "name": "Torres",
-    "avgSplit": 47.8,
-    "bestSplit": 40.6,
+    "avgSplit": 49.1,
+    "bestSplit": 41.9,
     "totalSessions": 24,
     "trend": "improving",
     "trendDelta": -3.6,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.2,
         "spm": 20,
@@ -19951,8 +19951,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 51.4,
         "spm": 21,
@@ -19961,8 +19961,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 48.9,
         "spm": 22,
@@ -19971,8 +19971,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-18",
-        "workout": "30'/20'/10' 2' rest",
+        "date": "2025-02-06",
+        "workout": "Threshold Test A",
         "category": "threshold",
         "split": 54.4,
         "spm": 20,
@@ -19981,8 +19981,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-20",
-        "workout": "2x20'",
+        "date": "2025-02-08",
+        "workout": "Endurance Set D",
         "category": "steady_state",
         "split": 49.7,
         "spm": 20,
@@ -19991,8 +19991,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-25",
-        "workout": "4x4km 3' rest",
+        "date": "2025-02-13",
+        "workout": "Interval Set B",
         "category": "intervals",
         "split": 48.1,
         "spm": 22,
@@ -20001,8 +20001,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-02",
-        "workout": "2x6km 8' rest",
+        "date": "2025-02-20",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 46.0,
         "spm": 24,
@@ -20011,8 +20011,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-04",
-        "workout": "3x17' 3' Rest",
+        "date": "2025-02-22",
+        "workout": "Endurance Set E",
         "category": "steady_state",
         "split": 51.8,
         "spm": 19,
@@ -20021,8 +20021,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-09",
-        "workout": "3x5500km, 3' rest",
+        "date": "2025-02-27",
+        "workout": "Interval Set D",
         "category": "intervals",
         "split": 49.3,
         "spm": 20,
@@ -20031,8 +20031,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.2,
         "spm": 20,
@@ -20041,8 +20041,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-16",
-        "workout": "4x4km",
+        "date": "2025-03-06",
+        "workout": "Interval Set E",
         "category": "intervals",
         "split": 48.8,
         "spm": 22,
@@ -20051,8 +20051,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-20",
-        "workout": "2x22' 2' Rest",
+        "date": "2025-03-10",
+        "workout": "Endurance Set G",
         "category": "steady_state",
         "split": 48.4,
         "spm": 20,
@@ -20061,8 +20061,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-23",
-        "workout": "2x6km 8' rest",
+        "date": "2025-03-13",
+        "workout": "Interval Set C",
         "category": "intervals",
         "split": 45.9,
         "spm": 24,
@@ -20071,8 +20071,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-25",
-        "workout": "3x15' 2' Rest",
+        "date": "2025-03-15",
+        "workout": "Endurance Set H",
         "category": "steady_state",
         "split": 49.3,
         "spm": 20,
@@ -20081,8 +20081,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-10-30",
-        "workout": "10', 9', 8', 7', 9:55 rest",
+        "date": "2025-03-20",
+        "workout": "Threshold Test B",
         "category": "threshold",
         "split": 42.4,
         "spm": 28,
@@ -20091,8 +20091,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-01",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-22",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 50.2,
         "spm": 20,
@@ -20101,8 +20101,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-06",
-        "workout": "3x3km 8' rest",
+        "date": "2025-03-27",
+        "workout": "Interval Set F",
         "category": "intervals",
         "split": 41.7,
         "spm": 27,
@@ -20111,8 +20111,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-08",
-        "workout": "2x5km 4' rest",
+        "date": "2025-03-29",
+        "workout": "Interval Set G",
         "category": "intervals",
         "split": 47.4,
         "spm": 22,
@@ -20121,8 +20121,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-13",
-        "workout": "5km",
+        "date": "2025-04-03",
+        "workout": "Threshold Test C",
         "category": "threshold",
         "split": 41.5,
         "spm": 28,
@@ -20131,8 +20131,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-20",
-        "workout": "5k, 4k, 3k, 2k, 1k 3' Rest",
+        "date": "2025-04-10",
+        "workout": "Threshold Test D",
         "category": "threshold",
         "split": 45.7,
         "spm": 26,
@@ -20141,8 +20141,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-27",
-        "workout": "6x10' 90\" rest",
+        "date": "2025-04-17",
+        "workout": "Endurance Set J",
         "category": "steady_state",
         "split": 50.4,
         "spm": 20,
@@ -20151,8 +20151,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-11-29",
-        "workout": "2x22' 3' Rest",
+        "date": "2025-04-19",
+        "workout": "Endurance Set I",
         "category": "steady_state",
         "split": 49.1,
         "spm": 20,
@@ -20161,8 +20161,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-01",
-        "workout": "7' 30'' on, 1' rest",
+        "date": "2025-04-21",
+        "workout": "Threshold Test E",
         "category": "threshold",
         "split": 49.0,
         "spm": 20,
@@ -20171,8 +20171,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-12-03",
-        "workout": "4x4', 4' rest",
+        "date": "2025-04-23",
+        "workout": "Threshold Test F",
         "category": "threshold",
         "split": 40.6,
         "spm": 27,
@@ -20185,16 +20185,16 @@ export const athletes = [
   },
   {
     "name": "Nakamura",
-    "avgSplit": 48.9,
-    "bestSplit": 48.5,
+    "avgSplit": 49.7,
+    "bestSplit": 49.3,
     "totalSessions": 4,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.2,
         "spm": 20,
@@ -20203,8 +20203,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.0,
         "spm": 21,
@@ -20213,8 +20213,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -20223,8 +20223,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-10-11",
-        "workout": "2x22' 3' rest",
+        "date": "2025-03-01",
+        "workout": "Endurance Set F",
         "category": "steady_state",
         "split": 48.5,
         "spm": 20,
@@ -20237,16 +20237,16 @@ export const athletes = [
   },
   {
     "name": "Varga",
-    "avgSplit": 49.4,
-    "bestSplit": 49.4,
+    "avgSplit": 50.4,
+    "bestSplit": 50.4,
     "totalSessions": 1,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 49.4,
         "spm": 20,
@@ -20259,16 +20259,16 @@ export const athletes = [
   },
   {
     "name": "Andersen",
-    "avgSplit": 49.6,
-    "bestSplit": 49.5,
+    "avgSplit": 49.5,
+    "bestSplit": 49.4,
     "totalSessions": 4,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 49.8,
         "spm": 18,
@@ -20277,8 +20277,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 49.5,
         "spm": 18,
@@ -20287,8 +20287,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": null,
         "spm": null,
@@ -20297,8 +20297,8 @@ export const athletes = [
         "dnf": true
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": null,
         "spm": null,
@@ -20311,16 +20311,16 @@ export const athletes = [
   },
   {
     "name": "Nolan",
-    "avgSplit": 51.0,
-    "bestSplit": 50.6,
+    "avgSplit": 50.6,
+    "bestSplit": 50.2,
     "totalSessions": 2,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 50.6,
         "spm": 20,
@@ -20329,8 +20329,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-06",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-25",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 51.3,
         "spm": 22,
@@ -20343,16 +20343,16 @@ export const athletes = [
   },
   {
     "name": "Ruiz",
-    "avgSplit": 51.0,
-    "bestSplit": 48.3,
+    "avgSplit": 51.8,
+    "bestSplit": 49.1,
     "totalSessions": 4,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 53.2,
         "spm": 20,
@@ -20361,8 +20361,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 51.7,
         "spm": 20,
@@ -20371,8 +20371,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-01",
-        "workout": "2x6k 3' rest",
+        "date": "2025-01-20",
+        "workout": "Interval Set A",
         "category": "intervals",
         "split": 50.9,
         "spm": 21,
@@ -20381,8 +20381,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-09-11",
-        "workout": "30' 22rpm",
+        "date": "2025-01-30",
+        "workout": "Endurance Set C",
         "category": "steady_state",
         "split": 48.3,
         "spm": 22,
@@ -20395,16 +20395,16 @@ export const athletes = [
   },
   {
     "name": "O'Brien",
-    "avgSplit": 52.9,
-    "bestSplit": 52.0,
+    "avgSplit": 53.7,
+    "bestSplit": 52.8,
     "totalSessions": 2,
     "trend": "stable",
     "trendDelta": 0,
-    "primaryGroup": "Port",
+    "primaryGroup": "Group B",
     "history": [
       {
-        "date": "2023-08-25",
-        "workout": "30' 18-20 spm",
+        "date": "2025-01-13",
+        "workout": "Endurance Set A",
         "category": "steady_state",
         "split": 53.7,
         "spm": 20,
@@ -20413,8 +20413,8 @@ export const athletes = [
         "dnf": false
       },
       {
-        "date": "2023-08-28",
-        "workout": "3x15' 3' rest",
+        "date": "2025-01-16",
+        "workout": "Endurance Set B",
         "category": "steady_state",
         "split": 52.0,
         "spm": 21,
@@ -20431,29 +20431,29 @@ export const categoryStats = [
   {
     "name": "steady_state",
     "count": 12,
-    "bestSplit": 38.7,
+    "bestSplit": 38.6,
     "bestAthlete": "Chen",
-    "teamAvg": 47.3
+    "teamAvg": 48.0
   },
   {
     "name": "intervals",
     "count": 8,
-    "bestSplit": 33.6,
+    "bestSplit": 34.0,
     "bestAthlete": "Chen",
-    "teamAvg": 44.1
+    "teamAvg": 44.8
   },
   {
     "name": "threshold",
     "count": 6,
-    "bestSplit": 32.5,
+    "bestSplit": 32.4,
     "bestAthlete": "Rivera",
-    "teamAvg": 41.7
+    "teamAvg": 42.4
   },
   {
     "name": "triathlon",
     "count": 2,
-    "bestSplit": 49.3,
+    "bestSplit": 48.7,
     "bestAthlete": "Kwon",
-    "teamAvg": 49.3
+    "teamAvg": 50.0
   }
 ];

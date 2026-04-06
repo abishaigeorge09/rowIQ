@@ -34,8 +34,8 @@ export default function SessionHeader({ session }: Props) {
 
       <div className="flex flex-wrap items-center gap-6 mt-5">
         <StatItem label="Participants" value={String(session.participantCount)} />
-        <StatItem label="Starboard" value={String(session.starboard.length)} />
-        <StatItem label="Port" value={String(session.port.length)} />
+        <StatItem label="Group A" value={String(session.groupA.length)} />
+        <StatItem label="Group B" value={String(session.groupB.length)} />
         {!isTriathlon && (
           <>
             <StatItem

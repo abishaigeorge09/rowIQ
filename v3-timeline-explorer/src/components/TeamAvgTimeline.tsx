@@ -23,13 +23,13 @@ export default function TeamAvgTimeline() {
         id: s.id,
         date: s.date,
         dateLabel: formatDateShort(s.date),
-        starboardAvg: s.starboardAvg,
-        portAvg: s.portAvg,
+        groupAAvg: s.groupAAvg,
+        groupBAvg: s.groupBAvg,
         teamAvg: s.teamAvgSplit,
       }))
   }, [])
 
-  const splits = data.flatMap((d) => [d.starboardAvg, d.portAvg])
+  const splits = data.flatMap((d) => [d.groupAAvg, d.groupBAvg])
   const minY = Math.floor(Math.min(...splits) - 1)
   const maxY = Math.ceil(Math.max(...splits) + 1)
 
@@ -62,7 +62,7 @@ export default function TeamAvgTimeline() {
           onClick={handleClick}
         >
           <defs>
-            <linearGradient id="gradStarboard" x1="0" y1="0" x2="0" y2="1">
+            <linearGradient id="gradGroup A" x1="0" y1="0" x2="0" y2="1">
               <stop offset="0%" stopColor="#3B82F6" stopOpacity={0.3} />
               <stop offset="100%" stopColor="#3B82F6" stopOpacity={0} />
             </linearGradient>
@@ -99,7 +99,7 @@ export default function TeamAvgTimeline() {
             labelStyle={{ color: '#94A3B8', marginBottom: 4 }}
             formatter={(v: any, name: any) => [
               formatSplit(v) + 's',
-              name === 'starboardAvg' ? 'Starboard' : 'Port',
+              name === 'groupAAvg' ? 'Group A' : 'Group B',
             ]}
             labelFormatter={(label: any) => label}
           />
@@ -107,23 +107,23 @@ export default function TeamAvgTimeline() {
             verticalAlign="bottom"
             iconType="line"
             formatter={(v: any) =>
-              v === 'starboardAvg' ? 'Starboard Avg' : 'Port Avg'
+              v === 'groupAAvg' ? 'Group A Avg' : 'Group B Avg'
             }
             wrapperStyle={{ color: '#94A3B8', fontSize: 12, paddingTop: 8 }}
           />
           <Area
             type="monotone"
-            dataKey="starboardAvg"
+            dataKey="groupAAvg"
             stroke="#3B82F6"
             strokeWidth={2}
-            fill="url(#gradStarboard)"
+            fill="url(#gradGroup A)"
             dot={{ r: 3, fill: '#3B82F6', stroke: '#0F172A', strokeWidth: 2 }}
             activeDot={{ r: 5, fill: '#3B82F6', stroke: '#fff', strokeWidth: 2, cursor: 'pointer' }}
             isAnimationActive={false}
           />
           <Area
             type="monotone"
-            dataKey="portAvg"
+            dataKey="groupBAvg"
             stroke="#EF4444"
             strokeWidth={2}
             fill="url(#gradPort)"

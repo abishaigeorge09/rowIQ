@@ -16,7 +16,7 @@ export default function ComparePanel() {
   const allAthletes = useMemo(() => {
     const nameSet = new Set<string>()
     for (const s of compared) {
-      for (const a of [...s.starboard, ...s.port]) {
+      for (const a of [...s.groupA, ...s.groupB]) {
         if (!a.dnf) nameSet.add(a.name)
       }
     }
@@ -28,7 +28,7 @@ export default function ComparePanel() {
     const map = new Map<string, Map<string, number>>()
     for (const s of compared) {
       const m = new Map<string, number>()
-      for (const a of [...s.starboard, ...s.port]) {
+      for (const a of [...s.groupA, ...s.groupB]) {
         if (!a.dnf) m.set(a.name, a.split)
       }
       map.set(s.id, m)
