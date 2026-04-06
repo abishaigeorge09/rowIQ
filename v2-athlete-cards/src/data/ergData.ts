@@ -69,42 +69,42 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.7,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 47.3,
         "spm": 18,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 47.6,
         "spm": 18,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.6,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 47.7,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 47.7,
         "spm": 20,
         "rank": 6,
@@ -118,119 +118,119 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 47.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 48.2,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 48.3,
         "spm": 18,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Siemering",
+        "name": "Magnusson",
         "split": 48.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 48.4,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 48.5,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 48.5,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 48.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 48.9,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 49.0,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 49.1,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 49.3,
         "spm": 18,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 49.5,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.6,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 49.7,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 51.4,
         "spm": 19,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 51.7,
         "spm": 20,
         "rank": 24,
@@ -239,189 +239,189 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 45.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 47.7,
         "spm": 18,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 47.8,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 48.2,
         "spm": 18,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 48.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 48.3,
         "spm": 18,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 48.4,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 48.5,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 48.6,
         "spm": 18,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 48.8,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 48.9,
         "spm": 18,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 48.9,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.9,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 49.0,
         "spm": 19,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.2,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 49.3,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 49.4,
         "spm": 18,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Greenberg",
+        "name": "Andersen",
         "split": 49.8,
         "spm": 18,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 49.8,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 49.9,
         "spm": 19,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 50.3,
         "spm": 18,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Reid",
+        "name": "Nolan",
         "split": 50.6,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 50.7,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 51.3,
         "spm": 18,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 51.6,
         "spm": 18,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Gibor",
+        "name": "Ruiz",
         "split": 53.2,
         "spm": 20,
         "rank": 26,
         "dnf": false
       },
       {
-        "name": "MacKinney",
+        "name": "O'Brien",
         "split": 53.7,
         "spm": 20,
         "rank": 27,
@@ -431,7 +431,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 49.0,
     "bestSplit": 44.7,
     "worstSplit": 53.7,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 48.6,
     "portAvg": 49.4,
     "participantCount": 51
@@ -443,119 +443,119 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 43.5,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 45.9,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.6,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 46.8,
         "spm": 18,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.8,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.9,
         "spm": 18,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 47.2,
         "spm": 18,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 47.2,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 47.5,
         "spm": 18,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.5,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.7,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 47.7,
         "spm": 21,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 48.0,
         "spm": 18,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 48.0,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Siemering",
+        "name": "Magnusson",
         "split": 48.1,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 48.4,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.4,
         "spm": 20,
         "rank": 17,
@@ -569,35 +569,35 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 48.5,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 49.1,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 49.3,
         "spm": 18,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.5,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 51.5,
         "spm": 20,
         "rank": 23,
@@ -606,175 +606,175 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 42.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 46.1,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.6,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.8,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 46.9,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 47.0,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 47.7,
         "spm": 18,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 47.8,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 47.9,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 48.0,
         "spm": 17,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 48.0,
         "spm": 19,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 48.2,
         "spm": 18,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.4,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.5,
         "spm": 18,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 48.8,
         "spm": 18,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 48.8,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 48.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 48.9,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Bird",
+        "name": "Nakamura",
         "split": 49.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Greenberg",
+        "name": "Andersen",
         "split": 49.5,
         "spm": 18,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 49.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 50.3,
         "spm": 18,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 50.9,
         "spm": 18,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Gibor",
+        "name": "Ruiz",
         "split": 51.7,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "MacKinney",
+        "name": "O'Brien",
         "split": 52.0,
         "spm": 21,
         "rank": 25,
@@ -784,7 +784,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 48.1,
     "bestSplit": 42.9,
     "worstSplit": 52.0,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 47.8,
     "portAvg": 48.4,
     "participantCount": 48
@@ -796,133 +796,133 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.2,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 44.4,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 44.9,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 45.5,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 46.5,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 46.8,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 47.1,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 47.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Siemering",
+        "name": "Magnusson",
         "split": 47.9,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 48.0,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 48.1,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 48.2,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 48.2,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 48.4,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 48.5,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 48.5,
         "spm": 21,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 48.6,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 48.7,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 48.8,
         "spm": 21,
         "rank": 19,
@@ -936,21 +936,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 49.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.8,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 49.9,
         "spm": 20,
         "rank": 23,
@@ -959,189 +959,189 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.5,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 45.1,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 46.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.0,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 46.8,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 46.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.0,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 47.1,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 48.2,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 48.2,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 48.2,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 48.3,
         "spm": 21,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.5,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 48.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.7,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 48.7,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.8,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 49.0,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bird",
+        "name": "Nakamura",
         "split": 49.0,
         "spm": 21,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Bradbery",
+        "name": "Callahan",
         "split": 49.1,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Derks",
+        "name": "Varga",
         "split": 49.4,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 49.4,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.6,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 49.7,
         "spm": 21,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Gibor",
+        "name": "Ruiz",
         "split": 50.9,
         "spm": 21,
         "rank": 26,
         "dnf": false
       },
       {
-        "name": "Greenberg",
+        "name": "Andersen",
         "split": 999,
         "spm": 0,
         "rank": 27,
@@ -1151,7 +1151,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.8,
     "bestSplit": 43.9,
     "worstSplit": 50.9,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 47.7,
     "portAvg": 47.9,
     "participantCount": 49
@@ -1163,133 +1163,133 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 41.6,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 44.0,
         "spm": 21,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.3,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 44.5,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 44.6,
         "spm": 21,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 44.6,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 44.8,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 44.9,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 45.1,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Siemering",
+        "name": "Magnusson",
         "split": 45.1,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 45.2,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 45.4,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 45.6,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 45.7,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 46.2,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 46.4,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 46.5,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 46.7,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 46.8,
         "spm": 22,
         "rank": 19,
@@ -1303,42 +1303,42 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 46.9,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 47.3,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 47.6,
         "spm": 21,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 47.6,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.5,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 999,
         "spm": 0,
         "rank": 26,
@@ -1347,189 +1347,189 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 41.5,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 43.7,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 44.6,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 44.9,
         "spm": 21,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 44.9,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 45.2,
         "spm": 21,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 45.6,
         "spm": 21,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 45.7,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 45.7,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 45.8,
         "spm": 21,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 45.9,
         "spm": 21,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 46.1,
         "spm": 21,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 46.1,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.1,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 46.7,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.1,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 47.3,
         "spm": 21,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 47.5,
         "spm": 21,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bradbery",
+        "name": "Callahan",
         "split": 47.8,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 48.1,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.1,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.2,
         "spm": 21,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Reid",
+        "name": "Nolan",
         "split": 51.3,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 51.4,
         "spm": 21,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Greenberg",
+        "name": "Andersen",
         "split": 999,
         "spm": 0,
         "rank": 26,
         "dnf": true
       },
       {
-        "name": "Bird",
+        "name": "Nakamura",
         "split": 999,
         "spm": 0,
         "rank": 27,
@@ -1539,7 +1539,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 46.1,
     "bestSplit": 41.5,
     "worstSplit": 51.4,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 45.8,
     "portAvg": 46.5,
     "participantCount": 50
@@ -1551,154 +1551,154 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 38.7,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 42.1,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 42.4,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 42.4,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 42.5,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 43.0,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 43.1,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 43.3,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 43.4,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 43.7,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 43.9,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 44.0,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Siemering",
+        "name": "Magnusson",
         "split": 44.0,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 44.0,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 44.4,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 44.6,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 44.7,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 44.8,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 44.8,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 44.9,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 44.9,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 45.3,
         "spm": 22,
         "rank": 22,
@@ -1712,21 +1712,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 46.4,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.3,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.9,
         "spm": 22,
         "rank": 26,
@@ -1735,182 +1735,182 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 39.4,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 41.6,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 42.3,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 42.9,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 43.0,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 43.3,
         "spm": 21,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 43.6,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 43.7,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 43.8,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 44.1,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 44.1,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 44.5,
         "spm": 21,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 44.6,
         "spm": 21,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 44.8,
         "spm": 21,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 44.8,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 45.0,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 45.2,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 45.4,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 45.5,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bradbery",
+        "name": "Callahan",
         "split": 45.6,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.2,
         "spm": 21,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 46.5,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 47.0,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 47.3,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Gibor",
+        "name": "Ruiz",
         "split": 48.3,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 48.9,
         "spm": 22,
         "rank": 26,
@@ -1920,7 +1920,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 44.4,
     "bestSplit": 38.7,
     "worstSplit": 48.9,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 44.1,
     "portAvg": 44.7,
     "participantCount": 52
@@ -1932,161 +1932,161 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 46.4,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 46.6,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 47.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 47.7,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 47.8,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 47.8,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 47.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 48.1,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 48.2,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 48.8,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 49.0,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 49.2,
         "spm": 19,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 49.4,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 49.6,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 49.6,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 49.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 49.9,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 50.7,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 50.9,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 51.1,
         "spm": 21,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 51.8,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 52.7,
         "spm": 20,
         "rank": 23,
@@ -2095,175 +2095,175 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 46.1,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 46.2,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 47.1,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 47.2,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 47.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 47.9,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 47.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.1,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 48.1,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 48.4,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 48.5,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 48.7,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 48.7,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 49.1,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 49.3,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 49.3,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 49.7,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 49.9,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 50.1,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 50.4,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 51.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 54.4,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 999,
         "spm": 0,
         "rank": 23,
         "dnf": true
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 999,
         "spm": 0,
         "rank": 24,
         "dnf": true
       },
       {
-        "name": "Bradbery",
+        "name": "Callahan",
         "split": 999,
         "spm": 0,
         "rank": 25,
@@ -2273,7 +2273,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 48.8,
     "bestSplit": 43.9,
     "worstSplit": 54.4,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 48.9,
     "portAvg": 48.8,
     "participantCount": 45
@@ -2285,154 +2285,154 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 44.2,
         "spm": 19,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 46.2,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.3,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 46.5,
         "spm": 19,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 46.8,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 47.2,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.2,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 47.3,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 47.3,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 47.5,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.6,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 47.8,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.9,
         "spm": 19,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 47.9,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 48.3,
         "spm": 19,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 48.4,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 48.9,
         "spm": 19,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 48.9,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 49.1,
         "spm": 19,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 49.5,
         "spm": 19,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 52.3,
         "spm": 20,
         "rank": 22,
@@ -2441,168 +2441,168 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 44.1,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 45.4,
         "spm": 19,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 45.9,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 46.4,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.6,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 46.9,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 46.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 47.4,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.6,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 47.6,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.6,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.8,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 47.9,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 48.4,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 48.5,
         "spm": 19,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 48.6,
         "spm": 19,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 48.7,
         "spm": 19,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.7,
         "spm": 19,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.7,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.9,
         "spm": 19,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.0,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 49.1,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.7,
         "spm": 20,
         "rank": 24,
@@ -2612,7 +2612,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.6,
     "bestSplit": 43.9,
     "worstSplit": 52.3,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 47.6,
     "portAvg": 47.6,
     "participantCount": 46
@@ -2624,7 +2624,7 @@ export const sessions: Session[] = [
     "workoutCategory": "triathlon",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 144660,
         "spm": 0,
         "rank": 1,
@@ -2632,7 +2632,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2411:00"
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 147120,
         "spm": 0,
         "rank": 2,
@@ -2640,7 +2640,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2452:00"
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 147600,
         "spm": 0,
         "rank": 3,
@@ -2648,7 +2648,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2460:00"
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 148200,
         "spm": 0,
         "rank": 4,
@@ -2656,7 +2656,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2470:00"
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 148200,
         "spm": 0,
         "rank": 5,
@@ -2664,7 +2664,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2470:00"
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 149160,
         "spm": 0,
         "rank": 6,
@@ -2672,7 +2672,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2486:00"
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 149160,
         "spm": 0,
         "rank": 7,
@@ -2680,7 +2680,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2486:00"
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 149640,
         "spm": 0,
         "rank": 8,
@@ -2688,7 +2688,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2494:00"
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 151920,
         "spm": 0,
         "rank": 9,
@@ -2696,7 +2696,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2532:00"
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 152460,
         "spm": 0,
         "rank": 10,
@@ -2704,7 +2704,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2541:00"
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 155160,
         "spm": 0,
         "rank": 11,
@@ -2720,7 +2720,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2595:00"
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 155820,
         "spm": 0,
         "rank": 13,
@@ -2728,7 +2728,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2597:00"
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 156840,
         "spm": 0,
         "rank": 14,
@@ -2736,7 +2736,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2614:00"
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 158160,
         "spm": 0,
         "rank": 15,
@@ -2744,7 +2744,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2636:00"
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 158760,
         "spm": 0,
         "rank": 16,
@@ -2752,7 +2752,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2646:00"
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 161100,
         "spm": 0,
         "rank": 17,
@@ -2760,7 +2760,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2685:00"
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 161400,
         "spm": 0,
         "rank": 18,
@@ -2768,7 +2768,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2690:00"
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 167160,
         "spm": 0,
         "rank": 19,
@@ -2776,7 +2776,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2786:00"
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 173700,
         "spm": 0,
         "rank": 20,
@@ -2786,7 +2786,7 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 147120,
         "spm": 0,
         "rank": 1,
@@ -2794,7 +2794,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2452:00"
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 147300,
         "spm": 0,
         "rank": 2,
@@ -2802,7 +2802,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2455:00"
       },
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 148260,
         "spm": 0,
         "rank": 3,
@@ -2810,7 +2810,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2471:00"
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 151800,
         "spm": 0,
         "rank": 4,
@@ -2818,7 +2818,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2530:00"
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 152640,
         "spm": 0,
         "rank": 5,
@@ -2826,7 +2826,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2544:00"
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 152880,
         "spm": 0,
         "rank": 6,
@@ -2834,7 +2834,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2548:00"
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 153000,
         "spm": 0,
         "rank": 7,
@@ -2842,7 +2842,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2550:00"
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 153420,
         "spm": 0,
         "rank": 8,
@@ -2850,7 +2850,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2557:00"
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 153600,
         "spm": 0,
         "rank": 9,
@@ -2858,7 +2858,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2560:00"
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 153900,
         "spm": 0,
         "rank": 10,
@@ -2866,7 +2866,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2565:00"
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 155280,
         "spm": 0,
         "rank": 11,
@@ -2874,7 +2874,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2588:00"
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 155940,
         "spm": 0,
         "rank": 12,
@@ -2882,7 +2882,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2599:00"
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 156240,
         "spm": 0,
         "rank": 13,
@@ -2890,7 +2890,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2604:00"
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 156360,
         "spm": 0,
         "rank": 14,
@@ -2898,7 +2898,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2606:00"
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 157200,
         "spm": 0,
         "rank": 15,
@@ -2906,7 +2906,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2620:00"
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 157800,
         "spm": 0,
         "rank": 16,
@@ -2914,7 +2914,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2630:00"
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 158220,
         "spm": 0,
         "rank": 17,
@@ -2922,7 +2922,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2637:00"
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 158340,
         "spm": 0,
         "rank": 18,
@@ -2930,7 +2930,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2639:00"
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 158520,
         "spm": 0,
         "rank": 19,
@@ -2938,7 +2938,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2642:00"
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 160800,
         "spm": 0,
         "rank": 20,
@@ -2946,7 +2946,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2680:00"
       },
       {
-        "name": "MacKinney",
+        "name": "O'Brien",
         "split": 161880,
         "spm": 0,
         "rank": 21,
@@ -2954,7 +2954,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2698:00"
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 162300,
         "spm": 0,
         "rank": 22,
@@ -2962,7 +2962,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2705:00"
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 170100,
         "spm": 0,
         "rank": 23,
@@ -2970,7 +2970,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2835:00"
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 171840,
         "spm": 0,
         "rank": 24,
@@ -2978,7 +2978,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2864:00"
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 179700,
         "spm": 0,
         "rank": 25,
@@ -2986,7 +2986,7 @@ export const sessions: Session[] = [
         "timeFormatted": "2995:00"
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 181800,
         "spm": 0,
         "rank": 26,
@@ -2997,7 +2997,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 156699.1,
     "bestSplit": 144660,
     "worstSplit": 181800,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 154596.0,
     "portAvg": 158316.9,
     "participantCount": 46
@@ -3009,112 +3009,112 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 39.3,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 41.4,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 42.3,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 42.4,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 42.6,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 42.8,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 43.0,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 43.3,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 43.9,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 44.6,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 44.6,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 44.6,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 44.8,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 45.2,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 45.3,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 46.1,
         "spm": 22,
         "rank": 16,
@@ -3128,35 +3128,35 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 46.3,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 46.4,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.2,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.4,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.3,
         "spm": 23,
         "rank": 22,
@@ -3165,168 +3165,168 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 39.8,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 41.1,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 42.3,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 42.6,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 42.9,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 43.2,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 43.4,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 43.6,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 43.7,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 43.7,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 44.0,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 44.1,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 44.4,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 44.6,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 44.7,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 44.7,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 44.8,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 45.6,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 45.8,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 45.9,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.1,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 46.4,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 47.3,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 48.1,
         "spm": 22,
         "rank": 24,
@@ -3336,7 +3336,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 44.4,
     "bestSplit": 39.3,
     "worstSplit": 49.3,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 44.5,
     "portAvg": 44.3,
     "participantCount": 46
@@ -3348,105 +3348,105 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 37.7,
         "spm": 24,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 39.9,
         "spm": 24,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 39.9,
         "spm": 24,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 40.4,
         "spm": 24,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 40.5,
         "spm": 24,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 40.5,
         "spm": 24,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 40.8,
         "spm": 24,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 40.9,
         "spm": 24,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 42.2,
         "spm": 24,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 42.3,
         "spm": 24,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 42.6,
         "spm": 24,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 42.6,
         "spm": 24,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 42.7,
         "spm": 24,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 42.9,
         "spm": 24,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 43.0,
         "spm": 24,
         "rank": 15,
@@ -3460,42 +3460,42 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 44.0,
         "spm": 24,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 44.1,
         "spm": 24,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 44.3,
         "spm": 24,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 45.0,
         "spm": 24,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 45.4,
         "spm": 24,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.1,
         "spm": 24,
         "rank": 22,
@@ -3504,168 +3504,168 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 39.5,
         "spm": 24,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 39.8,
         "spm": 24,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 40.2,
         "spm": 24,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 41.0,
         "spm": 24,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 41.3,
         "spm": 24,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 42.1,
         "spm": 24,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 42.4,
         "spm": 24,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 42.5,
         "spm": 24,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 42.5,
         "spm": 24,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 42.6,
         "spm": 24,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 42.6,
         "spm": 24,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 42.6,
         "spm": 24,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 42.7,
         "spm": 24,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 43.0,
         "spm": 24,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 43.1,
         "spm": 24,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 43.5,
         "spm": 24,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 43.9,
         "spm": 24,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 44.3,
         "spm": 24,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 44.6,
         "spm": 24,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 44.6,
         "spm": 24,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 44.9,
         "spm": 24,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 45.4,
         "spm": 24,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 46.0,
         "spm": 24,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 999,
         "spm": 0,
         "rank": 24,
@@ -3675,7 +3675,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 42.6,
     "bestSplit": 37.7,
     "worstSplit": 47.1,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 42.4,
     "portAvg": 42.8,
     "participantCount": 45
@@ -3687,119 +3687,119 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.8,
         "spm": 19,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.7,
         "spm": 19,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 46.2,
         "spm": 19,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 47.2,
         "spm": 19,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 48.1,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 48.2,
         "spm": 19,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.4,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 48.6,
         "spm": 19,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 48.8,
         "spm": 19,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 48.9,
         "spm": 19,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 48.9,
         "spm": 19,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 49.0,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 49.1,
         "spm": 19,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 49.3,
         "spm": 19,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 49.4,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 49.7,
         "spm": 19,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 49.7,
         "spm": 19,
         "rank": 17,
@@ -3813,28 +3813,28 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 49.7,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 49.8,
         "spm": 19,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 51.1,
         "spm": 19,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 999,
         "spm": 0,
         "rank": 22,
@@ -3843,154 +3843,154 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 46.3,
         "spm": 19,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 46.5,
         "spm": 19,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 47.0,
         "spm": 19,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.3,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 47.5,
         "spm": 19,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 48.7,
         "spm": 19,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 48.8,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.8,
         "spm": 19,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 48.9,
         "spm": 19,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 48.9,
         "spm": 19,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 49.0,
         "spm": 19,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 49.0,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 49.1,
         "spm": 19,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 49.1,
         "spm": 19,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 49.1,
         "spm": 19,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 49.3,
         "spm": 19,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 49.3,
         "spm": 19,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 49.4,
         "spm": 19,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 49.5,
         "spm": 19,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 50.1,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 50.2,
         "spm": 19,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 51.8,
         "spm": 19,
         "rank": 22,
@@ -4000,7 +4000,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 48.7,
     "bestSplit": 44.8,
     "worstSplit": 51.8,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 48.6,
     "portAvg": 48.8,
     "participantCount": 43
@@ -4012,105 +4012,105 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.7,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 45.7,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 45.9,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.9,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 46.0,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 46.2,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 46.7,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 46.7,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 47.0,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.1,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 47.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 47.4,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.7,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 47.8,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.9,
         "spm": 20,
         "rank": 15,
@@ -4124,28 +4124,28 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 49.2,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.4,
         "spm": 21,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 52.0,
         "spm": 19,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 999,
         "spm": 0,
         "rank": 20,
@@ -4154,182 +4154,182 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.7,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 45.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 45.5,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 45.9,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 46.0,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.1,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.2,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 46.2,
         "spm": 21,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 46.8,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 47.0,
         "spm": 18,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.1,
         "spm": 21,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 47.2,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.2,
         "spm": 21,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 47.3,
         "spm": 21,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 47.4,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.4,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.4,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 47.5,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.7,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.8,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.0,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.3,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 48.3,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.9,
         "spm": 20,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.9,
         "spm": 20,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.3,
         "spm": 20,
         "rank": 26,
@@ -4339,7 +4339,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.2,
     "bestSplit": 44.7,
     "worstSplit": 52.0,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 47.3,
     "portAvg": 47.1,
     "participantCount": 45
@@ -4351,91 +4351,91 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.0,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.0,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 45.7,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 46.2,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 46.3,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.5,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.5,
         "spm": 21,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.6,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 47.0,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.0,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 47.1,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.2,
         "spm": 21,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 47.4,
         "spm": 20,
         "rank": 13,
@@ -4449,28 +4449,28 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 48.2,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.3,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Bird",
+        "name": "Nakamura",
         "split": 48.5,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.0,
         "spm": 20,
         "rank": 18,
@@ -4479,161 +4479,161 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 45.4,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 45.6,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 46.0,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 46.4,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.7,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 46.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.0,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.0,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 47.0,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 47.1,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.2,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 47.6,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 47.8,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 47.8,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 47.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.1,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 48.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 48.2,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.3,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.8,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.9,
         "spm": 20,
         "rank": 23,
@@ -4643,7 +4643,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.0,
     "bestSplit": 43.9,
     "worstSplit": 49.0,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 46.9,
     "portAvg": 47.1,
     "participantCount": 41
@@ -4655,7 +4655,7 @@ export const sessions: Session[] = [
     "workoutCategory": "triathlon",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 199440,
         "spm": 0,
         "rank": 1,
@@ -4663,7 +4663,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3324:00"
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 200220,
         "spm": 0,
         "rank": 2,
@@ -4671,7 +4671,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3337:00"
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 201240,
         "spm": 0,
         "rank": 3,
@@ -4679,7 +4679,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3354:00"
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 203520,
         "spm": 0,
         "rank": 4,
@@ -4687,7 +4687,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3392:00"
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 207720,
         "spm": 0,
         "rank": 5,
@@ -4695,7 +4695,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3462:00"
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 208200,
         "spm": 0,
         "rank": 6,
@@ -4703,7 +4703,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3470:00"
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 211560,
         "spm": 0,
         "rank": 7,
@@ -4711,7 +4711,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3526:00"
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 214380,
         "spm": 0,
         "rank": 8,
@@ -4719,7 +4719,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3573:00"
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 216420,
         "spm": 0,
         "rank": 9,
@@ -4727,7 +4727,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3607:00"
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 217740,
         "spm": 0,
         "rank": 10,
@@ -4743,7 +4743,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3645:00"
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 223380,
         "spm": 0,
         "rank": 12,
@@ -4751,7 +4751,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3723:00"
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 223800,
         "spm": 0,
         "rank": 13,
@@ -4759,7 +4759,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3730:00"
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 234900,
         "spm": 0,
         "rank": 14,
@@ -4767,7 +4767,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3915:00"
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 236520,
         "spm": 0,
         "rank": 15,
@@ -4777,7 +4777,7 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 202740,
         "spm": 0,
         "rank": 1,
@@ -4785,7 +4785,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3379:00"
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 203940,
         "spm": 0,
         "rank": 2,
@@ -4793,7 +4793,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3399:00"
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 204300,
         "spm": 0,
         "rank": 3,
@@ -4801,7 +4801,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3405:00"
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 208320,
         "spm": 0,
         "rank": 4,
@@ -4809,7 +4809,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3472:00"
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 208380,
         "spm": 0,
         "rank": 5,
@@ -4817,7 +4817,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3473:00"
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 208440,
         "spm": 0,
         "rank": 6,
@@ -4825,7 +4825,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3474:00"
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 208920,
         "spm": 0,
         "rank": 7,
@@ -4833,7 +4833,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3482:00"
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 210060,
         "spm": 0,
         "rank": 8,
@@ -4841,7 +4841,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3501:00"
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 210600,
         "spm": 0,
         "rank": 9,
@@ -4849,7 +4849,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3510:00"
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 211080,
         "spm": 0,
         "rank": 10,
@@ -4857,7 +4857,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3518:00"
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 211380,
         "spm": 0,
         "rank": 11,
@@ -4865,7 +4865,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3523:00"
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 212340,
         "spm": 0,
         "rank": 12,
@@ -4873,7 +4873,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3539:00"
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 212580,
         "spm": 0,
         "rank": 13,
@@ -4881,7 +4881,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3543:00"
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 212820,
         "spm": 0,
         "rank": 14,
@@ -4889,7 +4889,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3547:00"
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 213060,
         "spm": 0,
         "rank": 15,
@@ -4897,7 +4897,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3551:00"
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 213300,
         "spm": 0,
         "rank": 16,
@@ -4905,7 +4905,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3555:00"
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 213600,
         "spm": 0,
         "rank": 17,
@@ -4913,7 +4913,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3560:00"
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 214680,
         "spm": 0,
         "rank": 18,
@@ -4921,7 +4921,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3578:00"
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 219180,
         "spm": 0,
         "rank": 19,
@@ -4929,7 +4929,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3653:00"
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 222120,
         "spm": 0,
         "rank": 20,
@@ -4937,7 +4937,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3702:00"
       },
       {
-        "name": "MacKinney",
+        "name": "O'Brien",
         "split": 223920,
         "spm": 0,
         "rank": 21,
@@ -4945,7 +4945,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3732:00"
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 224700,
         "spm": 0,
         "rank": 22,
@@ -4953,7 +4953,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3745:00"
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 224880,
         "spm": 0,
         "rank": 23,
@@ -4961,7 +4961,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3748:00"
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 228060,
         "spm": 0,
         "rank": 24,
@@ -4969,7 +4969,7 @@ export const sessions: Session[] = [
         "timeFormatted": "3801:00"
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 248940,
         "spm": 0,
         "rank": 25,
@@ -4980,7 +4980,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 214752.0,
     "bestSplit": 199440,
     "worstSplit": 248940,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 214516.0,
     "portAvg": 214893.6,
     "participantCount": 40
@@ -4992,105 +4992,105 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 39.0,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 40.8,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 41.9,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 41.9,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 42.0,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 42.2,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 44.1,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 44.2,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 44.5,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 44.5,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 44.7,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 45.2,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 45.5,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 45.5,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 45.7,
         "spm": 22,
         "rank": 15,
@@ -5104,7 +5104,7 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.6,
         "spm": 22,
         "rank": 17,
@@ -5113,182 +5113,182 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 39.8,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 40.9,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 41.6,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 41.9,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 42.1,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 42.5,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 42.7,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 42.8,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 43.1,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 43.2,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 43.7,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 44.3,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 44.3,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 44.3,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 44.7,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 44.7,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 44.9,
         "spm": 22,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 44.9,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 45.0,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 45.3,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 45.4,
         "spm": 22,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 45.5,
         "spm": 22,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 45.8,
         "spm": 22,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 46.6,
         "spm": 22,
         "rank": 24,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 47.8,
         "spm": 22,
         "rank": 25,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 48.8,
         "spm": 22,
         "rank": 26,
@@ -5298,7 +5298,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 44.0,
     "bestSplit": 39.0,
     "worstSplit": 48.8,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 43.9,
     "portAvg": 44.1,
     "participantCount": 43
@@ -5310,56 +5310,56 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 42.2,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 44.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.3,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 46.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.7,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.0,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 47.1,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 47.5,
         "spm": 20,
         "rank": 8,
@@ -5373,63 +5373,63 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 47.8,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 48.1,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 48.1,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 48.2,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.6,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 48.6,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 48.6,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 50.0,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 51.2,
         "spm": 20,
         "rank": 18,
@@ -5438,168 +5438,168 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 42.5,
         "spm": 21,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.3,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.6,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 46.8,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 46.9,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 46.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 47.0,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.0,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 47.1,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 47.2,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.2,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 47.3,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 47.4,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.6,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 47.7,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.7,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.8,
         "spm": 21,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.2,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 48.4,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 48.4,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.5,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.5,
         "spm": 20,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 49.0,
         "spm": 20,
         "rank": 24,
@@ -5609,7 +5609,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.3,
     "bestSplit": 42.2,
     "worstSplit": 51.2,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 47.4,
     "portAvg": 47.2,
     "participantCount": 42
@@ -5621,84 +5621,84 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 37.3,
         "spm": 24,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 39.3,
         "spm": 24,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 39.5,
         "spm": 24,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 39.6,
         "spm": 24,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 40.0,
         "spm": 24,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 40.0,
         "spm": 24,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 40.5,
         "spm": 24,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 42.1,
         "spm": 24,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 42.6,
         "spm": 24,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 42.7,
         "spm": 24,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 43.0,
         "spm": 24,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 43.4,
         "spm": 24,
         "rank": 12,
@@ -5712,21 +5712,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 44.8,
         "spm": 24,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 45.6,
         "spm": 24,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 46.0,
         "spm": 24,
         "rank": 16,
@@ -5735,168 +5735,168 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 37.6,
         "spm": 24,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 39.5,
         "spm": 24,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 39.8,
         "spm": 24,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 40.3,
         "spm": 24,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 40.6,
         "spm": 24,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 40.8,
         "spm": 24,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 41.3,
         "spm": 24,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 41.7,
         "spm": 24,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 41.7,
         "spm": 24,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 41.8,
         "spm": 23,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 41.9,
         "spm": 24,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 42.1,
         "spm": 23,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 42.4,
         "spm": 24,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 43.0,
         "spm": 24,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 43.3,
         "spm": 24,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 43.4,
         "spm": 24,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 43.6,
         "spm": 24,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 43.6,
         "spm": 24,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 43.6,
         "spm": 24,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 43.8,
         "spm": 24,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 44.8,
         "spm": 24,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 44.8,
         "spm": 24,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 45.9,
         "spm": 24,
         "rank": 23,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 46.2,
         "spm": 24,
         "rank": 24,
@@ -5906,7 +5906,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 42.2,
     "bestSplit": 37.3,
     "worstSplit": 46.2,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 41.9,
     "portAvg": 42.4,
     "participantCount": 40
@@ -5918,105 +5918,105 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 45.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.7,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 46.4,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 46.6,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 47.0,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 47.2,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.2,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.8,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.8,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 48.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 48.3,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 48.4,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.4,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 48.5,
         "spm": 20,
         "rank": 15,
@@ -6030,7 +6030,7 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.3,
         "spm": 20,
         "rank": 17,
@@ -6039,161 +6039,161 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 43.9,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 45.8,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.8,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.9,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.9,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 47.0,
         "spm": 19,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 47.0,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.1,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 47.1,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.2,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 47.5,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 47.6,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 47.7,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 47.9,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 48.0,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.0,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 48.6,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 48.8,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 48.8,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.8,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 48.8,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.3,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 49.4,
         "spm": 20,
         "rank": 23,
@@ -6203,7 +6203,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.5,
     "bestSplit": 43.9,
     "worstSplit": 49.4,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 47.4,
     "portAvg": 47.6,
     "participantCount": 40
@@ -6215,133 +6215,133 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 33.4,
         "spm": 29,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 34.5,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 36.0,
         "spm": 30,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 36.1,
         "spm": 29,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 36.2,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 36.9,
         "spm": 30,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 37.0,
         "spm": 37,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 37.4,
         "spm": 28,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Morton",
+        "name": "Kwon",
         "split": 37.5,
         "spm": 28,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 37.6,
         "spm": 28,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 37.7,
         "spm": 28,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 37.9,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 37.9,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 38.8,
         "spm": 29,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 39.0,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 39.0,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 39.0,
         "spm": 28,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 39.3,
         "spm": 27,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 39.6,
         "spm": 28,
         "rank": 19,
@@ -6355,21 +6355,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 40.8,
         "spm": 27,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 41.6,
         "spm": 28,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 41.9,
         "spm": 27,
         "rank": 23,
@@ -6378,140 +6378,140 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 35.7,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 36.4,
         "spm": 29,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 36.9,
         "spm": 29,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 37.0,
         "spm": 28,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 38.0,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 38.0,
         "spm": 28,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 38.1,
         "spm": 30,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 38.4,
         "spm": 26,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 38.5,
         "spm": 27,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 38.6,
         "spm": 27,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 39.0,
         "spm": 31,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 39.1,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 39.1,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 39.2,
         "spm": 30,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 39.3,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 39.3,
         "spm": 29,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 39.5,
         "spm": 26,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 39.8,
         "spm": 27,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 40.1,
         "spm": 28,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 42.4,
         "spm": 28,
         "rank": 20,
@@ -6521,7 +6521,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 38.3,
     "bestSplit": 33.4,
     "worstSplit": 42.4,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 38.0,
     "portAvg": 38.6,
     "participantCount": 43
@@ -6533,105 +6533,105 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.1,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 44.2,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.5,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Ryan",
+        "name": "Webb",
         "split": 45.9,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.5,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.7,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.8,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 47.1,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 47.9,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 47.9,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 48.1,
         "spm": 21,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 48.2,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 48.3,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 48.5,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 48.5,
         "spm": 20,
         "rank": 15,
@@ -6645,21 +6645,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.9,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 49.1,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 999,
         "spm": 0,
         "rank": 19,
@@ -6668,154 +6668,154 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Kristensen",
+        "name": "Johansson",
         "split": 43.2,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 43.7,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 45.9,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.5,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 46.8,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 46.8,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 46.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 47.0,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.2,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.3,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.7,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.9,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 48.1,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 48.1,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 48.4,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 48.4,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.5,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.5,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 48.5,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 48.9,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 50.2,
         "spm": 20,
         "rank": 22,
@@ -6825,7 +6825,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.3,
     "bestSplit": 43.2,
     "worstSplit": 50.2,
-    "bestAthlete": "Kristensen",
+    "bestAthlete": "Johansson",
     "starboardAvg": 47.3,
     "portAvg": 47.4,
     "participantCount": 40
@@ -6837,98 +6837,98 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 33.6,
         "spm": 29,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 35.1,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 36.3,
         "spm": 28,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 36.4,
         "spm": 28,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 36.5,
         "spm": 30,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 36.7,
         "spm": 30,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 37.4,
         "spm": 28,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 37.5,
         "spm": 30,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 38.1,
         "spm": 28,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 38.5,
         "spm": 28,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 38.7,
         "spm": 27,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 39.0,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 39.1,
         "spm": 26,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 39.5,
         "spm": 27,
         "rank": 14,
@@ -6942,49 +6942,49 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 39.6,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 39.9,
         "spm": 28,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 40.3,
         "spm": 27,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 40.3,
         "spm": 28,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 41.4,
         "spm": 27,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 41.9,
         "spm": 28,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 42.8,
         "spm": 27,
         "rank": 22,
@@ -6993,147 +6993,147 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 35.1,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 36.6,
         "spm": 29,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 36.9,
         "spm": 28,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 37.0,
         "spm": 26,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 37.1,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 37.9,
         "spm": 28,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 38.4,
         "spm": 27,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 38.4,
         "spm": 27,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 38.5,
         "spm": 28,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 38.5,
         "spm": 29,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 38.9,
         "spm": 29,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 39.0,
         "spm": 28,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 39.0,
         "spm": 30,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 39.1,
         "spm": 28,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 39.3,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 39.3,
         "spm": 30,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 39.5,
         "spm": 27,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 39.6,
         "spm": 30,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 39.9,
         "spm": 30,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 40.0,
         "spm": 29,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 41.7,
         "spm": 27,
         "rank": 21,
@@ -7143,7 +7143,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 38.6,
     "bestSplit": 33.6,
     "worstSplit": 42.8,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 38.5,
     "portAvg": 38.6,
     "participantCount": 43
@@ -7155,119 +7155,119 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 43.6,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 43.6,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 43.8,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 44.1,
         "spm": 22,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 45.8,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 46.1,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 46.1,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 46.2,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 46.5,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 46.5,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.6,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.7,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 46.9,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.1,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.1,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 47.2,
         "spm": 21,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 47.5,
         "spm": 21,
         "rank": 17,
@@ -7281,21 +7281,21 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 47.8,
         "spm": 21,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.9,
         "spm": 22,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.4,
         "spm": 22,
         "rank": 21,
@@ -7304,140 +7304,140 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.8,
         "spm": 22,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 45.5,
         "spm": 22,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 45.6,
         "spm": 22,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 45.7,
         "spm": 21,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 45.9,
         "spm": 22,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.1,
         "spm": 22,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 46.2,
         "spm": 22,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 46.3,
         "spm": 22,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 46.3,
         "spm": 22,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 46.4,
         "spm": 22,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 46.5,
         "spm": 22,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 46.6,
         "spm": 22,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 46.6,
         "spm": 22,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.7,
         "spm": 22,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 46.8,
         "spm": 22,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.1,
         "spm": 22,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 47.2,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.3,
         "spm": 22,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 47.4,
         "spm": 22,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.0,
         "spm": 21,
         "rank": 20,
@@ -7447,7 +7447,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 46.4,
     "bestSplit": 43.6,
     "worstSplit": 48.4,
-    "bestAthlete": "Unold",
+    "bestAthlete": "Brandt",
     "starboardAvg": 46.3,
     "portAvg": 46.5,
     "participantCount": 41
@@ -7459,112 +7459,112 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 32.6,
         "spm": 30,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 34.0,
         "spm": 29,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 35.2,
         "spm": 29,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 35.4,
         "spm": 32,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 35.6,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 35.7,
         "spm": 30,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 36.8,
         "spm": 29,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 36.8,
         "spm": 30,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 37.3,
         "spm": 30,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 37.9,
         "spm": 27,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 38.2,
         "spm": 29,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 38.4,
         "spm": 27,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 38.5,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 38.6,
         "spm": 27,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 38.7,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 39.4,
         "spm": 28,
         "rank": 16,
@@ -7578,35 +7578,35 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 39.7,
         "spm": 28,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 40.3,
         "spm": 28,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 40.6,
         "spm": 27,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 41.1,
         "spm": 27,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 42.7,
         "spm": 27,
         "rank": 22,
@@ -7615,147 +7615,147 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 34.1,
         "spm": 29,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 35.7,
         "spm": 28,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 36.3,
         "spm": 29,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 36.7,
         "spm": 29,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 36.9,
         "spm": 28,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 37.2,
         "spm": 28,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 37.4,
         "spm": 31,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 37.8,
         "spm": 27,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 38.4,
         "spm": 29,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Arnold",
+        "name": "Mitchell",
         "split": 38.4,
         "spm": 31,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 38.5,
         "spm": 29,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 38.6,
         "spm": 27,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 38.8,
         "spm": 30,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 39.1,
         "spm": 29,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 39.5,
         "spm": 29,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 39.7,
         "spm": 29,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 39.8,
         "spm": 28,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Menzies",
+        "name": "Duval",
         "split": 40.5,
         "spm": 29,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 41.0,
         "spm": 28,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 41.5,
         "spm": 28,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 41.7,
         "spm": 28,
         "rank": 21,
@@ -7765,7 +7765,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 38.2,
     "bestSplit": 32.6,
     "worstSplit": 42.7,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 37.9,
     "portAvg": 38.5,
     "participantCount": 43
@@ -7777,77 +7777,77 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 37.8,
         "spm": 26,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 39.7,
         "spm": 26,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 40.0,
         "spm": 26,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 40.2,
         "spm": 28,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 40.4,
         "spm": 26,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 40.8,
         "spm": 28,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 40.9,
         "spm": 31,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 41.3,
         "spm": 28,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 42.3,
         "spm": 26,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 42.4,
         "spm": 25,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 42.7,
         "spm": 26,
         "rank": 11,
@@ -7861,49 +7861,49 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 43.1,
         "spm": 28,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 43.5,
         "spm": 26,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 43.9,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 43.9,
         "spm": 27,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 44.5,
         "spm": 27,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 44.6,
         "spm": 24,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 999,
         "spm": 0,
         "rank": 19,
@@ -7914,7 +7914,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 41.9,
     "bestSplit": 37.8,
     "worstSplit": 44.6,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 41.9,
     "portAvg": 0,
     "participantCount": 18
@@ -7926,77 +7926,77 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 43.4,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 45.5,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 45.6,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.7,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 45.9,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 46.1,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.3,
         "spm": 19,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 46.3,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 46.3,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 46.6,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.6,
         "spm": 20,
         "rank": 11,
@@ -8010,49 +8010,49 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.9,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.7,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 47.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 47.7,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.9,
         "spm": 21,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 49.5,
         "spm": 20,
         "rank": 19,
@@ -8061,161 +8061,161 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 44.8,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 45.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 45.6,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 45.7,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 45.7,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 46.3,
         "spm": 19,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 46.3,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 46.3,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.4,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 46.5,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 46.5,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 46.7,
         "spm": 19,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 47.4,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.4,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Kurth",
+        "name": "Sato",
         "split": 47.5,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.8,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 47.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 48.0,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 48.1,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 48.5,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.5,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 50.4,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 999,
         "spm": 0,
         "rank": 23,
@@ -8225,7 +8225,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 46.9,
     "bestSplit": 43.4,
     "worstSplit": 50.4,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 46.7,
     "portAvg": 47.0,
     "participantCount": 41
@@ -8237,35 +8237,35 @@ export const sessions: Session[] = [
     "workoutCategory": "steady_state",
     "starboard": [
       {
-        "name": "Phelps",
+        "name": "Chen",
         "split": 44.2,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 45.3,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.4,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 46.6,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Brahms",
+        "name": "Novak",
         "split": 46.6,
         "spm": 21,
         "rank": 5,
@@ -8279,91 +8279,91 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Unold",
+        "name": "Brandt",
         "split": 46.9,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Skinner",
+        "name": "Tran",
         "split": 46.9,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 47.1,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 47.1,
         "spm": 21,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 47.2,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 47.5,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 47.5,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 47.6,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 47.6,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 47.9,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 47.9,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 48.4,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 48.8,
         "spm": 21,
         "rank": 19,
@@ -8372,147 +8372,147 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 45.9,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 46.1,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 46.2,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 46.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 46.2,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.3,
         "spm": 21,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 46.6,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 46.8,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 46.8,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 47.3,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 47.4,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 47.4,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.5,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 47.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 47.7,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 47.8,
         "spm": 21,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 48.8,
         "spm": 21,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 48.8,
         "spm": 21,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.1,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 52.1,
         "spm": 20,
         "rank": 21,
@@ -8522,7 +8522,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 47.2,
     "bestSplit": 44.2,
     "worstSplit": 52.1,
-    "bestAthlete": "Phelps",
+    "bestAthlete": "Chen",
     "starboardAvg": 47.0,
     "portAvg": 47.3,
     "participantCount": 40
@@ -8534,56 +8534,56 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 45.5,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Waddell",
+        "name": "Payne",
         "split": 46.0,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 46.1,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 46.2,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 46.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 46.2,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 46.4,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 46.5,
         "spm": 21,
         "rank": 8,
@@ -8597,35 +8597,35 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 46.7,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 46.7,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 46.8,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 46.9,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 47.4,
         "spm": 20,
         "rank": 14,
@@ -8634,161 +8634,161 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 44.6,
         "spm": 20,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 44.7,
         "spm": 20,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Gold",
+        "name": "Park",
         "split": 44.8,
         "spm": 20,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 45.0,
         "spm": 20,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 45.2,
         "spm": 20,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 45.4,
         "spm": 20,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 45.5,
         "spm": 20,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 45.5,
         "spm": 20,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Heerding",
+        "name": "Bergman",
         "split": 46.0,
         "spm": 20,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Treger",
+        "name": "Klein",
         "split": 46.2,
         "spm": 20,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 46.4,
         "spm": 20,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Cameron",
+        "name": "Dalton",
         "split": 46.4,
         "spm": 20,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Hanson",
+        "name": "Fischer",
         "split": 46.6,
         "spm": 20,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 46.6,
         "spm": 20,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Holt",
+        "name": "Cruz",
         "split": 46.7,
         "spm": 20,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 46.9,
         "spm": 20,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 46.9,
         "spm": 20,
         "rank": 17,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 47.0,
         "spm": 20,
         "rank": 18,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 47.1,
         "spm": 20,
         "rank": 19,
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 47.6,
         "spm": 20,
         "rank": 20,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 49.0,
         "spm": 20,
         "rank": 21,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 49.1,
         "spm": 20,
         "rank": 22,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 50.7,
         "spm": 20,
         "rank": 23,
@@ -8798,7 +8798,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 46.5,
     "bestSplit": 44.6,
     "worstSplit": 50.7,
-    "bestAthlete": "Dedic",
+    "bestAthlete": "Keane",
     "starboardAvg": 46.4,
     "portAvg": 46.5,
     "participantCount": 37
@@ -8810,77 +8810,77 @@ export const sessions: Session[] = [
     "workoutCategory": "intervals",
     "starboard": [
       {
-        "name": "Manton",
+        "name": "Rivera",
         "split": 32.5,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Wolfaardt",
+        "name": "De Vries",
         "split": 33.3,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Pfautsch",
+        "name": "Eriksson",
         "split": 34.5,
         "spm": 27,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Moreno",
+        "name": "Lindqvist",
         "split": 34.6,
         "spm": 27,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Beale",
+        "name": "Foster",
         "split": 34.9,
         "spm": 27,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Gallagher",
+        "name": "Bennett",
         "split": 35.7,
         "spm": 27,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Luledzija",
+        "name": "Ibrahimi",
         "split": 35.8,
         "spm": 26,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "DiStefano",
+        "name": "O'Sullivan",
         "split": 36.0,
         "spm": 28,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Neil",
+        "name": "Hayes",
         "split": 36.4,
         "spm": 26,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Barbey",
+        "name": "Cho",
         "split": 36.4,
         "spm": 27,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Cecchini",
+        "name": "Petrov",
         "split": 37.1,
         "spm": 27,
         "rank": 11,
@@ -8894,35 +8894,35 @@ export const sessions: Session[] = [
         "dnf": false
       },
       {
-        "name": "Horvitz",
+        "name": "Lehmann",
         "split": 37.4,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Browning",
+        "name": "Reeves",
         "split": 37.5,
         "spm": 27,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Jorgensen",
+        "name": "Kowalski",
         "split": 37.8,
         "spm": 27,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Jett",
+        "name": "Malik",
         "split": 37.9,
         "spm": 26,
         "rank": 16,
         "dnf": false
       },
       {
-        "name": "Regen",
+        "name": "Bakker",
         "split": 39.0,
         "spm": 27,
         "rank": 17,
@@ -8931,112 +8931,112 @@ export const sessions: Session[] = [
     ],
     "port": [
       {
-        "name": "Baroni",
+        "name": "Hawkins",
         "split": 33.5,
         "spm": 28,
         "rank": 1,
         "dnf": false
       },
       {
-        "name": "Furrer",
+        "name": "Okafor",
         "split": 34.7,
         "spm": 27,
         "rank": 2,
         "dnf": false
       },
       {
-        "name": "Rodenburg",
+        "name": "Hartmann",
         "split": 34.9,
         "spm": 27,
         "rank": 3,
         "dnf": false
       },
       {
-        "name": "Dedic",
+        "name": "Keane",
         "split": 35.2,
         "spm": 26,
         "rank": 4,
         "dnf": false
       },
       {
-        "name": "Ferrera",
+        "name": "Tanaka",
         "split": 35.5,
         "spm": 27,
         "rank": 5,
         "dnf": false
       },
       {
-        "name": "Wojnovich",
+        "name": "Petrowski",
         "split": 35.8,
         "spm": 27,
         "rank": 6,
         "dnf": false
       },
       {
-        "name": "Van Doren",
+        "name": "Van Berg",
         "split": 36.4,
         "spm": 27,
         "rank": 7,
         "dnf": false
       },
       {
-        "name": "Koudraiev",
+        "name": "Romanov",
         "split": 36.5,
         "spm": 27,
         "rank": 8,
         "dnf": false
       },
       {
-        "name": "Spira",
+        "name": "Volkov",
         "split": 37.2,
         "spm": 27,
         "rank": 9,
         "dnf": false
       },
       {
-        "name": "Morreau",
+        "name": "Delacroix",
         "split": 37.5,
         "spm": 26,
         "rank": 10,
         "dnf": false
       },
       {
-        "name": "Bottomley",
+        "name": "Thornton",
         "split": 37.5,
         "spm": 27,
         "rank": 11,
         "dnf": false
       },
       {
-        "name": "Weiss",
+        "name": "Lim",
         "split": 37.6,
         "spm": 29,
         "rank": 12,
         "dnf": false
       },
       {
-        "name": "Wright",
+        "name": "Jensen",
         "split": 37.7,
         "spm": 27,
         "rank": 13,
         "dnf": false
       },
       {
-        "name": "Enders",
+        "name": "Larsson",
         "split": 39.3,
         "spm": 27,
         "rank": 14,
         "dnf": false
       },
       {
-        "name": "Banovic",
+        "name": "Santos",
         "split": 39.8,
         "spm": 26,
         "rank": 15,
         "dnf": false
       },
       {
-        "name": "Walker",
+        "name": "Torres",
         "split": 40.6,
         "spm": 27,
         "rank": 16,
@@ -9046,7 +9046,7 @@ export const sessions: Session[] = [
     "teamAvgSplit": 36.5,
     "bestSplit": 32.5,
     "worstSplit": 40.6,
-    "bestAthlete": "Manton",
+    "bestAthlete": "Rivera",
     "starboardAvg": 36.1,
     "portAvg": 36.9,
     "participantCount": 33
@@ -9055,8 +9055,8 @@ export const sessions: Session[] = [
 
 export const athletes: Athlete[] = [
   {
-    "id": "phelps",
-    "name": "Phelps",
+    "id": "chen",
+    "name": "Chen",
     "group": "S",
     "rank": 1,
     "avgSplit": 41.1,
@@ -9446,8 +9446,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "wolfaardt",
-    "name": "Wolfaardt",
+    "id": "de-vries",
+    "name": "De Vries",
     "group": "S",
     "rank": 2,
     "avgSplit": 41.7,
@@ -9687,8 +9687,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "kristensen",
-    "name": "Kristensen",
+    "id": "johansson",
+    "name": "Johansson",
     "group": "P",
     "rank": 3,
     "avgSplit": 42.6,
@@ -9943,8 +9943,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "pfautsch",
-    "name": "Pfautsch",
+    "id": "eriksson",
+    "name": "Eriksson",
     "group": "S",
     "rank": 4,
     "avgSplit": 42.9,
@@ -10334,8 +10334,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "neil",
-    "name": "Neil",
+    "id": "hayes",
+    "name": "Hayes",
     "group": "S",
     "rank": 5,
     "avgSplit": 43.1,
@@ -10575,8 +10575,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "beale",
-    "name": "Beale",
+    "id": "foster",
+    "name": "Foster",
     "group": "S",
     "rank": 6,
     "avgSplit": 43.2,
@@ -10996,8 +10996,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "gold",
-    "name": "Gold",
+    "id": "park",
+    "name": "Park",
     "group": "P",
     "rank": 7,
     "avgSplit": 43.3,
@@ -11387,8 +11387,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "manton",
-    "name": "Manton",
+    "id": "rivera",
+    "name": "Rivera",
     "group": "S",
     "rank": 8,
     "avgSplit": 43.4,
@@ -11808,8 +11808,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "rodenburg",
-    "name": "Rodenburg",
+    "id": "hartmann",
+    "name": "Hartmann",
     "group": "P",
     "rank": 9,
     "avgSplit": 43.9,
@@ -12214,8 +12214,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "unold",
-    "name": "Unold",
+    "id": "brandt",
+    "name": "Brandt",
     "group": "S",
     "rank": 10,
     "avgSplit": 44.0,
@@ -12575,8 +12575,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "baroni",
-    "name": "Baroni",
+    "id": "hawkins",
+    "name": "Hawkins",
     "group": "P",
     "rank": 11,
     "avgSplit": 44.1,
@@ -12921,8 +12921,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "furrer",
-    "name": "Furrer",
+    "id": "okafor",
+    "name": "Okafor",
     "group": "P",
     "rank": 12,
     "avgSplit": 44.2,
@@ -13312,8 +13312,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "brahms",
-    "name": "Brahms",
+    "id": "novak",
+    "name": "Novak",
     "group": "S",
     "rank": 13,
     "avgSplit": 44.5,
@@ -13658,8 +13658,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "ryan",
-    "name": "Ryan",
+    "id": "webb",
+    "name": "Webb",
     "group": "S",
     "rank": 14,
     "avgSplit": 44.9,
@@ -13959,8 +13959,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "ferrera",
-    "name": "Ferrera",
+    "id": "tanaka",
+    "name": "Tanaka",
     "group": "P",
     "rank": 15,
     "avgSplit": 44.9,
@@ -14350,8 +14350,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "heerding",
-    "name": "Heerding",
+    "id": "bergman",
+    "name": "Bergman",
     "group": "P",
     "rank": 16,
     "avgSplit": 44.9,
@@ -14741,8 +14741,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "van-doren",
-    "name": "Van Doren",
+    "id": "van-berg",
+    "name": "Van Berg",
     "group": "P",
     "rank": 17,
     "avgSplit": 45.0,
@@ -15132,8 +15132,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "dedic",
-    "name": "Dedic",
+    "id": "keane",
+    "name": "Keane",
     "group": "P",
     "rank": 18,
     "avgSplit": 45.0,
@@ -15523,8 +15523,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "barbey",
-    "name": "Barbey",
+    "id": "cho",
+    "name": "Cho",
     "group": "S",
     "rank": 19,
     "avgSplit": 45.1,
@@ -15929,8 +15929,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "gallagher",
-    "name": "Gallagher",
+    "id": "bennett",
+    "name": "Bennett",
     "group": "S",
     "rank": 20,
     "avgSplit": 45.1,
@@ -16350,8 +16350,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "holt",
-    "name": "Holt",
+    "id": "cruz",
+    "name": "Cruz",
     "group": "P",
     "rank": 21,
     "avgSplit": 45.1,
@@ -16606,8 +16606,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "horvitz",
-    "name": "Horvitz",
+    "id": "lehmann",
+    "name": "Lehmann",
     "group": "P",
     "rank": 22,
     "avgSplit": 45.1,
@@ -16967,8 +16967,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "moreno",
-    "name": "Moreno",
+    "id": "lindqvist",
+    "name": "Lindqvist",
     "group": "S",
     "rank": 23,
     "avgSplit": 45.2,
@@ -17373,8 +17373,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "koudraiev",
-    "name": "Koudraiev",
+    "id": "romanov",
+    "name": "Romanov",
     "group": "P",
     "rank": 24,
     "avgSplit": 45.3,
@@ -17779,8 +17779,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "treger",
-    "name": "Treger",
+    "id": "klein",
+    "name": "Klein",
     "group": "S",
     "rank": 25,
     "avgSplit": 45.3,
@@ -18170,8 +18170,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "wright",
-    "name": "Wright",
+    "id": "jensen",
+    "name": "Jensen",
     "group": "P",
     "rank": 26,
     "avgSplit": 45.3,
@@ -18531,8 +18531,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "arnold",
-    "name": "Arnold",
+    "id": "mitchell",
+    "name": "Mitchell",
     "group": "P",
     "rank": 27,
     "avgSplit": 45.3,
@@ -18802,8 +18802,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "skinner",
-    "name": "Skinner",
+    "id": "tran",
+    "name": "Tran",
     "group": "S",
     "rank": 28,
     "avgSplit": 45.4,
@@ -19133,8 +19133,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "morreau",
-    "name": "Morreau",
+    "id": "delacroix",
+    "name": "Delacroix",
     "group": "P",
     "rank": 29,
     "avgSplit": 45.4,
@@ -19434,8 +19434,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "waddell",
-    "name": "Waddell",
+    "id": "payne",
+    "name": "Payne",
     "group": "S",
     "rank": 30,
     "avgSplit": 45.5,
@@ -19795,8 +19795,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "menzies",
-    "name": "Menzies",
+    "id": "duval",
+    "name": "Duval",
     "group": "P",
     "rank": 31,
     "avgSplit": 45.5,
@@ -20502,8 +20502,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "luledzija",
-    "name": "Luledzija",
+    "id": "ibrahimi",
+    "name": "Ibrahimi",
     "group": "S",
     "rank": 33,
     "avgSplit": 45.7,
@@ -20878,8 +20878,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "hanson",
-    "name": "Hanson",
+    "id": "fischer",
+    "name": "Fischer",
     "group": "P",
     "rank": 34,
     "avgSplit": 45.7,
@@ -21254,8 +21254,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "spira",
-    "name": "Spira",
+    "id": "volkov",
+    "name": "Volkov",
     "group": "P",
     "rank": 35,
     "avgSplit": 45.8,
@@ -21660,8 +21660,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "cameron",
-    "name": "Cameron",
+    "id": "dalton",
+    "name": "Dalton",
     "group": "P",
     "rank": 36,
     "avgSplit": 45.8,
@@ -21961,8 +21961,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "kurth",
-    "name": "Kurth",
+    "id": "sato",
+    "name": "Sato",
     "group": "P",
     "rank": 37,
     "avgSplit": 45.8,
@@ -22292,8 +22292,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "cecchini",
-    "name": "Cecchini",
+    "id": "petrov",
+    "name": "Petrov",
     "group": "S",
     "rank": 38,
     "avgSplit": 45.9,
@@ -22608,8 +22608,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "distefano",
-    "name": "DiStefano",
+    "id": "osullivan",
+    "name": "O'Sullivan",
     "group": "S",
     "rank": 39,
     "avgSplit": 46.0,
@@ -22969,8 +22969,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "regen",
-    "name": "Regen",
+    "id": "bakker",
+    "name": "Bakker",
     "group": "S",
     "rank": 40,
     "avgSplit": 46.0,
@@ -23300,8 +23300,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "morton",
-    "name": "Morton",
+    "id": "kwon",
+    "name": "Kwon",
     "group": "S",
     "rank": 41,
     "avgSplit": 46.1,
@@ -23496,8 +23496,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "bottomley",
-    "name": "Bottomley",
+    "id": "thornton",
+    "name": "Thornton",
     "group": "P",
     "rank": 42,
     "avgSplit": 46.1,
@@ -23902,8 +23902,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "jett",
-    "name": "Jett",
+    "id": "malik",
+    "name": "Malik",
     "group": "P",
     "rank": 43,
     "avgSplit": 46.2,
@@ -24308,8 +24308,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "wojnovich",
-    "name": "Wojnovich",
+    "id": "petrowski",
+    "name": "Petrowski",
     "group": "P",
     "rank": 44,
     "avgSplit": 46.2,
@@ -24714,8 +24714,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "jorgensen",
-    "name": "Jorgensen",
+    "id": "kowalski",
+    "name": "Kowalski",
     "group": "S",
     "rank": 45,
     "avgSplit": 46.4,
@@ -25090,8 +25090,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "siemering",
-    "name": "Siemering",
+    "id": "magnusson",
+    "name": "Magnusson",
     "group": "S",
     "rank": 46,
     "avgSplit": 46.7,
@@ -25196,8 +25196,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "weiss",
-    "name": "Weiss",
+    "id": "lim",
+    "name": "Lim",
     "group": "P",
     "rank": 47,
     "avgSplit": 46.8,
@@ -25602,8 +25602,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "browning",
-    "name": "Browning",
+    "id": "reeves",
+    "name": "Reeves",
     "group": "S",
     "rank": 48,
     "avgSplit": 47.2,
@@ -25993,8 +25993,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "bradbery",
-    "name": "Bradbery",
+    "id": "callahan",
+    "name": "Callahan",
     "group": "P",
     "rank": 49,
     "avgSplit": 47.5,
@@ -26069,8 +26069,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "enders",
-    "name": "Enders",
+    "id": "larsson",
+    "name": "Larsson",
     "group": "P",
     "rank": 50,
     "avgSplit": 47.6,
@@ -26475,8 +26475,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "banovic",
-    "name": "Banovic",
+    "id": "santos",
+    "name": "Santos",
     "group": "S",
     "rank": 51,
     "avgSplit": 47.8,
@@ -26656,8 +26656,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "walker",
-    "name": "Walker",
+    "id": "torres",
+    "name": "Torres",
     "group": "P",
     "rank": 52,
     "avgSplit": 47.9,
@@ -27032,8 +27032,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "bird",
-    "name": "Bird",
+    "id": "nakamura",
+    "name": "Nakamura",
     "group": "P",
     "rank": 53,
     "avgSplit": 48.9,
@@ -27108,8 +27108,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "derks",
-    "name": "Derks",
+    "id": "varga",
+    "name": "Varga",
     "group": "P",
     "rank": 54,
     "avgSplit": 49.4,
@@ -27154,8 +27154,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "greenberg",
-    "name": "Greenberg",
+    "id": "andersen",
+    "name": "Andersen",
     "group": "P",
     "rank": 55,
     "avgSplit": 49.6,
@@ -27215,8 +27215,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "reid",
-    "name": "Reid",
+    "id": "nolan",
+    "name": "Nolan",
     "group": "P",
     "rank": 56,
     "avgSplit": 51.0,
@@ -27276,8 +27276,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "gibor",
-    "name": "Gibor",
+    "id": "ruiz",
+    "name": "Ruiz",
     "group": "P",
     "rank": 57,
     "avgSplit": 51.0,
@@ -27367,8 +27367,8 @@ export const athletes: Athlete[] = [
     ]
   },
   {
-    "id": "mackinney",
-    "name": "MacKinney",
+    "id": "obrien",
+    "name": "O'Brien",
     "group": "P",
     "rank": 58,
     "avgSplit": 52.9,

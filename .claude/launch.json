@@ -24,6 +24,12 @@
       "runtimeExecutable": "/bin/bash",
       "runtimeArgs": ["-c", "export NVM_DIR=\"$HOME/.nvm\" && . \"$NVM_DIR/nvm.sh\" && cd /Users/abishaigeorgegosula/rowIQ/v3-timeline-explorer && npx vite --host --port 4177"],
       "port": 4177
+    },
+    {
+      "name": "women-dashboard",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export NVM_DIR=\"$HOME/.nvm\" && . \"$NVM_DIR/nvm.sh\" && cd /Users/abishaigeorgegosula/rowIQ/rowIQ_women_dashboard && npx vite --host --port 5174"],
+      "port": 5174
     }
   ]
 }
