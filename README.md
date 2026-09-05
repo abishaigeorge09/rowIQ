@@ -3,6 +3,11 @@
 Three dashboard prototypes for visualizing rowing erg performance data, plus a
 password-gated showcase wrapper for sharing them.
 
+**How this differs from [CalRowing](https://github.com/abishaigeorge09/calrowing):** this repo
+is UI/visualization exploration for individual erg data (splits, trends, comparisons).
+CalRowing is the full team-operations app — training plans, wellness check-ins, rosters, and
+messaging for a whole squad. Different scope, same sport.
+
 ## What's here
 
 - `erg-dashboard` — baseline performance dashboard prototype
